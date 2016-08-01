@@ -12,7 +12,10 @@ include('../lib/main-header.php');
 include('../lib/generator-header.php');
 
 ?>
-<head><title>Template & Calculator Generator - SOAPnote.org</title></head>
+<head>
+<title>Template & Calculator Generator - SOAPnote.org</title>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+</head>
 <ul class="breadcrumb">
 	<li><a href="/">Home</a></li>
 	<li class="active">Form Generator</li>
