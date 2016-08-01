@@ -1,0 +1,128 @@
+notresp.navbar .nav .my-nav-menu-search {
+    float: right
+}
+
+.notresp.navbar .nav {
+    width: 100%
+}
+
+h1 {
+    font-family: "Courier New", Courier, monospace
+}
+
+.form-content {
+    position: relative;
+    background: none repeat scroll 0 0 #f5f7f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0px 0 40px;
+    clear: both
+}
+
+.form-content>div {
+    display: none
+}
+
+.form-content>div.active {
+    display: block
+}
+
+.form-view-content .hidden {
+    display: none
+}
+
+.form-view-content .soapnote_submit {
+    display: block;
+    margin: 1.5em 0
+}
+
+.form-view-content .calc_value {
+    display: none
+}
+
+.form-view-content .memo {
+    background: #ccebcc;
+    border: 1px dotted #999;
+    font-style: italic;
+    font-size: 12px
+}
+
+.form-view-content .var,
+.form-view-content .calc {
+    background: #ccebcc;
+    border: 1px dotted #999;
+    font-style: italic;
+    font-size: 12px
+}
+
+.form-view-content .comment {
+    background: #ccebcc;
+    border: 1px dotted #999;
+    font-style: italic;
+    font-size: 12px
+}
+
+.form-view-content input,
+.form-view-content textarea,
+.form-view-content select {
+    margin-bottom: .3em
+}
+
+.form-view-content textarea {
+    vertical-align: top
+}
+
+.form-view-content .checkbox label,
+.form-view-content .radio label {
+    display: block;
+    white-space: nowrap
+}
+
+.form-view-content .checkbox .help,
+.form-view-content .radio .help {
+    margin-left: 0
+}
+
+.soapnote_result_container textarea.soapnote_result {
+    display: block;
+    max-width: 100%;
+    resize: vertical;
+    vertical-align: top;
+    width: 100%;
+    height: 400px
+}
+
+.soapnote_result_container {
+    width: 90%;
+    max-width: 100%
+}
+
+form {
+    margin: 0 0 0px
+}
+
+.assistive-text {
+    display: none
+}
+
+select,
+input[type="text"] {
+    min-width: 210px;
+    width: auto
+}
+
+a:link {
+    color: #00f
+}
+
+a:visited {
+    color: #369
+}
+
+a:hover {
+    color: #039
+}
+
+a:active {
+    color: #3c3
+}
