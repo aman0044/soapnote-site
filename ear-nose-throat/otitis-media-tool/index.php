@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/ear-nose-throat/">Otolaryngology</a></li>
-  <li class="active">Here</li>
+  <li class="active">Acute Otitis Media Decision Tool</li>
 </ol>
 
 <div id="container" class="container">

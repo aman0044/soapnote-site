@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/ear-nose-throat/">Otolaryngology</a></li>
-  <li class="active">Here</li>
+  <li class="active">Adapted Centor Score for Streptococcal Pharyngitis</li>
 </ol>
 
 <div id="container" class="container">
