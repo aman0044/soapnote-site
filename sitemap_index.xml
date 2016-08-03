@@ -13,6 +13,10 @@
     <loc>http://www.soapnote.org</loc>
 </url>
 <url>
+    <loc>http://www.soapnote.org/lib/site-style.css</loc>
+    <lastmod>2016-08-03T04:40:51-05:00</lastmod>
+</url>
+<url>
     <loc>http://www.soapnote.org/</loc>
 </url>
 <url>
@@ -97,73 +101,70 @@
     <loc>http://www.soapnote.org/complete-note/</loc>
 </url>
 <url>
+    <loc>http://www.soapnote.org/alphabetical/</loc>
+</url>
+<url>
     <loc>http://www.soapnote.org/lingo/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/generator/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/goodness/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/suggest/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/help/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/abdominal-exam/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/bmi-calc/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/abdominal-pain-history/</loc>
+    <loc>http://www.soapnote.org/cardiovascular/dm-cardiac-risk/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/bard/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/child-pugh-score/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/dm-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-medications/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-exam/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diet-plans/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/endocrine-metabolic/dietary-fiber-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/diverticulitis-decision-rule/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/gastric-bypass-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/dyspepsia-eval/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/insulin-correction/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-plan/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/sliding-scale/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/thyroid-function-tests/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history-2/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/long-acting-insulin-self-3-3/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/gerdq/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/obesity-basic-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/digestive-system/gi-bleeding-hx/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/bariatric-risk/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/infectious/hepatitis-b-chronic/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/hyperthyroidism-calc/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/infectious/hepatitis-b-screening/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/digestive-system/rome-ibs/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/digestive-system/mannheim-peritonitis-index/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/digestive-system/meld/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/digestive-system/rockall-gi-bleed/</loc>
+    <loc>http://www.soapnote.org/endocrine-metabolic/thyroiditis-calculator/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/skin/acne-plan/</loc>
@@ -209,102 +210,6 @@
 </url>
 <url>
     <loc>http://www.soapnote.org/skin/wart-plan/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/bmi-calc/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/cardiovascular/dm-cardiac-risk/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-plan/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/dm-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-medications/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-plan/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-exam/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/diet-plans/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/gastric-bypass-plan/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/insulin-correction/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/sliding-scale/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/thyroid-function-tests/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/long-acting-insulin-self-3-3/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/obesity-basic-plan/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/bariatric-risk/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/hyperthyroidism-calc/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/endocrine-metabolic/thyroiditis-calculator/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/acute-adult-physical-exams/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/adult-chronic-exams/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/care-management/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/concomitant-review-form/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/general-exam/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/differential-diagnosis/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/direct-admission/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/e-m-established/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/e-m-new/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/emtala-checklist/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/emergency-room-chart-review/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/fever-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/general-adult-physical-exams/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/general/health-risk/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/cardiovascular/aaa-prognosis-surveillance/</loc>
@@ -433,6 +338,48 @@
     <loc>http://www.soapnote.org/cardiovascular/target-heart-rate/</loc>
 </url>
 <url>
+    <loc>http://www.soapnote.org/general/acute-adult-physical-exams/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/adult-chronic-exams/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/care-management/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/concomitant-review-form/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/general-exam/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/differential-diagnosis/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/direct-admission/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/e-m-established/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/e-m-new/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/emtala-checklist/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/emergency-room-chart-review/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/fever-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/general-adult-physical-exams/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/health-risk/</loc>
+</url>
+<url>
     <loc>http://www.soapnote.org/general/history-of-present-illness/</loc>
 </url>
 <url>
@@ -481,64 +428,55 @@
     <loc>http://www.soapnote.org/general/travel-diarrhea-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/breast-exam/</loc>
+    <loc>http://www.soapnote.org/digestive-system/abdominal-exam/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/contraception-plan/</loc>
+    <loc>http://www.soapnote.org/digestive-system/abdominal-pain-history/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/contraception-quick-start/</loc>
+    <loc>http://www.soapnote.org/digestive-system/bard/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/contraceptive-management/</loc>
+    <loc>http://www.soapnote.org/digestive-system/child-pugh-score/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/dysmenorrhea-plan/</loc>
+    <loc>http://www.soapnote.org/digestive-system/diverticulitis-decision-rule/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/emergency-contraception-plan/</loc>
+    <loc>http://www.soapnote.org/digestive-system/dyspepsia-eval/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/female-exam/</loc>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-plan/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/female-genitourinary-hx/</loc>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/female-ros/</loc>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history-2/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/diagnosis-of-incontinence/</loc>
+    <loc>http://www.soapnote.org/digestive-system/gerdq/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/initiating-contraception/</loc>
+    <loc>http://www.soapnote.org/digestive-system/gi-bleeding-hx/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/initiating-contraception-plan/</loc>
+    <loc>http://www.soapnote.org/infectious/hepatitis-b-chronic/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/osteoporosis-score/</loc>
+    <loc>http://www.soapnote.org/infectious/hepatitis-b-screening/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/osteoporosis-self-assessment-tool/</loc>
+    <loc>http://www.soapnote.org/digestive-system/rome-ibs/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/switch-birth-control/</loc>
+    <loc>http://www.soapnote.org/digestive-system/mannheim-peritonitis-index/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/uti-plan/</loc>
+    <loc>http://www.soapnote.org/digestive-system/meld/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/women/uti-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/women/vaginitis-exam/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/women/vaginitis-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/women/vaginitis-plan/</loc>
+    <loc>http://www.soapnote.org/digestive-system/rockall-gi-bleed/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/elder-care/barthel-adl/</loc>
@@ -614,6 +552,66 @@
 </url>
 <url>
     <loc>http://www.soapnote.org/elder-care/zarit-caregiver-burden/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/breast-exam/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraception-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraception-quick-start/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraceptive-management/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/dysmenorrhea-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/emergency-contraception-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-exam/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-genitourinary-hx/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-ros/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/diagnosis-of-incontinence/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/initiating-contraception/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/initiating-contraception-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/osteoporosis-score/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/osteoporosis-self-assessment-tool/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/switch-birth-control/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/uti-plan/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/uti-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-exam/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-plan/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/blood-lymph/anemia-evalulation/</loc>
@@ -884,6 +882,9 @@
 </url>
 <url>
     <loc>http://www.soapnote.org/neurological/dizziness-history/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/gcs/</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/neurological/headache-hx/</loc>
@@ -1306,16 +1307,1202 @@
     <loc>http://www.soapnote.org/sample/version-A-version-B/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/lib/bootstrap-file-dialog/bootstrap.fd.scss</loc>
-    <lastmod>2015-10-26T01:11:32-05:00</lastmod>
+    <loc>http://www.soapnote.org/musculoskeletal/chronic-inflammatory-polyarthritis/</loc>
 </url>
 <url>
-    <loc>http://www.soapnote.org/lib/bootstrap-file-dialog/bootstrap.fd.css</loc>
-    <lastmod>2015-10-26T01:11:32-05:00</lastmod>
+    <loc>http://www.soapnote.org/musculoskeletal/2013-ssc-criteria/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/gujarati-phq-9/</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/1-week-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/1-week-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/11-to-14-year-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/11-to-18-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/12-month-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/12-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/15-month-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/15-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/2-month-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/2-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/2-to-6-year-prevention-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/2-year-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/2-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/3-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/4-month-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/4-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/4-year-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/4-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/5-year-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/5-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/6-month-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/6-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/6-to-10-year-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/6-to-10-year-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/9-month-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/aaa-prognosis-surveillance/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/abdominal-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/abdominal-pain-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/acne-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/barthel-adl/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/grace-mortality-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/rouan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/asrs-adhd/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/conners-history-adhd/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/adhd-criteria/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/katz-adl/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/acute-adult-physical-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/adult-chronic-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/general-adult-physical-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/cage-questionnaire/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/short-alcohol-withdrawal-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/audit/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/allergic-rhinitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/allergic-rhinitis-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/aloc-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/anemia-evalulation/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/singh-risk-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/ottawa-ankle-and-foot-rules/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/ankle-sprain-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/coumadin-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/outpatient-bleeding-risk-index-obri/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/atypical-antipsychotic-monitor/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/zung-anxiety-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/articular-vs-nonarticular/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/inflammatory-vs-noninflammatory/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/spondyloarthropathy/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/arthritis-tests/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/assault-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/predicted-peak-flow/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/asthma-control/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/asthma-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/asthma-severity/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/asthma-control-questions/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/atopic-dermatitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/accp-stroke-risk-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chads2/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chads2-vasc/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/has-bled/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/back-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/back-pain-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/back-pain-s-o/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/waddells-signs/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/acute-bacterial-rhinosinusitis/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/bite-wound-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/bmi-calc/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/breast-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/bronchitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/bronchitis-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/burn-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/burn-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/canadian-c-spine-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/nexus-c-spine-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/capacity/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/framingham/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/detskys-risk-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/eagle-cardiac-risk-assessment/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/fleisher-eagle-algorithm/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/global-risk-assessment-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/lee-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/timi-risk-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/dm-cardiac-risk/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/cardiovascular-examination/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/cardiovascular-exam-peds/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/cardio-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/care-management/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/zarit-caregiver-burden/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/carpal-tunnel-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/casting-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/cardiac-chest-pain-decision-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chest-pain-decision-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/goldman-chest-pain/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chest-pain-evaluation/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chest-pain-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/claudication-questionnaire/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/cognitive-problems-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/charlson-comorbidity-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/jobst-prescription/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/concomitant-review-form/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/confusion-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/acute-confusion-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/initiating-contraception/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/initiating-contraception-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/emergency-contraception-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/switch-birth-control/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraception-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraception-quick-start/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/contraceptive-management/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/bode-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/bap-65/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/copd-screening-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/stress-testing-chd/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/cough-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/cough-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/croup-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/croup-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/delirium-predictive-model/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/delirium-risk-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/cornell-scale-for-depression-in-dementia/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/mini-cog-screen-for-dementia/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/modified-hachinski-score-for-vascular-dementia/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/patient-health-questionnaire-phq-9-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/gujarati-phq-9/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/depression-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/dm-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetes-medications/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diabetic-foot-ulcer-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/diet-plans/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/dietary-fiber-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/differential-diagnosis/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/direct-admission/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/oswestry-disability-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/faq5-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/diverticulitis-decision-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/dizziness-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/dast-10/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/wells-dvt/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/dysmenorrhea-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/dyspepsia-eval/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/dyspnea-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/e-m-established/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/e-m-new/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/ent-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/eczema-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/emtala-checklist/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/emergency-room-chart-review/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/epidermal-cyst-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/men/erectile-function/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/extremity-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/eye/eye-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/fall-or-syncopal-episode-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/fabq/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-genitourinary-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/female-ros/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/fht-interpretation/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/yale-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/fever-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/fever-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/fever-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/fever-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/fibromyalgia-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/functional-ability-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/functional-activities-questionnaire/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/fussiness-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/gastric-bypass-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/gastroenteritis-history-2/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/general-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/generalized-anxiety-disorder-gad-7/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/gerdq/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/geriatric-comprehensive-assessment-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/geriatric-depression-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/rockall-gi-bleed/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/gi-bleeding-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/gcs/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/gout-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/hammertoe-procedure/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/head-injury-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/headache-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/health-maintenance-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/maintenance/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/health-maintenance-visit/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/health-risk/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/hearing-handicap-inventory/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/framingham-heart-failure-criteria/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/loop-diuretic-sliding-scale-for-systolic-heart-failure/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/chf-mortality/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/heparin-induced-thrombocytopenia/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/hepatitis-b-chronic/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/hepatitis-b-screening/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/history-of-present-illness/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/hospital-bed-checklist/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/hyperlipidemia-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/secondary-hypertension/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/htn-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/hyperthyroidism-calc/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/diagnosis-of-incontinence/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/influenza-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/influenza-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/ingrown-toenail/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/injury-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/inpatient-chart-review/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/insomnia-treatment-checklist/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/long-acting-insulin-self-3-3/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/insulin-correction/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/sliding-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/iqcode/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/rome-ibs/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/large-joint-injection/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/joint-injection/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/kidney/cockcroft-gault/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/kidney/mdrd-gfr/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/kidney/ckd-dm/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/ottawa-knee-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/pittsburgh-knee-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/knee-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/laceration-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/lead-screening/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/life-events-checklist/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/bard/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/child-pugh-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/meld/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/low-back-pain-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/lower-back-pain-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/low-back-pain-red-flags/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/lower-extremity-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/lumbar-spinal-stenosis-dx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/lumbosacral-spine-examination-detailed/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/lung-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/men/male-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/men/male-gme/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/men/urinary-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/maternity-admission-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/maternity-dismissal-summary/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/maternity-progress-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/maternity-labor-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/medicare-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/bims/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/mental-status-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/slums/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/migraine-headache-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/military-intake-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/modified-early-warning-system/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/mood-disorder-questionnaire/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/morbidity-and-mortality-review/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/flacker-mortality-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/mva-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/mri-ct-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/multi-axial-assessment/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/multiple-sclerosis-diagnosis/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/musculoskeletal-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/neck-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/acute-neuro-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/neuro-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/newborn-admission-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/newborn-dismissal-warnings/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/newborn-dismissal-summary/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/newborn-progress-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/nursing-prenatal-visit/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/elder-care/nutritional-checklist/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/obesity-basic-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/bariatric-risk/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/osteoporosis-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/osteoporosis-self-assessment-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/otitis-media-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/otitis-media-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/otitis-media-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/outpatient-chart-review/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/dire-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/opioid-risk-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/personal-care-plan-for-chronic-pain/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/pain-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/pain-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/palpitations-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/panic-severity/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/pediatric-early-warning-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/pediatric-physical-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/acute-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/child-health/general-exams/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/peripheral-neuropathy-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/digestive-system/mannheim-peritonitis-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/adapted-centor-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/feverpain/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/sore-throat-complete-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/pitted-keratolysis/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/plantar-fasciitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/curb-65-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/diehr-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/pneumonia-severity-index/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/polymyalgia-rheumatica-healey/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/pame-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/wheel-backwards/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/wheel/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/pregnancy/preg-symptoms/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/preoperative-note/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/preorder/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/procedural-pause/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/men/prostate-symptom-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/bathe-technique/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/ptsd-screen/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/wells-pe/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/perc/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/pesi/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/punch-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/rash-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/rash-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/rash-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/readiness-to-learn/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/ra-likelihood/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/2010-ra-criteria/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/rotator-cuff-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/boilerplate/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/calculation/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/check-boxes/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/memo/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/conditional-comparison/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/conditional/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/date/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/drop-down/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/exponent/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/footnotes/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/html/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/interpreted-computation/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/link/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/mark/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/natural-log/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/radio-buttons/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/simple-computations/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/small-medium-large/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/stuart-smalley-quiz/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/text-box/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/textarea-with-linefeed/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/two-lines-between-two-text-boxes/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/sample/version-A-version-B/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/scabies-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/scabies-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/seizure-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/shave-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/shoulder-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/shoulder-exam-detailed/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/sinusitis-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/tag-shave-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/epworth-sleepiness-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/respiratory/stop-bang/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/stages-of-change/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/strep-throat-decision-tool/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/nih-stroke-scale/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/abcd2/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/eye/stye-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/neurological/ottawa-sah-rule/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/mental-health/suicide-behaviors-questionnaire/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/oesil-risk-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/rose-risk-score/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/syncope-prognosis-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/dx-sle/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/2013-ssc-criteria/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/cardiovascular/target-heart-rate/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/thyroid-function-tests/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/endocrine-metabolic/thyroiditis-calculator/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/ear-nose-throat/tmj-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/travel-counseling-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/travel-counseling-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/general/travel-diarrhea-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/musculoskeletal/upper-back-pain-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/upper-extremity-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/uri-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/uri-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/uti-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/uti-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/vaccine-allergy-assessment/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-exam/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/women/vaginitis-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/varicella-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/varicella-history/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/infectious/viral-infection-hx/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/blood-lymph/vte-risk-after-surgery/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/skin/wart-plan/index.php</loc>
+</url>
+<url>
+    <loc>http://www.soapnote.org/injury/work-injury-headaches/index.php</loc>
 </url>
 <url>
     <loc>http://www.soapnote.org/lib/style.css</loc>
-    <lastmod>2015-10-26T01:11:31-05:00</lastmod>
+    <lastmod>2016-08-03T04:40:51-05:00</lastmod>
 </url>
 <url>
     <loc>http://www.soapnote.org/endocrine-metabolic/weight-management-checklist/</loc>
@@ -1324,42 +2511,10 @@
     <loc>http://www.soapnote.org/elder-care/4-year-prognostic-index/</loc>
 </url>
 <url>
+    <loc>http://www.soapnote.org/lib/jquery-ui.min.css</loc>
+    <lastmod>2016-08-03T04:40:49-05:00</lastmod>
+</url>
+<url>
     <loc>http://www.soapnote.org/eye/stye-history/</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=N;O=D</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=M;O=A</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=S;O=A</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=D;O=A</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/soapnote.html</loc>
-    <lastmod>2015-10-28T01:55:18-05:00</lastmod>
-</url>
-<url>
-    <loc>http://www.soapnote.org/generator/txt/respiratory/asthma-steps-kids.jpg</loc>
-    <lastmod>2015-10-26T01:29:59-05:00</lastmod>
-</url>
-<url>
-    <loc>http://www.soapnote.org/generator/txt/respiratory/asthma-steps-adults.jpg</loc>
-    <lastmod>2015-10-26T01:29:59-05:00</lastmod>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=N;O=A</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=M;O=D</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=S;O=D</loc>
-</url>
-<url>
-    <loc>http://www.soapnote.org/ear-nose-throat/pharyngitis-history/?C=D;O=D</loc>
 </url>
 </urlset>
