@@ -29,7 +29,7 @@
 					<li><a href="/endocrine-metabolic/bariatric-risk/">Obesity Surgery Mortality Risk Score</a></li>
 					<li><a href="/endocrine-metabolic/hyperthyroidism-calc/">Subclinical Hyperthyroidism Calculator</a></li>
 					<li><a href="/endocrine-metabolic/thyroiditis-calculator/">Thyroiditis calculator</a></li>
-					<li><a href="/endocrine-metabolic/weight-management-checklist">Weight Management Checklist</a></li>
+					<li><a href="/endocrine-metabolic/weight-management-checklist/">Weight Management Checklist</a></li>
 </ul></div>
 <?php 
  include('../lib/front-footer.php');

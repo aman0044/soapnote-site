@@ -11,11 +11,11 @@
 <ul class="nav nav-pills nav-stacked">
 					<li><a href="/elder-care/4-year-prognostic-index">4 Year Prognostic Index</a></li>
 					<li><a href="/elder-care/barthel-adl/">Activities of Daily Living (Barthel Index)</a></li>
-					<li><a href="/elder-care/confucsion-assessment-method/">CAM-S Confusion Assessment Method</a></li>
+					<li><a href="/elder-care/confusion-assessment-method/">CAM-S Confusion Assessment Method</a></li>
 					<li><a href="/elder-care/charlson-comorbidity-index/">Charlson Comorbidity Index</a></li>
 					<li><a href="/elder-care/capacity/">Checklist for Capacity to Make Treatment Decisions</a></li>
 					<li><a href="/elder-care/cognitive-problems-history/">Cognitive Problems History</a></li>
-					<li><a href="/elder-care/confusion-assessment/">Confusion Assessment/Plan</a></li>
+					<li><a href="/elder-care/confusion-plan/">Confusion Assessment/Plan</a></li>
 					<li><a href="/elder-care/acute-confusion-plan/">Confusion, Acute Assessment/Plan</a></li>
 					<li><a href="/elder-care/cornell-scale-for-depression-in-dementia/">Cornell Scale for Depression in Dementia</a></li>
 					<li><a href="/elder-care/delirium-predictive-model/">Delirium Predictive Model</a></li>

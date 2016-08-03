@@ -19,7 +19,7 @@
 			<li><a href="../child-health/12-month-plan/index.php">12 Month Plan</a></li>
 			<li><a href="../child-health/15-month-hx/index.php">15 Month History</a></li>
 			<li><a href="../child-health/15-month-plan/index.php">15 Month Plan</a></li>
-			<li><a href="../child-health/15-to-18-year-history/index.php">15 to 18 Year History</a></li>
+			<li><a href="../child-health/15-to-18-year-hx/index.php">15 to 18 Year History</a></li>
 			<li><a href="../child-health/2-month-hx/index.php">2 Month History</a></li>
 			<li><a href="../child-health/2-month-plan/index.php">2 Month Plan</a></li>
 			<li><a href="../child-health/2-to-6-year-prevention-hx/index.php">2 to 6 Year Prevention History</a></li>
@@ -136,7 +136,7 @@
 			<li><a href="../elder-care/charlson-comorbidity-index/index.php">Comorbidity - Charlson Comorbidity Index</a></li>
 			<li><a href="../cardiovascular/jobst-prescription/index.php">Compression (Jobst) Stockings Assessment/Plan</a></li>
 			<li><a href="../general/concomitant-review-form/index.php">Concomitant Review Form</a></li>
-			<li><a href="../elder-care/confucsion-assessment-method/index.php">Confusion - CAM-S Confusion Assessment Method</a></li>
+			<li><a href="../elder-care/confusion-assessment-method/index.php">Confusion - CAM-S Confusion Assessment Method</a></li>
 			<li><a href="../elder-care/confusion-plan/index.php">Confusion Assessment/Plan</a></li>
 			<li><a href="../elder-care/acute-confusion-plan/index.php">Confusion, Acute Assessment/Plan</a></li>
 			<li><a href="../women/initiating-contraception/index.php">Contraception - (Initiating) Contraception History</a></li>
@@ -276,7 +276,7 @@
 	<li class="dropdown">
 		<a class="dropdown-toggle" data-toggle="dropdown" href="../#">I<span class="caret"></span></a>
 		<ul class="dropdown-menu">
-			<li><a href="../elder-care/lawton-adl/index.php">IADL - Instrumental Activities of Daily Living Calculator (Lawton)</a></li>
+			<li><a href="../elder-care/lawton-iadl/index.php">IADL - Instrumental Activities of Daily Living Calculator (Lawton)</a></li>
 			<li><a href="../women/diagnosis-of-incontinence/index.php">Incontinence, Diagnosis of</a></li>
 			<li><a href="../infectious/influenza-plan/index.php">Influenza Assessment/Plan</a></li>
 			<li><a href="../infectious/influenza-history/index.php">Influenza History</a></li>
@@ -418,7 +418,7 @@
 			<li><a href="../cardiovascular/preoperative-note/index.php">Preoperative Note</a></li>
 			<li><a href="../general/preorder/index.php">Preorder Coordination</a></li>
 			<li><a href="../general/procedural-pause/index.php">Procedural Pause</a></li>
-			<li><a href="../elder-care/4-year-prognostic-index">Prognostic - 4 Year Prognostic Index</a></li>
+			<li><a href="../elder-care/4-year-prognostic-index/index.php">Prognostic - 4 Year Prognostic Index</a></li>
 			<li><a href="../men/prostate-symptom-score/index.php">Prostate Symptom Score</a></li>
 			<li><a href="../mental-health/bathe-technique/index.php">Psychosocial History - BATHE Technique</a></li>
 			<li><a href="../mental-health/ptsd-screen/index.php">PTSD - Post Traumatic Stress Disorder Screen</a></li>
@@ -490,7 +490,7 @@
 			<li><a href="../neurological/abcd2/index.php">Stroke Risk - ABCD2 Score for CVA Risk after TIA</a></li>
 			<li><a href="../cardiovascular/accp-stroke-risk-calculator/index.php">Stroke Risk - ACCP Stroke Risk Calculator</a></li>
 			<li><a href="../eye/stye-plan/index.php">Stye Assessment/Plan</a></li>
-			<li><a href="../eye/stye-history">Stye History</a></li>
+			<li><a href="../eye/stye-history/index.php">Stye History</a></li>
 			<li><a href="../neurological/ottawa-sah-rule/index.php">Subarachnoid Hemorrhage (SAH) - Ottawa Rule</a></li>
 			<li><a href="../mental-health/suicide-behaviors-questionnaire/index.php">Suicide Behaviors Questionnaire-Revised (SBQ-R)</a></li>
 			<li><a href="../cardiovascular/oesil-risk-score/index.php">Syncope - OESIL Risk Score for Syncope</a></li>
@@ -519,7 +519,7 @@
 			<li><a href="../injury/upper-extremity-hx/index.php">Upper Extremity Pain/Injury History</a></li>
 			<li><a href="../infectious/uri-plan/index.php">Upper Respiratory Infection (URI) Assessment/Plan</a></li>
 			<li><a href="../infectious/uri-exam/index.php">Upper Respiratory Infection (URI) Exam</a></li>
-			<li><a href="../infectious/uri-objective/index.php">Upper Respiratory Infection (URI) Exam</a></li>
+			<li><a href="../infectious/uri-exam/index.php">Upper Respiratory Infection (URI) Exam</a></li>
 			<li><a href="../women/uti-plan/index.php">Urinary Tract Infection (UTI) Assessment/Plan</a></li>
 			<li><a href="../women/uti-history/index.php">Urinary Tract Infection (UTI) History</a></li>
 		</ul>
@@ -542,7 +542,7 @@
 		<a class="dropdown-toggle" data-toggle="dropdown" href="../#">W<span class="caret"></span></a>
 		<ul class="dropdown-menu">
 			<li><a href="../skin/wart-plan/index.php">Wart Assessment/Plan</a></li>
-			<li><a href="../endocrine-metabolic/weight-management-checklist">Weight Management Checklist</a></li>
+			<li><a href="../endocrine-metabolic/weight-management-checklist/index.php">Weight Management Checklist</a></li>
 			<li><a href="../blood-lymph/wells-dvt/index.php">Wells Clinical Prediction Rule for DVT</a></li>
 			<li><a href="../blood-lymph/wells-pe/index.php">Wells Clinical Prediction Rule for Pulmonary Embolism</a></li>
 			<li><a href="../injury/work-injury-headaches/index.php">Work Injury, Headaches</a></li>

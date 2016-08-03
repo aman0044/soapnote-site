@@ -74,7 +74,7 @@
 					<li><a href="/skin/rash-history/">Rash History</a></li>
 					<li><a href="/skin/scabies-hx/">Scabies History</a></li>
 					<li><a href="/neurological/seizure-history/">Seizure History</a></li>
-					<li><a href="/eye/stye-history">Stye History</a></li>
+					<li><a href="/eye/stye-history/">Stye History</a></li>
 					<li><a href="/general/travel-counseling-history/">Travel Counseling History</a></li>
 					<li><a href="/musculoskeletal/upper-back-pain-history/">Upper Back Pain History</a></li>
 					<li><a href="/injury/upper-extremity-hx/">Upper Extremity Pain/Injury History</a></li>

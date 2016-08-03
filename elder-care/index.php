@@ -10,7 +10,7 @@
 
 <div id="container" class="container">
 <ul class="nav nav-pills nav-stacked">
-					<li><a href="/elder-care/4-year-prognostic-index">4 Year Prognostic Index</a></li>
+					<li><a href="/elder-care/4-year-prognostic-index/">4 Year Prognostic Index</a></li>
 					<li><a href="/elder-care/barthel-adl/">Activities of Daily Living (Barthel Index)</a></li>
 					<li><a href="/elder-care/confusion-assessment-method/">CAM-S Confusion Assessment Method</a></li>
 					<li><a href="/elder-care/charlson-comorbidity-index/">Charlson Comorbidity Index</a></li>

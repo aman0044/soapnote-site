@@ -104,7 +104,7 @@
 			<li><a href="/endocrine-metabolic/bariatric-risk/">Obesity Surgery Mortality Risk Score</a></li>
 			<li><a href="/endocrine-metabolic/hyperthyroidism-calc/">Subclinical Hyperthyroidism Calculator</a></li>
 			<li><a href="/endocrine-metabolic/thyroiditis-calculator/">Thyroiditis calculator</a></li>
-			<li><a href="/endocrine-metabolic/weight-management-checklist">Weight Management Checklist</a></li>
+			<li><a href="/endocrine-metabolic/weight-management-checklist/">Weight Management Checklist</a></li>
 		</ul>
 	</li>
 	<li class="dropdown">
@@ -175,7 +175,7 @@
 		<ul class="dropdown-menu">
 			<li><a href="/elder-care/">All</a></li>
 			<li role="separator" class="divider"></li>
-			<li><a href="/elder-care/4-year-prognostic-index">4 Year Prognostic Index</a></li>
+			<li><a href="/elder-care/4-year-prognostic-index/">4 Year Prognostic Index</a></li>
 			<li><a href="/elder-care/barthel-adl/">Activities of Daily Living (Barthel Index)</a></li>
 			<li><a href="/elder-care/confusion-assessment-method/">CAM-S Confusion Assessment Method</a></li>
 			<li><a href="/elder-care/charlson-comorbidity-index/">Charlson Comorbidity Index</a></li>
@@ -420,7 +420,7 @@
 			<li role="separator" class="divider"></li>
 			<li><a href="/eye/eye-exam/">Eye Exam</a></li>
 			<li><a href="/eye/stye-plan/">Stye Assessment/Plan</a></li>
-			<li><a href="/eye/stye-history">Stye History</a></li>
+			<li><a href="/eye/stye-history/">Stye History</a></li>
 		</ul>
 	</li>
 	<li class="dropdown">
@@ -456,7 +456,7 @@
 			<li role="separator" class="divider"></li>
 			<li><a href="/general/health-risk/">Health Risk Appraisal (Longevity Calculator)</a></li>
 			<li><a href="/endocrine-metabolic/long-acting-insulin-self-3-3/">Long Acting Insulin Self Adjustment 3 by 3</a></li>
-			<li><a href="/endocrine-metabolic/weight-management-checklist">Weight Management Checklist</a></li>
+			<li><a href="/endocrine-metabolic/weight-management-checklist/">Weight Management Checklist</a></li>
 		</ul>
 	</li>
 	<li class="dropdown">
@@ -680,7 +680,7 @@ target="_blank">Cough History</a></li>
 			<li><a href="/skin/rash-history/">Rash History</a></li>
 			<li><a href="/skin/scabies-hx/">Scabies History</a></li>
 			<li><a href="/neurological/seizure-history/">Seizure History</a></li>
-			<li><a href="/eye/stye-history">Stye History</a></li>
+			<li><a href="/eye/stye-history/">Stye History</a></li>
 			<li><a href="/general/travel-counseling-history/">Travel Counseling History</a></li>
 			<li><a href="/musculoskeletal/upper-back-pain-history/">Upper Back Pain History</a></li>
 			<li><a href="/injury/upper-extremity-hx/">Upper Extremity Pain/Injury History</a></li>
