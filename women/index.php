@@ -32,5 +32,5 @@
 					<li><a href="/women/vaginitis-plan/">Vaginitis Plan</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

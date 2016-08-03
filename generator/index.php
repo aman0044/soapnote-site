@@ -751,6 +751,6 @@ jQuery(document).ready(function($){
 	</div>
 </div>
 <?php
-include('../lib/main-footer.php');
+include('../lib/front-footer.php');
 ?>
 

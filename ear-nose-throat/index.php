@@ -31,5 +31,5 @@
 					<li><a href="/infectious/uri-exam/">Upper Respiratory Infection (URI) Exam</a></li>							
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

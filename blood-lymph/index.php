@@ -17,5 +17,5 @@
 					<li><a href="/blood-lymph/wells-pe/">Wells Clinical Prediction Rule for Pulmonary Embolism</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

@@ -832,5 +832,5 @@ target="_blank">Diabetes Assessment/Plan</a></li>
 </ul>
 </div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

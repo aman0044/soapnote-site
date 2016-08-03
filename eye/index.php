@@ -15,5 +15,5 @@
 					<li><a href="/eye/stye-history">Stye History</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

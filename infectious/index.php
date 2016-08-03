@@ -31,3 +31,6 @@
 					<li><a href="/infectious/viral-infection-hx/">Viral Infection History</a></li>
 					<li><a href="/child-health/yale-scale/">Yale Observation Scale for Febrile Child</a></li>
 </ul></div>
+<?php 
+ include('../lib/front-footer.php');
+?>

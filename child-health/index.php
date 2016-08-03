@@ -64,5 +64,5 @@
 			<li><a href="/child-health/yale-scale/">Yale Observation Scale for Febrile Child</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

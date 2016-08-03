@@ -17,5 +17,5 @@
 					<li><a href="/men/prostate-symptom-score/">Prostate Symptom Score</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

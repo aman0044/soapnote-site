@@ -570,5 +570,5 @@
 </ul>
 </div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

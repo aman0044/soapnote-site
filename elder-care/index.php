@@ -38,5 +38,5 @@
 					<li><a href="/elder-care/zarit-caregiver-burden/">Zarit Caregiver Burden Interview</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

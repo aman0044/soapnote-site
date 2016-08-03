@@ -30,5 +30,5 @@
 					<li><a href="/digestive-system/rockall-gi-bleed/">Rockall Risk Score for GI Bleeding</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>

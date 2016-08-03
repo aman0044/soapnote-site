@@ -32,5 +32,5 @@
 					<li><a href="/endocrine-metabolic/weight-management-checklist">Weight Management Checklist</a></li>
 </ul></div>
 <?php 
- include('../lib/main-footer.php');
+ include('../lib/front-footer.php');
 ?>
