@@ -19,7 +19,7 @@ $soapnote = str_replace('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title>soapnote.org = calculators + decision tools + SOAP samples</title>', '', $soapnote);
+    ', $soapnote);
 
 $soapnote = str_replace('</head>
     <body>
