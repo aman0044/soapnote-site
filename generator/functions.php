@@ -47,8 +47,8 @@ function generateFormFile($title, $content, $fileName, $admin = false) {
 				
 				if ($admin) {
 					$form_js = '
-						<script type="text/javascript" src="../../lib/jquery.min.js"></script>
-						<script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
+						<script async type="text/javascript" src="../../lib/jquery.min.js"></script>
+						<script async type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
 						<script type="text/javascript" src="../../lib/form.js"></script>
 						';
 				}
