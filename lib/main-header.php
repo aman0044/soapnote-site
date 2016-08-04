@@ -7,6 +7,7 @@
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://www.soapnote.org/lib/site-style.css">
 	
 	<!-- jQuery library -->
 	<script async src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -33,7 +34,6 @@
 	</script>
 </head>
 <body style="padding-bottom:40px">
-<link rel="stylesheet" href="http://www.soapnote.org/lib/site-style.css">
 <nav class="navbar navbar-default">
 	<div class="container-fluid">
 		<div class="navbar-header">
