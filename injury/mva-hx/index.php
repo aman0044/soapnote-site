@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/injury/">Injury and Poisoning</a></li>
-  <li class="active">MVA History</li>
+  <li class="active">Motor Vehicle Accident History</li>
 </ol>
 
 <div id="container" class="container">

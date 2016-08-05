@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/mental-health/">Psychiatry</a></li>
-  <li class="active"></li>
+  <li class="active">SBQ-R Suicide Behaviors Questionnaire-Revised</li>
 </ol>
 
 <div id="container" class="container">

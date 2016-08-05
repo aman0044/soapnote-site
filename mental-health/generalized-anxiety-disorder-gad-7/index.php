@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/mental-health/">Psychiatry</a></li>
-  <li class="active"></li>
+  <li class="active">Generalized Anxiety Disorder - GAD-7 Calculator</li>
 </ol>
 
 <div id="container" class="container">

@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/general/">General</a></li>
-  <li class="active"></li>
+  <li class="active">EMTALA - Emergency Medical Condition Checklist</li>
 </ol>
 
 <div id="container" class="container">
