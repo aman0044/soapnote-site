@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /generator/
+Sitemap: http://soapnote.org/sitemap_index.xml

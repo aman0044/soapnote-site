@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/skin/">Dermatology</a></li>
-  <li class="active"></li>
+  <li class="active">Epidermal Cyst Assessment/Plan</li>
 </ol>
 
 <div id="container" class="container">

@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/sample/">Samples/Snippets</a></li>
-  <li class="active"></li>
+  <li class="active">Exponent</li>
 </ol>
 
 <div id="container" class="container">

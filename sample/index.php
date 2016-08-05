@@ -32,7 +32,7 @@
 					<li><a href="/sample/text-box/">Text Box Sample</a></li>
 					<li><a href="/sample/textarea-with-linefeed/">Textarea with Linefeed</a></li>
 					<li><a href="/sample/two-lines-between-two-text-boxes/">Two Lines Between Two Text Boxes</a></li>
-					<li><a href="/sample/version-A-version-B/">Version A and Version B</a></li>
+					<li><a href="/sample/version-A-version-B/">Two Versions</a></li>
 </ul>
 </div>
 <?php 

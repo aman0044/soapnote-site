@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/respiratory/">Pulmonology</a></li>
-  <li class="active">BAP-65 score for risk stratification in acute exacerbations of COPD</li>
+  <li class="active">BAP-65 Score for Risk Stratification in Acute Exacerbations of COPD</li>
 </ol>
 
 <div id="container" class="container">
