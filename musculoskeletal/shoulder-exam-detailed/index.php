@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/musculoskeletal/">Musculoskeletal</a></li>
-  <li class="active"></li>
+  <li class="active">Shoulder Exam (Detailed)</li>
 </ol>
 
 <div id="container" class="container">

@@ -5,7 +5,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/categories/">Categories</a></li>
   <li><a href="/musculoskeletal/">Musculoskeletal</a></li>
-  <li class="active">2013 Systemic Sclerosis Criteria</li>
+  <li class="active">2013 Systemic Sclerosis Diagnostic Criteria</li>
 </ol>
 
 <div id="container" class="container">
