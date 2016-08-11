@@ -25,7 +25,7 @@ include('lib/main-header.php');
 	</div>
 </div>
 <div class="container-fluid">
-	<div class="col-sm-3">
+	<div class="hidden-xs col-sm-3">
 		<a href="/cardiovascular/index.php">Cardiology</a>
 		<?php include 'lib/menu-structure/cat-cardiovascular.php';?>
 		<a href="/skin/index.php">Dermatology</a>
@@ -41,7 +41,7 @@ include('lib/main-header.php');
 		<a href="/women/index.php">Gynecology</a>
 		<?php include 'lib/menu-structure/cat-women.php';?>
 	</div>
-	<div class="col-sm-3">
+	<div class="hidden-xs col-sm-3">
 		<a href="/blood-lymph/index.php">Hematology and Oncology</a>
 		<?php include 'lib/menu-structure/cat-blood-lymph.php';?>
 		<a href="/infectious/index.php">Infectious Disease</a>
@@ -55,7 +55,7 @@ include('lib/main-header.php');
 		<a href="/kidney/index.php">Nephrology</a>
 		<?php include 'lib/menu-structure/cat-kidney.php';?>
 	</div>
-	<div class="col-sm-3">
+	<div class="hidden-xs col-sm-3">
 		<a href="/neurological/index.php">Neurology</a>
 		<?php include 'lib/menu-structure/cat-neurological.php';?>
 		<a href="/pregnancy/index.php">Obstetrics</a>
@@ -69,7 +69,7 @@ include('lib/main-header.php');
 		<a href="/child-health/index.php">Pediatrics</a>
 		<?php include 'lib/menu-structure/cat-child-health.php';?>
 	</div>
-	<div class="col-sm-3">
+	<div class="hidden-xs col-sm-3">
 		<a href="/mental-health/index.php">Psychiatry</a>
 		<?php include 'lib/menu-structure/cat-mental-health.php';?>
 		<a href="/respiratory/index.php">Pulmonology</a>
