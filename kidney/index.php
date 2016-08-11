@@ -10,10 +10,7 @@
 
 <div id="container" class="container">
 <ul class="nav nav-pills nav-stacked">
-					<li><a href="/kidney/ckd-dm/">Chronic Kidney Disease in Diabetes Mellitus - Decision Tool</a></li>
-					<li><a href="/endocrine-metabolic/diet-plans/">Diet Plans</a></li>
-					<li><a href="/kidney/cockcroft-gault/">GFR Calculator - Cockcroft-Gault</a></li>
-					<li><a href="/kidney/mdrd-gfr/">GFR Calculator - MDRD</a></li>
+	<?php include '../lib/menu-structure/cat-kidney.php';?>
 </ul>
 </div>
 <?php 

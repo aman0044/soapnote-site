@@ -10,9 +10,7 @@
 
 <div id="container" class="container">
 <ul class="nav nav-pills nav-stacked">
-					<li><a href="/eye/eye-exam/">Eye Exam</a></li>
-					<li><a href="/eye/stye-plan/">Stye Assessment/Plan</a></li>
-					<li><a href="/eye/stye-history/">Stye History</a></li>
+	<?php include '../lib/menu-structure/cat-eye.php';?>
 </ul></div>
 <?php 
  include('../lib/front-footer.php');
