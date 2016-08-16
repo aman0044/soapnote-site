@@ -5,3 +5,32 @@ footer .text-muted {margin: 10px 0px;font-size: 11px;line-height: 20px;}
 .error-template {padding: 40px 15px;text-align: center;}
 .error-actions {margin-top:15px;margin-bottom:15px;}
 .error-actions .btn { margin-right:10px; }
+.filterSection li {
+    list-style: none;
+    margin: 0px;
+    padding: 5px;
+    display: inline;
+}
+.filterSection {
+    margin: 0px;
+    padding: 5px;
+}
+#itemsToFilter li {
+    list-style: none;
+    background-position: 0 3px;
+    background-repeat: no-repeat;
+    margin: 15px;
+    padding-left: 40px;
+}
+#itemsToFilter li[data-type=calc] {
+    background-image: url("//www.soapnote.org/calculator.png");
+}
+#itemsToFilter li[data-type=note] {
+    background-image: url("//www.soapnote.org/page_white_text.png");
+}
+.showItem {
+    display: list-item;
+}
+.hideItem {
+    display: none;
+}
