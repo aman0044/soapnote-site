@@ -27,7 +27,7 @@ include('lib/main-header.php');
 </div>
 <hr>
 <div id="container" class="container">
-<ul class="filterSection">
+<ul class="filterSection hidden-xs">
     <li>
         <strong>Show:</strong>
         <input checked="true" type="checkbox" value="calc"/>
