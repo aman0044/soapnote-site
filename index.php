@@ -27,7 +27,7 @@ include('lib/main-header.php');
 </div>
 <hr>
 <div id="container" class="container">
-<ul class="filterSection hidden-xs">
+<ul class="filterSection">
     <li>
         <strong>Show:</strong>
         <input checked="true" type="checkbox" value="calc"/>
@@ -39,66 +39,40 @@ include('lib/main-header.php');
     </li>
 </ul>
 <div class="container-fluid">
-	<div class="hidden-xs col-sm-3 panel-group">
-		<a style="font-weight:bold" href="/cardiovascular/index.php">Cardiology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-cardiovascular.php';?></ul>
-		<a style="font-weight:bold" href="/skin/index.php">Dermatology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-skin.php';?></ul>
-		<a style="font-weight:bold" href="/endocrine-metabolic/index.php">Endocrine</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-endocrine-metabolic.php';?></ul>
-		<a style="font-weight:bold" href="/digestive-system/index.php">Gastroenterology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-digestive-system.php';?></ul>
-		<a style="font-weight:bold" href="/general/index.php">General</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-general.php';?></ul>
-		<a style="font-weight:bold" href="/elder-care/index.php">Geriatrics</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-elder-care.php';?></ul>
-		<a style="font-weight:bold" href="/women/index.php">Gynecology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-women.php';?></ul>
+<bold>Frequently Visited Pages</bold>
+	<div class="col-sm-6 panel-group">
+		<ul id="itemsToFilter">
+			<li data-type="calc"><a href="/general/general-adult-physical-exams/">General Adult Physical Exams</a></li>
+			<li data-type="calc"><a href="/general/e-m-established/">E/M Coding for Established Outpatient Visit</a></li>
+			<li data-type="note"><a href="/general/acute-adult-physical-exams/">Adult Acute Physical Exams</a></li>
+			<li data-type="note"><a href="/general/adult-chronic-exams/">Adult Chronic Disease Physical Exams</a></li>
+			<li data-type="calc"><a href="/general/differential-diagnosis/">Differential Diagnosis Tool</a></li>
+			<li data-type="calc"><a href="/general/mri-ct-tool/">MRI and CT Scan Decision Tool</a></li>
+			<li data-type="note"><a href="/general/health-risk/">Health Risk Appraisal (Longevity Calculator)</a></li>
+			<li data-type="calc"><a href="/mental-health/patient-health-questionnaire-phq-9-calculator/">Depression - Patient Health Questionnaire (PHQ 9) Calculator</a></li>
+			<li data-type="calc"><a href="/mental-health/generalized-anxiety-disorder-gad-7/">Generalized Anxiety Disorder GAD 7 Calculator</a></li>
+			<li data-type="calc"><a href="/mental-health/mental-status-exam/">Mental Status Exam</a></li>
+			<li data-type="note"><a href="/mental-health/depression-plan/">Depression Assessment/Plan</a></li>
+			<li data-type="note"><a href="/child-health/health-maintenance-visit/">Health Maintenance Visit (Expanded)</a></li>
+		</ul>
 	</div>
-	<div class="hidden-xs col-sm-3 panel-group">
-		<a style="font-weight:bold" href="/blood-lymph/index.php">Hematology and Oncology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-blood-lymph.php';?></ul>
-		<a style="font-weight:bold" href="/infectious/index.php">Infectious Disease</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-infectious.php';?></ul>
-		<a style="font-weight:bold" href="/injury/index.php">Injury and Poisoning</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-injury.php';?></ul>
-		<a style="font-weight:bold" href="/men/index.php">Men's Health</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-men.php';?></ul>
-		<a style="font-weight:bold" href="/musculoskeletal/index.php">Musculoskeletal</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-musculoskeletal.php';?></ul>
-		<a style="font-weight:bold" href="/kidney/index.php">Nephrology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-kidney.php';?></ul>
+	<div class="col-sm-6 panel-group">
+		<ul id="itemsToFilter">
+			<li data-type="calc"><a href="/ear-nose-throat/strep-throat-decision-tool/">Strep Throat Decision Tool</a></li>
+			<li data-type="note"><a href="/ear-nose-throat/sore-throat-complete-note/">Pharyngitis Visit Complete Note</a></li>
+			<li data-type="calc"><a href="/cardiovascular/coumadin-calculator/">Anticoagulation - Coumadin Adjustment Calculator</a></li>
+			<li data-type="calc"><a href="/cardiovascular/oesil-risk-score/">Syncope - OESIL Risk Score for Syncope</a></li>
+			<li data-type="calc"><a href="/cardiovascular/chest-pain-decision-rule/">Chest Pain - Diamond and Forrester Chest Pain Decision Rule</a></li>				
+			<li data-type="note"><a href="/cardiovascular/htn-plan/">Hypertension Plan</a></li>
+			<li data-type="note"><a href="/musculoskeletal/musculoskeletal-exams/">Musculoskeletal Physical Exams</a></li>
+			<li data-type="note"><a href="/musculoskeletal/low-back-pain-exam/">Low Back Pain Exam</a></li>
+			<li data-type="calc"><a href="/musculoskeletal/arthritis-tests/">Arthritis Decision Tool - Testing for Chronic Inflammatory Arthritides</a></li>				
+			<li data-type="calc"><a href="/elder-care/charlson-comorbidity-index/">Charlson Comorbidity Index</a></li>
+			<li data-type="calc"><a href="/women/contraception-quick-start/">Contraception Quick Start Algorithm</a></li>
+			<li data-type="calc"><a href="/pregnancy/wheel/">Pregnancy Dating Wheel – LMP</a></li>
+			<li><a href="/categories/index.php">See the Full List</a></li>
+		</ul>
 	</div>
-	<div class="hidden-xs col-sm-3 panel-group">
-		<a style="font-weight:bold" href="/neurological/index.php">Neurology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-neurological.php';?></ul>
-		<a style="font-weight:bold" href="/pregnancy/index.php">Obstetrics</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-pregnancy.php';?></ul>
-		<a style="font-weight:bold" href="/eye/index.php">Ophthalmology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-eye.php';?></ul>
-		<a style="font-weight:bold" href="/ear-nose-throat/index.php">Otolaryngology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-ear-nose-throat.php';?></ul>
-		<a style="font-weight:bold" href="/patient-information/index.php">Patient Information</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-patient-information.php';?></ul>
-		<a style="font-weight:bold" href="/child-health/index.php">Pediatrics</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-child-health.php';?></ul>
-	</div>
-	<div class="hidden-xs col-sm-3 panel-group">
-		<a style="font-weight:bold" href="/mental-health/index.php">Psychiatry</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-mental-health.php';?></ul>
-		<a style="font-weight:bold" href="/respiratory/index.php">Pulmonology</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-respiratory.php';?></ul>
-		<a style="font-weight:bold" href="/sample/index.php">Samples/Snippets</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-sample.php';?></ul>
-		<a style="font-weight:bold" href="/subjective/index.php">Subjective/History Elements</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-subjective.php';?></ul>			
-		<a style="font-weight:bold" href="/objective/index.php">Objective/Exam Elements</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-objective.php';?></ul>			
-		<a style="font-weight:bold" href="/assessment-plan/index.php">Assessment & Plan Elements</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-assessment-plan.php';?></ul>			
-		<a style="font-weight:bold" href="/complete-note/index.php">Complete Notes</a>
-		<ul id="itemsToFilter"><?php include 'lib/menu-structure/cat-complete-note.php';?></ul>																														</div>
-</div>
 </div>
 <?php
 include('lib/front-footer.php');

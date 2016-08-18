@@ -78,7 +78,7 @@
 						<li><a href="/complete-note/">Complete Notes</a></li>
 					</ul>
 				</li>				
-				<li><a href="/alphabetical/">Index</a></li>
+				<li><a href="/categories/">Index</a></li>
 				<li><a href="/lingo/">Learn</a></li>
 				<li><a href="/generator/">Create</a></li>
 				<li><a href="/help/">Ask</a></li>
