@@ -49,5 +49,6 @@ echo '<li data-type="calc"><a href="/musculoskeletal/ottawa-ankle-and-foot-rules
 <li data-type="note"><a href="/musculoskeletal/shoulder-exam/">Shoulder Exam</a></li>
 <li data-type="note"><a href="/musculoskeletal/shoulder-exam-detailed/">Shoulder Exam (Detailed)</a></li>
 <li data-type="calc"><a href="/musculoskeletal/dx-sle/">Systemic Lupus Erythematosus Diagnosis</a></li>
+<li data-type="calc"><a href="/musculoskeletal/2013-ssc-criteria/">Systemic Sclerosis Diagnosis</a></li>
 <li data-type="note"><a href="/musculoskeletal/upper-back-pain-history/">Upper Back Pain History</a></li>';
 ?>
