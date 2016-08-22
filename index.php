@@ -54,11 +54,11 @@ include('lib/main-header.php');
 			<li data-type="calc"><a href="/mental-health/generalized-anxiety-disorder-gad-7/">Generalized Anxiety Disorder GAD 7 Calculator</a></li>
 			<li data-type="calc"><a href="/mental-health/mental-status-exam/">Mental Status Exam</a></li>
 			<li data-type="note"><a href="/mental-health/depression-plan/">Depression Assessment/Plan</a></li>
-			<li data-type="note"><a href="/child-health/health-maintenance-visit/">Health Maintenance Visit (Expanded)</a></li>
 		</ul>
 	</div>
 	<div class="col-sm-6 panel-group">
 		<ul id="itemsToFilter">
+			<li data-type="note"><a href="/child-health/health-maintenance-visit/">Health Maintenance Visit (Expanded)</a></li>
 			<li data-type="calc"><a href="/ear-nose-throat/strep-throat-decision-tool/">Strep Throat Decision Tool</a></li>
 			<li data-type="note"><a href="/ear-nose-throat/sore-throat-complete-note/">Pharyngitis Visit Complete Note</a></li>
 			<li data-type="calc"><a href="/cardiovascular/coumadin-calculator/">Anticoagulation - Coumadin Adjustment Calculator</a></li>
