@@ -48,8 +48,6 @@
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-musculoskeletal.php';?></ul>
 		<a style="font-weight:bold" href="/kidney/index.php">Nephrology</a>
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-kidney.php';?></ul>
-	</div>
-	<div class="col-sm-3 panel-group">
 		<a style="font-weight:bold" href="/neurological/index.php">Neurology</a>
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-neurological.php';?></ul>
 		<a style="font-weight:bold" href="/pregnancy/index.php">Obstetrics</a>

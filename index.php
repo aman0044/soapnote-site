@@ -42,6 +42,7 @@ include('lib/main-header.php');
 <bold>Frequently Visited Pages</bold>
 	<div class="col-sm-6 panel-group">
 		<ul id="itemsToFilter">
+			<li data-type="note"><a href="/general/generic-visit-note/index.php">Generic Visit Note</a></li>
 			<li data-type="calc"><a href="/general/general-adult-physical-exams/">General Adult Physical Exams</a></li>
 			<li data-type="calc"><a href="/general/e-m-established/">E/M Coding for Established Outpatient Visit</a></li>
 			<li data-type="note"><a href="/general/acute-adult-physical-exams/">Adult Acute Physical Exams</a></li>

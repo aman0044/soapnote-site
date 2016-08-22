@@ -1,0 +1,64 @@
+[html]Generic Visit Note
+[/html]
+Chief Complaints: 
+[textarea cols=108 rows=1 default="one or more symptoms in patient's words, duration..."]
+History of Present Illness: 
+[textarea cols=108 rows=5 default="PQRST - Provocative or Palliative maneuvers, symptom Quality, the Region involved, the Severity and Temporal pattern of symptom..."]
+Past Medical and Surgical History: 
+[textarea cols=108 rows=4 default="chronic illness, important prior illness, operations, injuries, prior hospitalizations"]
+Family History: 
+[textarea cols=108 rows=3 default="history for first-degree relatives or beyond"]
+Social History: 
+[textarea cols=108 rows=3 default="place of birth, nationality and ethnicity, marital status, occupations, military history, gender preference, social and economic status, habits, violence and safety, prostheses and in-home assistance"]
+Review of Systems:
+[textarea cols=108 rows=1 default="SKIN: no rashes, bruising, nail or hair changes"]
+[textarea cols=108 rows=1 default="EYES: no blurring/double vision/spots."]
+[textarea cols=108 rows=1 default="THROAT: no pain/trouble swallowing."]
+[textarea cols=108 rows=1 default="NECK: no painful nodes."]
+[textarea cols=108 rows=1 default="ENDOCRINE: no tremor/palpitations/heat or cold intolerance/unusual fatigue; no polyuria/polydipsia/polyphagia"]
+[textarea cols=108 rows=1 default="RESPIRATORY: no cough/sputum/SOB/chest pain."]
+[textarea cols=108 rows=1 default="CARDIOVASCULAR: no CP/heaviness/jaw or arm pain/palpitations/leg pain with exercise/edema."]
+[textarea cols=108 rows=1 default="GASTROINTESTINAL: no constipation/diarrhea/blood in stool/melena."]
+[textarea cols=108 rows=1 default="GENITOURINARY: no dysuria/frequency/blood in urine/incontinence"]
+[textarea cols=108 rows=1 default="MUSCULOSKELETAL: no pain/swelling in muscles or joints."]
+[textarea cols=108 rows=1 default="NEUROLOGICAL: no weakness, headache, or other pain."]
+[textarea cols=108 rows=1 default="PSYCHIATRIC: no depression/anxiety/hallucinations"]
+Medications: 
+[textarea cols=108 rows=5 default="medication name/dose/indication/duration"]
+Allergies and Medication Intolerances: 
+[textarea cols=108 rows=1 default="medication or substance and reaction"]
+Preventive Care Services: 
+[textarea cols=108 rows=1 default="dates and results of screening tests and exams"]
+Advance Directives: 
+[textarea cols=108 rows=1 default="living will and/or durable power of attorney for health care/identify surrogate decision maker"]
+Physical Examination
+[textarea cols=108 rows=2 default="VITALS: Height/Weight/Temperature/Heart Rate/Blood Pressure/Pain Level"]
+[textarea cols=108 rows=2 default="GENERAL APPEARANCE: Well developed, well nourished, alert and cooperative, and appears to be in no acute distress."]
+[textarea cols=108 rows=1 default="HEAD: normocephalic."]
+[textarea cols=108 rows=1 default="EYES: PERRL, EOMI. Fundi normal, vision is grossly intact."]
+[textarea cols=108 rows=1 default="EARS: External auditory canals and tympanic membranes clear, hearing grossly intact."]
+[textarea cols=108 rows=1 default="NOSE: No nasal discharge."]
+[textarea cols=108 rows=2 default="THROAT: Oral cavity and pharynx normal. No inflammation, swelling, exudate, or lesions. Teeth and gingiva in good general condition."]
+[textarea cols=108 rows=1 default="NECK: Neck supple, non-tender without lymphadenopathy, masses or thyromegaly."]
+[textarea cols=108 rows=3 default="CARDIAC: Normal S1 and S2. No S3, S4 or murmurs. Rhythm is regular. There is no peripheral edema, cyanosis or pallor. Extremities are warm and well perfused. Capillary refill is less than 2 seconds. No carotid bruits."]
+[textarea cols=108 rows=2 default="LUNGS: Clear to auscultation and percussion without rales, rhonchi, wheezing or diminished breath sounds."]
+[textarea cols=108 rows=2 default="ABDOMEN: Positive bowel sounds. Soft, nondistended, nontender. No guarding or rebound. No masses."]
+[textarea cols=108 rows=2 default="MUSKULOSKELETAL: Adequately aligned spine. ROM intact spine and extremities. No joint erythema or tenderness. Normal muscular development. Normal gait."]
+[textarea cols=108 rows=2 default="BACK: Examination of the spine reveals normal gait and posture, no spinal deformity, symmetry of spinal muscles, without tenderness, decreased range of motion or muscular spasm."]
+[textarea cols=108 rows=2 default="EXTREMITIES: No significant deformity or joint abnormality. No edema. Peripheral pulses intact. No varicosities."]
+[textarea cols=108 rows=5 default="LOWER EXTREMITY: Examination of both feet reveals all toes to be normal in size and symmetry, normal range of motion, normal sensation with distal capillary filling of less than 2 seconds without tenderness, swelling, discoloration, nodules, weakness or deformity; examination of both ankles, knees, legs, and hips reveals normal range of motion, normal sensation without tenderness, swelling, discoloration, crepitus, weakness or deformity."]
+[textarea cols=108 rows=2 default="NEUROLOGICAL: CN II-XII intact. Strength and sensation symmetric and intact throughout. Reflexes 2+ throughout. Cerebellar testing normal."]
+[textarea cols=108 rows=1 default="SKIN: Skin normal color, texture and turgor with no lesions or eruptions."]
+[textarea cols=108 rows=3 default="PSYCHIATRIC: The mental examination revealed the patient was oriented to person, place, and time. The patient was able to demonstrate good judgement and reason, without hallucinations, abnormal affect or abnormal behaviors during the examination. Patient is not suicidal."]
+Laboratory and Radiology: [textarea cols=108 rows=1 default="test, date, result"]
+Assessment and Plan
+[textarea cols=108 rows=2 default="#1 Problem"]
+[textarea cols=108 rows=2 default="#2 Problem"]
+[textarea cols=108 rows=2 default="#3 Problem"]
+[textarea cols=108 rows=2 default="#4+ Problem"]
+[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+reference: LeBlond R, Brown D, DeGowin R. DeGowin's Diagnostic Examination, 9e. New York. McGraw Hill; 2009
+posted by:  Mark Morgan, M.D.
+post/review dates:  August 22, 2016
+revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/generic-visit-note.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/generic-visit-note.txt</a>
+markup link:  <a href="http://www.soapnote.org/generator/txt/general/generic-visit-note.txt" target="_blank">www.soapnote.org/generator/txt/general/generic-visit-note.txt</a>[/html][/conditional]

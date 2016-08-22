@@ -3,7 +3,6 @@ echo '<li data-type="note"><a href="/general/acute-adult-physical-exams/">Adult 
 <li data-type="note"><a href="/general/adult-chronic-exams/">Adult Chronic Disease Physical Exams</a></li>
 <li data-type="note"><a href="/general/care-management/">Care Management Documentation</a></li>
 <li data-type="calc"><a href="/general/concomitant-review-form/">Concomitant Review Form</a></li>				
-<li data-type="note"><a href="/general/general-exam/">General Exam</a></li>
 <li data-type="calc"><a href="/general/differential-diagnosis/">Differential Diagnosis Tool</a></li>
 <li data-type="note"><a href="/general/direct-admission/">Direct Admission</a></li>
 <li data-type="calc"><a href="/general/e-m-established/">E/M Coding for Established Outpatient Visit</a></li>
@@ -13,6 +12,7 @@ echo '<li data-type="note"><a href="/general/acute-adult-physical-exams/">Adult 
 <li data-type="calc"><a href="/general/fever-history/">Fever History</a></li>
 <li data-type="calc"><a href="/general/general-exam/">General Exam</a></li>
 <li data-type="calc"><a href="/general/general-adult-physical-exams/">General Adult Physical Exams</a></li>
+<li data-type="note"><a href="/general/generic-visit-note/index.php">Generic Visit Note</a></li>
 <li data-type="note"><a href="/general/health-risk/">Health Risk Appraisal (Longevity Calculator)</a></li>
 <li data-type="calc"><a href="/general/history-of-present-illness/">History of Present Illness</a></li>
 <li data-type="note"><a href="/general/hospital-bed-checklist/">Hospital Bed Checklist</a></li>

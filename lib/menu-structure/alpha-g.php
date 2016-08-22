@@ -5,6 +5,7 @@ echo '<li><a href="../endocrine-metabolic/gastric-bypass-plan/index.php">Gastric
 <li><a href="../digestive-system/gastroenteritis-history-2/index.php">Gastroenteritis History 2</a></li>
 <li><a href="../general/general-exam/index.php">General Exam</a></li>
 <li><a href="../mental-health/generalized-anxiety-disorder-gad-7/index.php">Generalized Anxiety Disorder GAD 7 Calculator</a></li>
+<li><a href="../general/generic-visit-note/index.php">Generic Visit Note</a></li>
 <li><a href="../digestive-system/gerdq/index.php">GerdQ Calculator for Likelihood of Gastroesophageal Reflux Disease</a></li>
 <li><a href="../elder-care/geriatric-comprehensive-assessment-history/index.php">Geriatric Comprehensive Assessment (History)</a></li>
 <li><a href="../elder-care/geriatric-comprehensive-assessment-history/index.php">Geriatric Comprehensive Assessment (History)</a></li>
