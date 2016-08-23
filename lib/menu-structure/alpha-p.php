@@ -11,6 +11,7 @@ echo '<li><a href="../musculoskeletal/dire-score/index.php">Pain - DIRE Score fo
 <li><a href="../child-health/health-maintenance-visit/index.php">Pediatric Health Maintenance Visit (Expanded)</a></li>
 <li><a href="../child-health/pediatric-physical-exam/index.php">Pediatric Physical Exam</a></li>
 <li><a href="../child-health/acute-exams/index.php">Pediatric Acute Physical Exams</a></li>
+<li><a href="../child-health/drug-doses/index.php">Pediatric Oral Medication Dosing Tables</a></li>
 <li><a href="../child-health/acute-exams/index.php">Pediatric Physical Exams, Acute</a></li>
 <li><a href="../child-health/general-exams/index.php">Pediatric Physical Exams, General</a></li>
 <li><a href="../neurological/peripheral-neuropathy-plan/index.php">Peripheral Neuropathy Plan</a></li>

@@ -7,7 +7,11 @@ notresp.navbar .nav .my-nav-menu-search {
 }
 
 h1 {
-    font-family: "Courier New", Courier, monospace
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
 }
 
 .form-content {

@@ -34,3 +34,6 @@ footer .text-muted {margin: 10px 0px;font-size: 11px;line-height: 20px;}
 .hideItem {
     display: none;
 }
+body {
+    font-family: "Courier New", Courier, monospace;
+}

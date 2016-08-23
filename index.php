@@ -29,7 +29,7 @@ include('lib/main-header.php');
 <div id="container" class="container">
 <ul class="filterSection">
     <li>
-        <strong>Show:</strong>
+        <strong>Frequently Visited Pages:</strong>
         <input checked="true" type="checkbox" value="calc"/>
         <label>Calculator</label><img src="http://www.soapnote.org/calculator.png">
     </li>
@@ -39,9 +39,9 @@ include('lib/main-header.php');
     </li>
 </ul>
 <div class="container-fluid">
-<bold>Frequently Visited Pages</bold>
 	<div class="col-sm-6 panel-group">
 		<ul id="itemsToFilter">
+			<li data-type="calc"><a href="../child-health/drug-doses/index.php">Pediatric Oral Medication Dosing Tables</a></li>			
 			<li data-type="note"><a href="/general/generic-visit-note/index.php">Generic Visit Note</a></li>
 			<li data-type="calc"><a href="/general/general-adult-physical-exams/">General Adult Physical Exams</a></li>
 			<li data-type="calc"><a href="/general/e-m-established/">E/M Coding for Established Outpatient Visit</a></li>

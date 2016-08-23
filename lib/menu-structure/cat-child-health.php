@@ -45,6 +45,7 @@ echo '<li data-type="note"><a href="/child-health/acute-exams/">Acute Physical E
 <li data-type="note"><a href="/child-health/newborn-dismissal-warnings/">Newborn Dismissal Warnings</a></li>
 <li data-type="note"><a href="/child-health/newborn-dismissal-summary/">Newborn Hospital Dismissal Summary</a></li>
 <li data-type="note"><a href="/child-health/newborn-progress-note/">Newborn Hospital Progress Note</a></li>
+<li data-type="calc"><a href="../child-health/drug-doses/index.php">Pediatric Oral Medication Dosing Tables</a></li>
 <li data-type="calc"><a href="/ear-nose-throat/otitis-media-tool/">Otitis Media Decision Tool</a></li>
 <li data-type="calc"><a href="/child-health/pediatric-early-warning-score/">Pediatric Early Warning Score</a></li>
 <li data-type="note"><a href="/child-health/pediatric-physical-exam/">(General) Pediatric Physical Exams</a></li>
