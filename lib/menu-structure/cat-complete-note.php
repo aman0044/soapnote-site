@@ -1,5 +1,6 @@
 <?php
 echo '<li data-type="note"><a href="/women/contraceptive-management/">Contraceptive Management Visit</a></li>
+<li data-type="note"><a href="/general/generic-visit-note/index.php">Generic Visit Note</a></li>
 <li data-type="note"><a href="/musculoskeletal/hammertoe-procedure/">Hammertoe Procedure</a></li>				
 <li data-type="note"><a href="/musculoskeletal/ingrown-toenail/">Ingrown Toenail Note</a></li>
 <li data-type="note"><a href="/injury/laceration-note/">Laceration Note</a></li>
