@@ -42,7 +42,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span> 
 			</button>	
-			<a class="navbar-brand" href="/">SOAPnote.org = medical notes + calcs</a>
+			<a class="navbar-brand" href="/">SOAPnote.org: Hundreds of Medical Notes & Calcs</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
