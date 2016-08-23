@@ -1,5 +1,5 @@
 ADHD - Conners’ Index History
-[textarea columns=108 rows=25 default="The ***teacher/parent*** endorsed a T score of *** for Oppositional, a T score of *** for Cognitive Problems/Inattention, a T score of *** for Hyperactivity, and a T score of *** for Conners' ADHD Index."]
+[textarea columns=80 rows=25 default="The ***teacher/parent*** endorsed a T score of *** for Oppositional, a T score of *** for Cognitive Problems/Inattention, a T score of *** for Hyperactivity, and a T score of *** for Conners' ADHD Index."]
 [html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
