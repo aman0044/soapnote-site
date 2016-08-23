@@ -1,7 +1,7 @@
 <?php
 echo '<li data-type="calc"><a href="/musculoskeletal/ottawa-ankle-and-foot-rules/">Ankle and Foot Rules - Ottawa</a></li>
 <li data-type="note"><a href="/musculoskeletal/ankle-sprain-plan/">Ankle Sprain Assessment/Plan</a></li>
-<li data-type="calc"><a href="/musculoskeletal/inflammatory-vs-noninflammatory/">Arthritis Decision Tool #1 - Chronic Inflammatory Polyarthritis</a></li>
+<li data-type="calc"><a href="/musculoskeletal/chronic-inflammatory-polyarthritis/">Arthritis Decision Tool #1 - Chronic Inflammatory Polyarthritis</a></li>
 <li data-type="calc"><a href="/musculoskeletal/articular-vs-nonarticular/">Arthritis Decision Tool - Articular Versus Nonarticular</a></li>
 <li data-type="calc"><a href="/musculoskeletal/inflammatory-vs-noninflammatory/">Arthritis Decision Tool - Inflammatory Versus Noninflammatory</a></li>
 <li data-type="calc"><a href="/musculoskeletal/spondyloarthropathy/">Arthritis Decision Tool - Spondyloarthropathy</a></li>
