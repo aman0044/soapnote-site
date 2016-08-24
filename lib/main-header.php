@@ -17,6 +17,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script async src="//www.soapnote.org/lib/list-filter.js"></script>
+<!-- 
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -32,6 +33,7 @@
 	    enable_page_level_ads: true
 	  });
 	</script>
+ -->
 </head>
 <body style="padding-bottom:40px">
 <nav class="navbar navbar-default">
@@ -85,8 +87,9 @@
 			</ul>
 		</div>
 		<div>  
+<!-- 
 			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- SOAPnote Ad 2015 August -->
+			<!~~ SOAPnote Ad 2015 August ~~>
 			<ins class="adsbygoogle"
 				 style="display:block"
 				 data-ad-client="ca-pub-0861899219579739"
@@ -95,6 +98,7 @@
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>  
+ -->
 		</div>
 	</div>
 </nav>
