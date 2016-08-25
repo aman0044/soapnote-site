@@ -17,7 +17,6 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script async src="//www.soapnote.org/lib/list-filter.js"></script>
-<!-- 
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,6 +25,7 @@
 	  ga('create', 'UA-15622745-1', 'auto');
 	  ga('send', 'pageview');
 	</script>
+<!-- 
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
  	 (adsbygoogle = window.adsbygoogle || []).push({
