@@ -1,3 +1,4 @@
+<!-- 
 <div id="disqus_thread"></div>
 <script>
 /**
@@ -17,6 +18,7 @@ var disqus_config = function () {
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+ -->
 <footer>
 <div class="container-fluid">
 		<p class="text-muted">SOAPnote.org is an <a href="https://github.com/soapnote/soapnote-site" target="_blank">Open Source Project</a></p>
