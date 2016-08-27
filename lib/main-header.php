@@ -44,7 +44,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span> 
 			</button>	
-			<a class="navbar-brand" href="/">SOAPnote.org:  Medical Notes, Checklists, & Calcs</a>
+			<a class="navbar-brand" href="/">SOAPnote.org:  Notes, Checklists, and Calculators</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
