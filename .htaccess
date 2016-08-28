@@ -1,1 +1,3 @@
+AddType text/cache-manifest .appcache
 ErrorDocument 404 /whoops/index.php
+

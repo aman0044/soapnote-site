@@ -40,10 +40,10 @@
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-infectious.php';?></ul>
 		<a style="font-weight:bold" href="/injury/index.php">Injury and Poisoning</a>
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-injury.php';?></ul>
-		<a style="font-weight:bold" href="/men/index.php">Men's Health</a>
-		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-men.php';?></ul>
 	</div>
 	<div class="col-sm-4 panel-group">
+		<a style="font-weight:bold" href="/men/index.php">Men's Health</a>
+		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-men.php';?></ul>
 		<a style="font-weight:bold" href="/musculoskeletal/index.php">Musculoskeletal</a>
 		<ul id="itemsToFilter"><?php include '../lib/menu-structure/cat-musculoskeletal.php';?></ul>
 		<a style="font-weight:bold" href="/kidney/index.php">Nephrology</a>
