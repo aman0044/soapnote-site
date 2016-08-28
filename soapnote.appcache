@@ -1,0 +1,13 @@
+CACHE MANIFEST
+/lib/fileinput.min.css
+/lib/fileinput.min.js
+/lib/form.js
+/lib/jquery-ui.min.css
+/lib/jquery-ui.min.js
+/lib/jquery.min.js
+/lib/list-filter.js
+/lib/site-style.css
+/lib/style.css
+
+FALLBACK:
+/html/ offline/index.html
