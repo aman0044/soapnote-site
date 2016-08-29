@@ -1,13 +1,27 @@
 CACHE MANIFEST
+# August 28, 2016 at 8:24:32 AM CDT
+CACHE:
 /lib/fileinput.min.css
 /lib/fileinput.min.js
 /lib/form.js
+/lib/front-footer.php
+/lib/generator-header.php
+/lib/main-footer.php
+/lib/main-header.php
+
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+http://fonts.googleapis.com/css?family=Inconsolata
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+
 /lib/jquery-ui.min.css
 /lib/jquery-ui.min.js
 /lib/jquery.min.js
+
 /lib/list-filter.js
 /lib/site-style.css
 /lib/style.css
+
 
 FALLBACK:
 /html/ offline/index.html
