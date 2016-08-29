@@ -31,11 +31,9 @@ include('lib/main-header.php');
     <li>
         <strong>Frequently Visited Pages:</strong>
         <input checked="true" type="checkbox" value="calc"/>
-        <label>Calculator</label><img src="http://www.soapnote.org/calculator.png">
-    </li>
-    <li>
+        <label>Calculator</label><img src="calculator.png">
         <input checked="true" type="checkbox" value="note"/>
-        <label>Note</label><img src="http://www.soapnote.org/page_white_text.png">
+        <label>Note</label><img src="page_white_text.png">
     </li>
 </ul>
 <div class="container-fluid">
