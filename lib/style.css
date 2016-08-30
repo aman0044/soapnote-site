@@ -1,19 +1,4 @@
-notresp.navbar .nav .my-nav-menu-search {
-    float: right
-}
-
-.notresp.navbar .nav {
-    width: 100%
-}
-
-h1 {
-    font-family: Inconsolata, monospace;
-}
-
-body {
-    font-family: Inconsolata, monospace;
-}
-
+/* this is the css that is pretty important for the function of the site and the generator page. */
 .form-content {
     position: relative;
     background: none repeat scroll 0 0 #f5f7f9;
