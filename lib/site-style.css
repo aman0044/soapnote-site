@@ -38,10 +38,10 @@ footer .text-muted {margin: 10px 0px;font-size: 11px;line-height: 20px;}
 }
 /* font for the site */
 body {
-    font-family: Inconsolata, monospace;
+    font-family: Menlo, "Lucida Console", Monaco, monospace;
 }
 h1 {
-    font-family: Inconsolata, monospace;
+    font-family: Menlo, "Lucida Console", Monaco, monospace;
 }
 notresp.navbar .nav .my-nav-menu-search {
     float: right
