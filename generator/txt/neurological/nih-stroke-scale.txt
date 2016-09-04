@@ -52,4 +52,4 @@ reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17431204" target="_blank
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 5, 2013; September 4, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/neurological/nih-stroke-scale.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/neurological/nih-stroke-scale.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/neurological/nih-stroke-scale.txt" target="_blank">www.soapnote.org/generator/txt/neurological/nih-stroke-scale.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/neurological/nih-stroke-scale.txt" target="_blank">www.soapnote.org/generator/txt/neurological/nih-stroke-scale.txt</a>[/html][/conditional]

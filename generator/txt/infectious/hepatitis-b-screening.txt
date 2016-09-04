@@ -1,6 +1,6 @@
 Hepatitis B Decision Tool - Initial Screening[html]
 Summary: A Hepatitis B decision tool for interpretation of initial screening tests.
-See soapnote's Hepatitis B <a href="http://www.soapnote.org/infectious/hepatitis-b-screening/">Screening Decision Tool</a> and <a href="http://www.soapnote.org/infectious/hepatitis-b-chronic/">Chronic Decision Tool</a>.
+See soapnote's Hepatitis B <a href="../../infectious/hepatitis-b-screening/">Screening Decision Tool</a> and <a href="../../infectious/hepatitis-b-chronic/">Chronic Decision Tool</a>.
 [/html][select name="Q1" value="negative|positive"] <-- HBsAg - Hepatitis B surface antigen
 [select name="Q2" value="negative|positive"] <-- HBcAb - Hepatitis B core antibody
 [select name="Q3" value="negative|positive"] <-- HBsAb - Hepatitis B surface antibody
@@ -26,10 +26,10 @@ Interpretation - Unclear; two possibilities:
 1.  Early acute infection
 2.  Transient finding up to 18 days after vaccination
 Recommendation - Clinical judgement can guide further investigation, such as short interval retesting.[/conditional][html]
-You may wish to proceed to evaluation and treatment of Chronic Hepatitis B.  This is located at <a href="http://www.soapnote.org/infectious/hepatitis-b-chronic/">soapnote.org/infectious/hepatitis-b-chronic/</a>.[/html]
+You may wish to proceed to evaluation and treatment of Chronic Hepatitis B.  This is located at <a href="../../infectious/hepatitis-b-chronic/">soapnote.org/infectious/hepatitis-b-chronic/</a>.[/html]
 [html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  AFP article on diagnosis and treatment of hepatitis B: <a href="http://www.aafp.org/afp/2010/0415/p965.html">Wilkins (2010) Am Fam Phys 81: 965-72</a>; CDC <a href="http://www.cdc.gov/hepatitis/HBV/index.htm">Hepatitis B page</a> and <a href="http://www.cdc.gov/hepatitis/HBV/PDFs/SerologicChartv8.pdf">serology chart</a>; American Association for Study of Liver Diseases (AASLD) <a href="http://www.aasld.org/practiceguidelines/Pages/default.aspx">Hepatitis B Guidelines</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 11, 2011; September 1, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/infectious/hepatitis-b-screening.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/infectious/hepatitis-b-screening.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/infectious/hepatitis-b-screening.txt" target="_blank">www.soapnote.org/generator/txt/infectious/hepatitis-b-screening.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/infectious/hepatitis-b-screening.txt" target="_blank">www.soapnote.org/generator/txt/infectious/hepatitis-b-screening.txt</a>[/html][/conditional]

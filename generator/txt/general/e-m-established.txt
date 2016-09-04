@@ -1,5 +1,5 @@
 Established Patient E/M Decision Tool[html]
-<small>This tool is for Established Patient Visits.  An established patient has been seen by the provider or a member of his practice/group in the last 3 years; a new patient has not.  There are three sections:  History, Examination, and Medical Decision Making.  For an established visit, the second highest (or median) scoring section determines the level.  For New Patient visits, <a href="http://www.soapnote.org/general/e-m-new/" target="_blank">please go here</a>.</small>[/html]
+<small>This tool is for Established Patient Visits.  An established patient has been seen by the provider or a member of his practice/group in the last 3 years; a new patient has not.  There are three sections:  History, Examination, and Medical Decision Making.  For an established visit, the second highest (or median) scoring section determines the level.  For New Patient visits, <a href="../../general/e-m-new/" target="_blank">please go here</a>.</small>[/html]
 Section 1:  History[html]<small>
 A documented chief complaint is mandatory to bill above 99211.  For the history section, the lowest level of the three subsections determines the billing level.</small>[/html]
 History of Present Illness
@@ -33,4 +33,4 @@ reference:  <a href="http://www.aafp.org/fpm/2011/0900/p33.html" target="_blank"
 posted by:  Mark Morgan, M.D.
 post/review dates:  July 3, 2013; August 28, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/e-m-established.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/e-m-established.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/general/e-m-established.txt" target="_blank">www.soapnote.org/generator/txt/general/e-m-established.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/general/e-m-established.txt" target="_blank">www.soapnote.org/generator/txt/general/e-m-established.txt</a>[/html][/conditional]

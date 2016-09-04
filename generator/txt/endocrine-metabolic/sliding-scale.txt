@@ -1,4 +1,4 @@
-[html]Related Link:  <a href="http://www.soapnote.org/endocrine-metabolic/insulin-correction/" target="_blank">Insulin Correction Dose for Hyperglycemia (calculator)</a>
+[html]Related Link:  <a href="../../endocrine-metabolic/insulin-correction/" target="_blank">Insulin Correction Dose for Hyperglycemia (calculator)</a>
 [/html]INSULIN SLIDING SCALE:  [select name="scale" value="Sensitive - Total Daily Insulin Dose 20-42 units|Regular - Total Daily Insulin Dose 43-84 units|Resistant - Total Daily Insulin Dose 85-126 units|Custom"][conditional field="scale" condition="(scale).is('Sensitive - Total Daily Insulin Dose 20-42 units')"]
 Blood Glucose Below 70: Give juice and seek medical attention
 Blood Glucose  71-149: No Insulin
@@ -33,4 +33,4 @@ reference:  <a href="http://clinical.diabetesjournals.org/content/29/1/3.full" t
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 2, 2015; August 22, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/sliding-scale.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/sliding-scale.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/endocrine-metabolic/sliding-scale.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/sliding-scale.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/endocrine-metabolic/sliding-scale.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/sliding-scale.txt</a>[/html][/conditional]

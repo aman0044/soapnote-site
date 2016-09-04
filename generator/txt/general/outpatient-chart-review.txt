@@ -41,4 +41,4 @@ reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 17, 2014; August 29, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/outpatient-chart-review.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/outpatient-chart-review.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/general/outpatient-chart-review.txt" target="_blank">www.soapnote.org/generator/txt/general/outpatient-chart-review.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/general/outpatient-chart-review.txt" target="_blank">www.soapnote.org/generator/txt/general/outpatient-chart-review.txt</a>[/html][/conditional]

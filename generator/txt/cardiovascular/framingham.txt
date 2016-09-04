@@ -1,5 +1,5 @@
 ATP III evaluation [html]
-<a href="http://www.soapnote.org/cardiovascular/global-risk-assessment-tool/" target="_blank">New calculator based on 2013 ACC/AHA guidelines</a>[/html]
+<a href="../../cardiovascular/global-risk-assessment-tool/" target="_blank">New calculator based on 2013 ACC/AHA guidelines</a>[/html]
 1. CHD (Coronary heart disease) & CHD equivalents
 [select name="CHDClinical" value="ABSENT|PRESENT"] Clinical Coronary Heart Disease
 [select name="CHDCarotid" value="ABSENT|PRESENT"] Symptomatic Carotid Artery Disease (CHD equivalent)
@@ -25,4 +25,4 @@ reference:  <a href="http://www.nhlbi.nih.gov/guidelines/cholesterol/index.htm" 
 posted by:  Mark Morgan, M.D.
 post/review dates:  December 26, 2010; August 23, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/framingham.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/framingham.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/cardiovascular/framingham.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/framingham.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/cardiovascular/framingham.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/framingham.txt</a>[/html][/conditional]

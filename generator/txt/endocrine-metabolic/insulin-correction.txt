@@ -13,4 +13,4 @@ reference:  The “Rule of 1500″ and “Rule of 1700″ which this is based on
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 24, 2011; August 22, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/insulin-correction.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/insulin-correction.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/endocrine-metabolic/insulin-correction.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/insulin-correction.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/endocrine-metabolic/insulin-correction.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/insulin-correction.txt</a>[/html][/conditional]

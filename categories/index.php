@@ -11,11 +11,11 @@
     <li>
         <strong>Show:</strong>
         <input checked="true" type="checkbox" value="calc"/>
-        <label>Calculator</label><img src="http://www.soapnote.org/calculator.png">
+        <label>Calculator</label><img src="../lib/calculator.png">
     </li>
     <li>
         <input checked="true" type="checkbox" value="note"/>
-        <label>Note</label><img src="http://www.soapnote.org/page_white_text.png">
+        <label>Note</label><img src="../lib/page_white_text.png">
     </li>
 </ul>
 <div class="container-fluid">

@@ -37,4 +37,4 @@ reference:  contributed by Dr. Scott Moses, creator/author of the <a href="http:
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 21, 2010; September 2, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/injury/head-injury-history.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/injury/head-injury-history.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/injury/head-injury-history.txt" target="_blank">www.soapnote.org/generator/txt/injury/head-injury-history.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/injury/head-injury-history.txt" target="_blank">www.soapnote.org/generator/txt/injury/head-injury-history.txt</a>[/html][/conditional]

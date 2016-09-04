@@ -495,7 +495,7 @@ include('../lib/generator-header.php');
 						<div id="condition-more" class="collapse">
 							<p><small>These are operators within an <b>individual comparison</b> isLess isGreater isLessOrEqual isGreaterOrEqual is isNot. These are operators for <b>combining multiple comparisons</b>. && is the "AND" operator, || is the "OR" operator. See example for required syntax.</small></p>
 							<p><small>Example 1: Employment type: [radio value="Full Time|Part Time|Unemployed"] [conditional field="job" condition="(job).is('Full Time')||(job).is('Part Time')"]Job title: [text name="job_title"][/conditional]</small></p>
-							<p><small>Another good example is <a href="http://www.soapnote.org/sample/conditional-comparison/" target="_blank">at this page.</a></small></p>
+							<p><small>Another good example is <a href="../sample/conditional-comparison/" target="_blank">at this page.</a></small></p>
 							<p><small>Please note that with these comparison operators, blank/empty fields would be considered as 0, so (field1).isLess(5) will always be true if "field1" is blank. (Because 0 is less than 5)</small></p>
 						</div>
 					</div>
@@ -536,7 +536,7 @@ include('../lib/generator-header.php');
 						<p>You can perform calculations that manipulate variables. Parameters include <em>value</em>, <em>memo</em>, and <em>show</em>. This is a powerful feature of the site and can be used in two ways. <a data-toggle="collapse" data-target="#calculation-more" href="javascript:void(0)">See more</a></p>
 						<div id="calculation-more" class="collapse">
 							<h5>Raw Computations</h5>
-							<p><small>A sample with some simple computations is <a href="http://www.soapnote.org/sample/simple-computations/" target="_blank">here</a>.</small></p>
+							<p><small>A sample with some simple computations is <a href="../sample/simple-computations/" target="_blank">here</a>.</small></p>
 							<p><small>In the sample above, raw computations such as addition, subtraction, multiplication, and division is performed on numbers gathered with [text] input fields.</small></p>
 							<p><small>Example 1:<br>
 							This calculator performs simple computations <br>
@@ -556,11 +556,11 @@ include('../lib/generator-header.php');
 							In between <em>(A)</em> and <em>(B)</em> is the operator (+, -, *, and /).<br>
 							The result shows up in the result box after Submit is pressed.</small></p>
 
-							<p><small>Here are more sample <a href="http://www.soapnote.org/sample/calculation/" target="_blank">calculators</a>.</small></p>
+							<p><small>Here are more sample <a href="../sample/calculation/" target="_blank">calculators</a>.</small></p>
 							<br>
 							<h5>Interpreted calculations</h5>
 
-							<p><small>A sample with an interpreted computation is <a href="http://www.soapnote.org/sample/interpreted-computation/" target="_blank">here</a>.</small></p>
+							<p><small>A sample with an interpreted computation is <a href="../sample/interpreted-computation/" target="_blank">here</a>.</small></p>
 							<p><small>This feature is valuable because it allows you to group ranges of results.</small></p>
 							<p><small><em>A + B -&gt; [calc value="score2=(A)+(B);score2&gt;1000?'Sum is greater than 1000':score2&gt;100?'Sum is greater than 100 and less than or equal to 1000':score2&gt;10?'Sum is greater than 10 and less than or equal to 100':score2&gt;0?'Sum is greater than 0 and less than or equal to 10':'sum is 0 or less'" memo="interpretation"]</em><br><br>
 							As you can see above, it has most of the same elements as a simple calculation. The interpretation information follows the calculation after a semicolon.<br>
@@ -572,7 +572,7 @@ include('../lib/generator-header.php');
 							The next value is <em>score2&gt;100?</em>. The output follows this in single quotes. Then a colon.<br>
 							The next value is <em>score2&gt;10?</em>. The output follows this in single quotes. Then a colon.<br>
 							The lowest value is not specifically labeled like the others. The output alone is listed for everything lower than the range above it.<br><br>
-							This is definitely best understood by looking at the example <a href="http://www.soapnote.org/sample/interpreted-computation/" target="_blank">again it's right here</a>.</small></p>
+							This is definitely best understood by looking at the example <a href="../sample/interpreted-computation/" target="_blank">again it's right here</a>.</small></p>
 						</div>
 					</div>
 					<div class="modal-body">

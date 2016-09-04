@@ -19,4 +19,4 @@ reference:  Obesity Evidence at <a href="http://www.aafp.org/afp/2010/1015/p974.
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 11, 2010; August 21, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/bmi-calc.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/bmi-calc.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/endocrine-metabolic/bmi-calc.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/bmi-calc.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/endocrine-metabolic/bmi-calc.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/bmi-calc.txt</a>[/html][/conditional]

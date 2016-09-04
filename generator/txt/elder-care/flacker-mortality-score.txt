@@ -1,5 +1,5 @@
 Flacker Mortality Score
-[select name="Q1" value="no (0 points)=0|yes (2.5 points)=2.50"] <-- 1) Functional Ability Score more than 4 [html]<a href="http://www.soapnote.org/elder-care/functional-ability-score/" target="_blank">link</a>[/html][checkbox name="Q1v" memo="Display Functional Ability Score Calculator here" value=" "][conditional field="Q1v" condition="(Q1v).is(' ')"][html]
+[select name="Q1" value="no (0 points)=0|yes (2.5 points)=2.50"] <-- 1) Functional Ability Score more than 4 [html]<a href="../../elder-care/functional-ability-score/" target="_blank">link</a>[/html][checkbox name="Q1v" memo="Display Functional Ability Score Calculator here" value=" "][conditional field="Q1v" condition="(Q1v).is(' ')"][html]
 <iframe frameborder="0" marginheight="0" marginwidth="0" width="565" height="500" src="http://www.soapnote.org/embedded-client/?f=10343"></iframe>[/html][/conditional]
 [select name="Q2" value="no (0 points)=0|yes (2.26 points)=2.26"] <-- 2) Weight Loss (Lost 5 or more pounds in last 30 days or 10 or more pounds in last 180 days)
 [select name="Q3" value="no (0 points)=0|yes (2.08 points)=2.08"] <-- 3) Shortness of Breath
@@ -15,4 +15,4 @@ reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/9706893" target="_blank"
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 12, 2014; August 30, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/flacker-mortality-score.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/flacker-mortality-score.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/elder-care/flacker-mortality-score.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/flacker-mortality-score.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/elder-care/flacker-mortality-score.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/flacker-mortality-score.txt</a>[/html][/conditional]

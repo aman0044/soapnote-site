@@ -4,4 +4,4 @@
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 22, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/hyperlipidemia-diet.txt</a>[/html][/conditional]

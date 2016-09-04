@@ -56,4 +56,4 @@ reference:  none
 posted by:  RUKnight
 post/review dates:  June 28, 2012; September 7, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/military-intake-note.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/military-intake-note.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/mental-health/military-intake-note.txt" target="_blank">www.soapnote.org/generator/txt/mental-health/military-intake-note.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/mental-health/military-intake-note.txt" target="_blank">www.soapnote.org/generator/txt/mental-health/military-intake-note.txt</a>[/html][/conditional]

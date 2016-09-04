@@ -3,7 +3,7 @@ This decision tool is intended to help select medications for diabetes on the ba
 Step 1: Select serum creatinine level
 [select name="Q1" value="less than 1.4 mg/dL for women OR less than 1.5 mg/dL for men=1|1.4-2.0 mg/dL for women OR 1.5-2.0 mg/dL for men=2|greater than 2.0 mg/dL=3"]
 
-Step 2: Select ALT or Child-Pugh score [html]<a href="http://www.soapnote.org/digestive-system/child-pugh-score/" target="_blank">http://www.soapnote.org/digestive-system/child-pugh-score/</a>[/html]
+Step 2: Select ALT or Child-Pugh score [html]<a href="../../digestive-system/child-pugh-score/" target="_blank">http://www.soapnote.org/digestive-system/child-pugh-score/</a>[/html]
 [select name="Q2" value="ALT less than 2.5 times ULN or Child Pugh 5-6=10|ALT greater than or equal to 2.5 times ULN or Child Pugh 7-9=100|Child-Pugh greater than 9=1000"]
 
 RESULT --> [calc memo="recommendation" value="score=(Q1)*(Q2);score>999?'severe liver impairment and any level of renal function.  insulin only. ':score>299?'moderate liver impairment and serum creatinine more than 2. DPP-4 inhibitor at renal dose, meglinitide with caution, consider insulin. ':score>199?'moderate liver and renal impairment. DPP-4 inhibitor at renal dose, meglinitide and alpha-glucosidase inhibitor with caution. ':score>99?'moderate liver and mild or no renal impairment. DPP-4 inhibitor, meglinitide and alpha-glucosidase inhibitor with caution. ':score>29?'mild or no liver impairment and serum creatinine more than 2. DPP-4 inhibitor at renal dose, meglinitide, or thiazolidinedione. ':score>19?'mild or no liver and moderate renal impairment. DPP-4 inhibitor at renal dose, sulfonylurea, meglinitide, thiazolidinedione, or alpha-glucosidase inhibitor. ':'mild or no liver or renal impairment. metformin, sulfonylurea, DPP-4 inhibitor, meglinitide, thiazolidinedione, or alpha-glucosidase inhibitor.'"]
@@ -54,7 +54,7 @@ HbA1c reduction information: Staged Diabetes Management • 4th Edition • 2007
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 24, 2010; August 21, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/diabetes-medications.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/endocrine-metabolic/diabetes-medications.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/endocrine-metabolic/diabetes-medications.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/diabetes-medications.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/endocrine-metabolic/diabetes-medications.txt" target="_blank">www.soapnote.org/generator/txt/endocrine-metabolic/diabetes-medications.txt</a>[/html][/conditional]
 
 
 

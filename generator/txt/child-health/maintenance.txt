@@ -1,4 +1,4 @@
-[html]See also the updated version at <a href="http://www.soapnote.org/child-health/health-maintenance-visit/" target="_blank">THIS PAGE</a>
+[html]See also the updated version at <a href="../../child-health/health-maintenance-visit/" target="_blank">THIS PAGE</a>
 [/html]Subjective/History
 [select name="Q1" value="1 week|2 month|4 month|6 month|9 month|12 month|15 month|2 year|3 year|4 year|5 year|6-10 year|11-14 year|15-18 year"][conditional field="Q1" condition="(Q1).is('1 week')"]
 [text size=80 default="Has done well since hospital discharge. "]
@@ -338,4 +338,4 @@ reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 30, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/child-health/maintenance.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/child-health/maintenance.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/child-health/maintenance.txt" target="_blank">www.soapnote.org/generator/txt/child-health/maintenance.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/child-health/maintenance.txt" target="_blank">www.soapnote.org/generator/txt/child-health/maintenance.txt</a>[/html][/conditional]

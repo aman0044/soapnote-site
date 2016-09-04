@@ -72,4 +72,4 @@ reference:  <a href="http://www.aafp.org/afp/2005/0501/p1745.html" target="_blan
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 30, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/geriatric-comprehensive-assessment-history.txt</a>[/html][/conditional]

@@ -9,7 +9,7 @@ TOBACCO
 Today's Impact --> [calc memo="---" value="scoreCigTodayF=((TodayCigF)*(-0.225)).toFixed(2)"] Hours
 Longevity Impact --> [calc memo="---" value="scoreCigLifeF=((TodayCigF)*(YearCigF)*(-0.225)/(24)).toFixed(2)"] Years
 
-WEIGHT[html]<br /> <a href="http://www.soapnote.org/endocrine-metabolic/bmi-calc/" target="_blank">BMI calculator</a>[/html]
+WEIGHT[html]<br /> <a href="../../endocrine-metabolic/bmi-calc/" target="_blank">BMI calculator</a>[/html]
 [select name="BMIF" value="up to 27.4=0|27.5 to 32.4=1|32.5 to 37.4=2|37.5 to 42.4=3|42.5 to 47.4=4|47.5 to 52.4=5|52.5 to 57.4=6|57.5 to 62.4=7"] <-- BMI
 [text default=0 name="YearBMIF"] <-- Years at this weight/BMI
 Today's Impact --> [calc memo="---" value="scoreWeightTodayF=((BMIF)*(-1.5)).toFixed(2)"] Hours
@@ -68,7 +68,7 @@ TOBACCO
 Today's Impact --> [calc memo="---" value="scoreCigTodayM=((TodayCigM)*(-0.25)).toFixed(2)"] Hours
 Longevity Impact --> [calc memo="---" value="scoreCigLifeM=((TodayCigM)*(YearCigM)*(-0.25)/(24)).toFixed(2)"] Years
 
-WEIGHT[html]<br /> <a href="http://www.soapnote.org/endocrine-metabolic/bmi-calc/" target="_blank">BMI calculator</a>[/html]
+WEIGHT[html]<br /> <a href="../../endocrine-metabolic/bmi-calc/" target="_blank">BMI calculator</a>[/html]
 [select name="BMIM" value="up to 27.4=0|27.5 to 32.4=1|32.5 to 37.4=2|37.5 to 42.4=3|42.5 to 47.4=4|47.5 to 52.4=5|52.5 to 57.4=6|57.5 to 62.4=7"] <-- BMI
 [text default=0 name="YearBMIM"] <-- Years at this weight/BMI
 Today's Impact --> [calc memo="---" value="scoreWeightTodayM=((BMIM)*(-1.5)).toFixed(2)"] Hours
@@ -125,4 +125,4 @@ reference:  <a href="http://www.amazon.com/gp/product/1846686202/ref=as_li_qf_sp
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 20, 2013; August 28, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/health-risk.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/general/health-risk.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/general/health-risk.txt" target="_blank">www.soapnote.org/generator/txt/general/health-risk.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/general/health-risk.txt" target="_blank">www.soapnote.org/generator/txt/general/health-risk.txt</a>[/html][/conditional]

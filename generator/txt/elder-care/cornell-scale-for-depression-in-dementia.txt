@@ -24,4 +24,4 @@ reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/3337862" target="_blank"
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 16, 2010; August 30, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt" target="_blank">www.soapnote.org/generator/txt/elder-care/cornell-scale-for-depression-in-dementia.txt</a>[/html][/conditional]

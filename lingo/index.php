@@ -226,7 +226,7 @@
 		Employment type: [radio value="Full Time|Part Time|Unemployed"]
 		[conditional field="job" condition="(job).is('Full Time')||(job).is('Part Time')"]Job title: [text name="job_title"][/conditional]
 
-		Another good example is <a href="http://www.soapnote.org/sample/conditional-comparison/">at this page</a>.
+		Another good example is <a href="../sample/conditional-comparison/">at this page</a>.
 
 		Please note that with these comparison operators, blank/empty fields would be considered as 0, so
 		(field1).isLess(5) will always be true if "field1" is blank. (Because 0 is less than 5)
@@ -235,7 +235,7 @@
 		Parameters include <em>value</em>, <em>memo</em>, and <em>show</em>.
 		This is a powerful feature of the site and can be used in two ways.
 		<h4><a name="computation"></a>Raw Computations</h4>
-		A sample with some simple computations is <a href="http://www.soapnote.org/sample/simple-computations/" target="_blank">here</a>.
+		A sample with some simple computations is <a href="../sample/simple-computations/" target="_blank">here</a>.
 		In the sample above, raw computations such as addition, subtraction, multiplication, and division is performed on numbers gathered with [text] input fields.
 		Example 1:
 		This calculator performs simple computations
@@ -255,9 +255,9 @@
 		<em>(B)</em> refers to the name of the second [text] input field.
 		In between <em>(A)</em> and <em>(B)</em> is the operator (+, -, *, and /).
 		The result shows up in the result box after Submit is pressed.
-		Here are more sample <a href="http://www.soapnote.org/sample/calculation/" target="_blank">calculators</a>.
+		Here are more sample <a href="../sample/calculation/" target="_blank">calculators</a>.
 		<h4><a name="interpretation"></a>Interpreted calculations</h4>
-		A sample with an interpreted computation is <a href="http://www.soapnote.org/sample/interpreted-computation/" target="_blank">here</a>.
+		A sample with an interpreted computation is <a href="../sample/interpreted-computation/" target="_blank">here</a>.
 		This feature is valuable because it allows you to group ranges of results.
 		<em>A + B –&gt; [calc value="score2=(A)+(B);score2&gt;1000?'Sum is greater than 1000':score2&gt;100?'Sum is greater than 100 and less than or equal to 1000':score2&gt;10?'Sum is greater than 10 and less than or equal to 100':score2&gt;0?'Sum is greater than 0 and less than or equal to 10':'sum is 0 or less'" memo="interpretation"]</em>
 		As you can see above, it has most of the same elements as a simple calculation. The interpretation information follows the calculation after a semicolon.
@@ -269,10 +269,10 @@
 		The next value is <em>score2&gt;100?</em>. The output follows this in single quotes. Then a colon.
 		The next value is <em>score2&gt;10?</em>. The output follows this in single quotes. Then a colon.
 		The lowest value is not specifically labeled like the others. The output alone is listed for everything lower than the range above it.
-		This is definitely best understood by looking at the example <a href="http://www.soapnote.org/sample/interpreted-computation/" target="_blank">again it's right here</a>.
+		This is definitely best understood by looking at the example <a href="../sample/interpreted-computation/" target="_blank">again it's right here</a>.
 		</br>
 		</br>
-		Please go to the <a href="http://www.soapnote.org/help/">help page</a> if you have any questions!
+		Please go to the <a href="../help/">help page</a> if you have any questions!
 		</br>
 		</br>
 		<em>Last Updated May 15, 2016</em>

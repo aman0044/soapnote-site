@@ -61,7 +61,7 @@ concern:  obstructive sleep apnea
 Apneic events during sleep; daytime sleepiness; or snoring are signs/symptoms which may suggest obstructive sleep apnea.  
 Suggested work up:
 * sleep study or Epworth Sleepiness Scale with nighttime pulse oximetry.[html]
-A web calculator for the Epworth Sleepiness Scale is located <a href="http://www.soapnote.org/respiratory/epworth-sleepiness-scale/">here</a>. [/html]
+A web calculator for the Epworth Sleepiness Scale is located <a href="../../respiratory/epworth-sleepiness-scale/">here</a>. [/html]
 ⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒[/conditional][conditional field="Q21|Q22|Q23|Q24|Q25|Q26|Q27" condition="(Q21).is('YES')||(Q22).is('YES')||(Q23).is('YES')||(Q24).is('YES')||(Q25).is('YES')||(Q26).is('YES')||(Q27).is('YES')"]
 concern:  pheochromocytoma
 Flushing; headaches, labile blood pressures; orthostatic hypotension; palpitations; sweating; or syncope are signs/symptoms which could suggest pheochromocytoma.  
@@ -103,4 +103,4 @@ reference:  "Diagnosis of Secondary Hypertension: An Age-Based Approach" <a href
 posted by:  Mark Morgan, M.D.
 post/review dates:  December 24, 2010; August 18, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/secondary-hypertension.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/secondary-hypertension.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/cardiovascular/secondary-hypertension.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/secondary-hypertension.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/cardiovascular/secondary-hypertension.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/secondary-hypertension.txt</a>[/html][/conditional]

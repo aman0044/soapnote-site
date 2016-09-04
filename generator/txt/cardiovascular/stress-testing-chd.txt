@@ -15,4 +15,4 @@ reference:  Garber, AM Stress testing for diagnosis of coronary heart disease. U
 posted by:  Mark Morgan, M.D.
 post/review dates:  July 31, 2013; August 20, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/stress-testing-chd.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/cardiovascular/stress-testing-chd.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/cardiovascular/stress-testing-chd.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/stress-testing-chd.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/cardiovascular/stress-testing-chd.txt" target="_blank">www.soapnote.org/generator/txt/cardiovascular/stress-testing-chd.txt</a>[/html][/conditional]

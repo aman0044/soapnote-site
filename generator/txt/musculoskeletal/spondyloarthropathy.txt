@@ -1,5 +1,5 @@
 Spondyloarthropathy
-[html]Note: This decision tool assumes a chronic (6+ weeks), <a href="http://www.soapnote.org/musculoskeletal/inflammatory-vs-noninflammatory/">inflammatory</a>, <a href="http://www.soapnote.org/musculoskeletal/articular-vs-nonarticular/">articular</a>   disorder that affects more than 3 joints <em>asymmetrically</em>.
+[html]Note: This decision tool assumes a chronic (6+ weeks), <a href="../../musculoskeletal/inflammatory-vs-noninflammatory/">inflammatory</a>, <a href="../../musculoskeletal/articular-vs-nonarticular/">articular</a>   disorder that affects more than 3 joints <em>asymmetrically</em>.
 [/html]
 Findings in Spondyloarthropathies
 Location/Distribution
@@ -31,4 +31,4 @@ reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/9455961" target="_blank"
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 26, 2014; September 3, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/musculoskeletal/spondyloarthropathy.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/musculoskeletal/spondyloarthropathy.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/musculoskeletal/spondyloarthropathy.txt" target="_blank">www.soapnote.org/generator/txt/musculoskeletal/spondyloarthropathy.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/musculoskeletal/spondyloarthropathy.txt" target="_blank">www.soapnote.org/generator/txt/musculoskeletal/spondyloarthropathy.txt</a>[/html][/conditional]

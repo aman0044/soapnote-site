@@ -17,4 +17,4 @@ reference:  Rome III (2006) Criteria for Irritable Bowel Syndrome at <a href="ht
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 25, 2013; August 25, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/digestive-system/rome-ibs.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/digestive-system/rome-ibs.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/digestive-system/rome-ibs.txt" target="_blank">www.soapnote.org/generator/txt/digestive-system/rome-ibs.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/digestive-system/rome-ibs.txt" target="_blank">www.soapnote.org/generator/txt/digestive-system/rome-ibs.txt</a>[/html][/conditional]

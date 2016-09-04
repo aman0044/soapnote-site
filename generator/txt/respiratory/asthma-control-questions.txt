@@ -1,8 +1,8 @@
 Generic Asthma Control Calculator[html]
 SUMMARY: Free, unvalidated questionnaire that can be used in assessment of asthma symptom control.  The questions are from a 1995 NIH Asthma Pocket Guide referenced in the NAEPP guidelines below.
 LINKS:
-<a href="http://www.soapnote.org/respiratory/asthma-severity/" target="_blank">Asthma Severity Decision Tool</a>
-<a href="http://www.soapnote.org/respiratory/asthma-control/" target="_blank">Asthma Control Decision Tool</a>
+<a href="../../respiratory/asthma-severity/" target="_blank">Asthma Severity Decision Tool</a>
+<a href="../../respiratory/asthma-control/" target="_blank">Asthma Control Decision Tool</a>
 [/html]
 [select name="Q1" value="no=0|YES=1"] <-- 1. Has your asthma awakened you at night or early morning?
 [select name="Q2" value="no=0|YES=1"] <-- 2. Have you needed more quick-relief bronchodilator medication (inhaled short-acting beta2-agonist) than usual? 
@@ -17,4 +17,4 @@ reference:  <a href="http://www.nhlbi.nih.gov/guidelines/asthma/asthgdln.htm" ta
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 25, 2012; August 21, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/respiratory/asthma-control-questions.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/respiratory/asthma-control-questions.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/respiratory/asthma-control-questions.txt" target="_blank">www.soapnote.org/generator/txt/respiratory/asthma-control-questions.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/respiratory/asthma-control-questions.txt" target="_blank">www.soapnote.org/generator/txt/respiratory/asthma-control-questions.txt</a>[/html][/conditional]

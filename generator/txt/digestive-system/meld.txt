@@ -1,5 +1,5 @@
 Model for End-Stage Liver Disease (UNOS) Calculation[html]
-This calculator provides the MELD score for patients with cirrhosis.  See also <a href="http://www.soapnote.org/digestive-system/child-pugh-score/" target="_blank">Child-Pugh Liver Failure Prognosis Calculator</a>[/html]
+This calculator provides the MELD score for patients with cirrhosis.  See also <a href="../../digestive-system/child-pugh-score/" target="_blank">Child-Pugh Liver Failure Prognosis Calculator</a>[/html]
 [text name="bilirubin" size=5] <-- Bilirubin [comment memo="units are mg/dL"]  
 [text name="creatinine" size=5] <-- Serum Creatinine [comment memo="units are mg/dL"]  
 [text name="INR" size=5] <-- INR  
@@ -23,4 +23,4 @@ reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/12512033" target="_blank
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 8, 2011; August 25, 2015
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/digestive-system/meld.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/digestive-system/meld.txt</a>
-markup link:  <a href="http://www.soapnote.org/generator/txt/digestive-system/meld.txt" target="_blank">www.soapnote.org/generator/txt/digestive-system/meld.txt</a>[/html][/conditional]
+markup link:  <a href="../../generator/txt/digestive-system/meld.txt" target="_blank">www.soapnote.org/generator/txt/digestive-system/meld.txt</a>[/html][/conditional]
