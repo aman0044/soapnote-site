@@ -7,7 +7,7 @@
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/site-style.css">
+	<link rel="stylesheet" href="/www.soapnote.org/lib/site-style.css">
 	<!-- jQuery library -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
