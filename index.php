@@ -27,7 +27,7 @@ include('lib/main-header.php');
 </div>
 <hr>
 <div id="container" class="container">
-<h3>New & Frequently Visited</h3>
+<h4>New & Frequently Visited</h4>
 <ul class="filterSection">
     <li>
         <input checked="true" type="checkbox" value="calc"/>
