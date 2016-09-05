@@ -31,6 +31,5 @@ INSTRUCTIONS: Respect the tragedy of lost hope and work to rebuild.  Use this ch
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23062046" target="_blank">Saguil, A., & Phelps, K. (2012). The spiritual assessment. American family physician, 86(6). </a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 5, 2016
-http://www.soapnote.org/mental-health/
 revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/hope-checklist.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/hope-checklist.txt</a>
 markup link:  <a href="../../generator/txt/mental-health/hope-checklist.txt" target="_blank">www.soapnote.org/generator/txt/mental-health/hope-checklist.txt</a>[/html][/conditional]
