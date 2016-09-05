@@ -17,7 +17,7 @@ Mood Disorder Questionnaire
 [select name="Q15" value="No problems=0|Minor problem=0|Moderate problem=100|Serious problem=100"] <-- 3. How much of a problem did any of these cause you - like being unable to work; having family, money or legal troubles; getting into arguments or fights?
 Interpretation --> [calc memo="result" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)+(Q11)+(Q12)+(Q13)+(Q14)+(Q15);score1>206?'Positive screen for possible bipolar disorder':'Negative screen for possible bipolar disorder'"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/12505821" target="_blank">Hirschfeld RM, Holzer C, Calabrese JR, Weissman M, Reed M, Davies M, Frye MA, Keck P, McElroy S, Lewis L, Tierce J, Wagner KD, Hazard E. Validity of the mood disorder questionnaire: a general population study. Am J Psychiatry. 2003 Jan;160(1):178-80.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 25, 2014; September 7, 2015

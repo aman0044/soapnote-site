@@ -67,7 +67,7 @@ Speech ***Yes/No***
 Social Services ***Yes/No***
 Home Health Care ***Yes/No***
 Plan of Care/Recommendations:  ***
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.aafp.org/afp/2005/0501/p1745.html" target="_blank">Am Fam Physician. 2005 May 1;71(9):1745-1750</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/7088743" target="_blank">Postgrad Med. 1982 Jul;72(1):189-94, 196, 198.  Somatoform disorders: differentiation of conversion, hypochondriacal, psychophysiologic, and related disorders</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/7183759" target="_blank">J Psychiatr Res. 1982-1983;17(1):37-49. Development and validation of a geriatric depression screening scale: a preliminary report</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 30, 2015

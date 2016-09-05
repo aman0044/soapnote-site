@@ -8,7 +8,7 @@ For febrile children ages 3-36 months. Used to predict serious bacterial infecti
 [select name="Q6" value="Alert or Smiles: 1 point=1|Alert or brief smile: 3 points=3|No smile, anxious, or dull: 5 points=5"] <-- Social Response
 Score --> [calc memo="Score" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)"] out of 30 points
 Interpretation --> [calc memo="Interpretation" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6);score>15?'92.3% incidence of serious illness':score>10?'26% incidence of serious illness':'2.7% incidence of serious illness'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/7133831" target="_blank">McCarthy (1982) Pediatrics 70:802-9.</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/4022688" target="_blank">McCarthy (1985) Pediatrics 76:167-71.</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/3540248" target="_blank">McCarthy (1987) J Pediatr 110:26-30.</a>, <a href="http://www.fpnotebook.com/ID/Exam/YlSclFrFbrlChld3T36Mnths.htm" target="_blank">FPNotebook page</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 15, 2012; September 1, 2015

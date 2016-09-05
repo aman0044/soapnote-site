@@ -1,6 +1,6 @@
 [html]Stye History
 [/html][textarea columns=80 rows=25 default="Patient has noticed ***painful/swollen/erythematous/draining/pruritic*** ***right/left*** ***upper eyelid/lower eyelid***.  Symptoms have been present for ***duration***.  Symptoms are ***stable/worsening/improving***.  Vision ***is stated to be normal/is slightly blurred.  ***Has had a fever/Has not had a fever***.  ***Has/Has not*** had a past history of styes."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 12, 2010; September 6, 2015

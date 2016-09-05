@@ -34,7 +34,7 @@ Interpretation --> [calc memo="Interpretation" value="score2=(Q2m1)+(Q2m2)+(Q2m3
 [select name="Q5f2" value="no=0|YES=1"] <-- Depression (1 point)
 Score --> [calc memo="Score" value="score3=(Q2f1)+(Q2f2)+(Q2f3)+(Q3f1)+(Q3f2)+(Q3f3)+(Q3f4)+(Q4f)+(Q5f1)+(Q5f2)"]
 Interpretation --> [calc memo="Interpretation" value="score4=(Q2f1)+(Q2f2)+(Q2f3)+(Q3f1)+(Q3f2)+(Q3f3)+(Q3f4)+(Q4f)+(Q5f1)+(Q5f2);score4>7?'High risk':score4>3?'Moderate risk':'Low risk'"][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16336480" target="_blank">Webster (2005) Pain Med 6(6): 432-42</a>
 posted by:  Jonathan Poon
 post/review dates:  December 17, 2011; September 3, 2015

@@ -19,7 +19,7 @@ CRP = C-reactive protein.  ESR = erythrocyte sedimentation rate.
 
 SCORE --> [calc memo="score" value="score1=(Q1)+(Q2)+(Q3)+(Q4)"]
 RESULT --> [calc memo="interpretation" value="score2=(Q1)+(Q2)+(Q3)+(Q4);score2>5?'MEETS 2010 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Rheumatoid Arthritis':'DOES NOT MEET 2010 American College of Rheumatology/European League Against Rheumatism Classification Criteria for Rheumatoid Arthritis'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  From the <a href="http://www.ncbi.nlm.nih.gov/pubmed/20699241">2010 American College of Rheumatology/European League Against Rheumatism Criteria</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 20, 2012; September 3, 2015

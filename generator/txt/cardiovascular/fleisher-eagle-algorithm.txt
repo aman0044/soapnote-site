@@ -9,7 +9,7 @@ Fleisher-Eagle Algorithm for Preoperative Cardiac Risk Assessment
 
 ------------------------------------------------------------
 Interpretation: [calc value="score=(ischemic)+(chf)+(riskysurg)+(diabetes)+(renal)+(poorfunc)+(coronary); score>2?'Noninvasive testing should be performed, followed by cardiac catheterization if the results are positive.':score>0?'Perioperative beta blocker therapy is prudent, but no further testing is recommended.':'No further testing or treatment recommended.'" memo="score interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11759647" target="_blank">Fleisher (2001) N Engl J Med 345:1677</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 24, 2013; August 19, 2015

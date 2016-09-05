@@ -7,7 +7,7 @@ Score of 5 or more may indicate COPD[/html]
 [select name="Q5" value="35 - 49 (0 points)=0|50 - 59 (1 point)=1|60 - 69 (2 points)=2|70+ (2 points)=2"] <-- 5. How old are you?
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)" memo="Score"] points
 Interpretation --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5);score>4?'Possible Chronic Obstructive Pulmonary Disease':'Low Risk for Chronic Obstructive Pulmonary Disease'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18415807" target="_blank">Journal of Chronic Obstructive Pulmonary Disease, April 2008, Martinez, F. J., Raczek, A. E., Seifer, F. D., Conoscenti, C. S., Curtice, T. G. & D'Eletto, T., et al. (2008). Development and Initial Validation of a Self-Scored COPD Population Screener Questionnaire (COPD-PS). </a>
 Screening tool adapted from <a href="http://www.drive4copd.org/" target="_blank">Drive4COPD</a> campaign.
 posted by:  Jonathan Poon

@@ -8,7 +8,7 @@ The Outpatient Bleeding Risk Index is used to help predict the risk of bleeding 
 [select name="Q4" value="No (0 points)=0|YES (1 point)=1"] <-- Recent MI, hematocrit lower than 30 percent, creatinine higher than 1.5, or diabetes mellitus.
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)" memo="score"] out of 4 points
 Interpretation (percent of cases with major bleeding at 1 year) --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4);score>2?'High risk(10.6-48%)':score>0?'Intermediate risk (2.5-12%)':'Low risk (0-3%)'" memo="interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.aafp.org/afp/2005/0615/p2348.html" target="_blank">Am Fam Physician. 2005 Jun 15;71(12):2348-2350. </a>, <a href="http://www.aafp.org/afp/2010/0315/p780.html" target="_blank">Am Fam Physician. 2010 Mar 15;81(6):780-782.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 31, 2010; August 20, 2015

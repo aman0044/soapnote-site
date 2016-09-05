@@ -12,7 +12,7 @@ Findings: (All answers must be 'True' to Rule out PE)
 [select name="dvt" value="false=0|true=1"] <-- No Clinical Signs Suggesting DVT?
 Score --> [calc value="score=(age)+(HR)+(O2)+(prior)+(trauma)+(hemoptysis)+(estrogen)+(dvt)" memo="score"]
 Interpretation: [calc value="score=(age)+(HR)+(O2)+(prior)+(trauma)+(hemoptysis)+(estrogen)+(dvt);score>7?'1.8% chance of pulmonary embolism *if* pretest probability was low (Wells PE score of 1 or less)':'Pulmonary embolism is not ruled out'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15304025" target="_blank">Kline (2004) J Thromb Haemost. 2:1247-55.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  July 10, 2012; August 21, 2015

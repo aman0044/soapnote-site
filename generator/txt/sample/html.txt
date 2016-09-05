@@ -5,3 +5,5 @@ This text goes into the output
 <em><strong><mark>This italic, bold, highlighted text also does not go into the output.</mark></strong></em>
 <small>This small text does not go to output.</small>
 <del>Finally, this deleted text does go to output either.</del>[/html]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/html.txt" target="_blank">www.soapnote.org/generator/txt/sample/html.txt</a>[/html][/conditional]

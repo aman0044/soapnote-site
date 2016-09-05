@@ -20,3 +20,5 @@ blah
 blah
 blah
 blah
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/mark.txt" target="_blank">www.soapnote.org/generator/txt/sample/mark.txt</a>[/html][/conditional]

@@ -14,7 +14,7 @@ Obesity class II (BMI 35 to 39.9): starts at [calc memo="---" value="score7=((35
 Extreme obesity or class III obesity (BMI 40 to 49.9): starts at [calc memo="---" value="score8=((40)*(Height)*(Height)/(703)).toFixed(1)"] lbs
 Super-obesity or class IV obesity (BMI 50 to 59.9): starts at [calc memo="---" value="score9=((50)*(Height)*(Height)/(703)).toFixed(1)"] lbs
 Super-super obesity or class V obesity (BMI 60 and above): starts at [calc memo="---" value="score10=((60)*(Height)*(Height)/(703)).toFixed(1)"] lbs
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  Obesity Evidence at <a href="http://www.aafp.org/afp/2010/1015/p974.html" target="_blank">Delaet (2010) Am Fam Physician 82:974-5</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 11, 2010; August 21, 2015

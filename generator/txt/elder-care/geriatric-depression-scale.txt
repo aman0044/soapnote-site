@@ -16,7 +16,7 @@ Findings:  [comment memo="All findings are weighted 1 point -- total possible sc
 [select value="no=0|YES=1" name="hopeless"] <-- Do you feel that your situation is hopeless?
 [select value="no=0|YES=1" name="better"] <-- Do you think that most people are better off than you are?
 Score:  [calc value="score=(satisfied)+(dropped)+(empty)+(bored)+(spirits)+(afraid)+(happy)+(helpless)+(home)+(memory)+(alive)+(worthless)+(energy)+(hopeless)+(better)" memo="x"]/15  Interpretation:  [calc value="score=(satisfied)+(dropped)+(empty)+(bored)+(spirits)+(afraid)+(happy)+(helpless)+(home)+(memory)+(alive)+(worthless)+(energy)+(hopeless)+(better);score>10?'Very likely depression':score>5?'Possible depression':'Depression unlikely'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.aafp.org/afp/2002/0915/p1001.html" target="_blank">Screening for Depression Across the Lifespan: A Review of Measures for Use in Primary Care Settings, Am Fam Physician. 2002 Sep 15;66(6):1001-1009</a>, <a href="http://www.aafp.org/afp/2004/0715/p343.html" target="_blank">Geriatric Failure to Thrive, Am Fam Physician. 2004 Jul 15;70(2):343-350</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 16, 2010; August 30, 2015

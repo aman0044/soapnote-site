@@ -9,7 +9,7 @@ Summary:  Diagnostic rule for gouty arthritis which doesn't require joint fluid 
 [select name="Q7" value="No (0 points)=0|Yes (3.5 points)=3.5"] <-- Serum uric acid level > 5.88 mg/dl (350 mmol/L)
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)" memo="score"]
 Interpretation --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7);score>7.9?'80.4%':score>4?'27.0%':'2.8%'" memo="prevalence"] prevalence of gout.
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20625017" target="_blank">Janssens (2010) Arch Intern Med 170:  1120-26.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 18, 2012; September 2, 2015

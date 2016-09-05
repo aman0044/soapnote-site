@@ -10,7 +10,7 @@ STOP-BANG Questionnaire for Obstructive Sleep Apnea
 
 Score --> [calc memo="number" value="score0=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)"] / 8
 Interpretation --> [calc memo="result" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8);score1>2?'High Risk for Obstructive Sleep Apnea':'Low Risk for Obstructive Sleep Apnea'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18431116" target="_blank">Chung F, Yegneswaran B, Liao P, Chung SA, Vairavanathan S, Islam S, Khajehdehi A, Shapiro CM. STOP questionnaire: a tool to screen patients for obstructive sleep apnea. Anesthesiology. 2008 May;108(5):812-21</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 13, 2014; September 7, 2015

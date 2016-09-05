@@ -17,7 +17,7 @@ Part 3:  Rational Manipulation of Information
 [select name="Q13" value="satisfactory|marginal|unsatisfactory"] <-- What were the things that were important in reaching your decision?
 [select name="Q14" value="satisfactory|marginal|unsatisfactory"] <-- How did you balance the pluses and minuses?
 [textarea memo="Comments/Discussion"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/3200278" target="_blank">
 Appelbaum PS, Grisso T. Assessing patients capacities to consent to treatment. N Engl J Med. 1988 Dec 22;319(25):1635-8.</a>
 posted by:  Mark Morgan, M.D.

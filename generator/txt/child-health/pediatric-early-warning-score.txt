@@ -26,7 +26,7 @@ Score --> [calc memo="number" value="score=(Q1)+(Q2)+(Q3)+(Q4)"] out of 11 point
 Recommendation --> [calc memo="result" value="score2=(Q1)+(Q2)+(Q3)+(Q4);score2>6?'Assess every 30 minutes':score2>5?'Assess every 1 hour':score2>4?'Assess every 1 to 2 hours':'Assess every 4 hours'"]
 
 Note: Rapid response evaluation is indicated for parental concern regardless of above score
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16990097" target="_blank">Duncan H, Hutchison J, Parshuram CS. The Pediatric Early Warning System score: a severity of illness score to predict urgent medical need in hospitalized children. J Crit Care. 2006 Sep;21(3):271-8.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 15, 2015; September 7, 2015

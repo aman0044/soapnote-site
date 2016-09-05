@@ -5,7 +5,7 @@ Physical Functional Ability (FAQ5) Score
 [select name="Q4" value="1. Able to lift up to 10 lbs. occasionally=1|2. Able to lift up to 20 lbs. occasionally=2|3. Able to lift up to 50 lbs. occasionally=3|4. Able to lift over 50 lbs. occasionally=4"] <-- Lifting ability assessment 
 [select name="Q5" value="1. Unable to do any work=1|2. Able to work part-time and with physical limitations=2|3. Able to work part-time or with physical limitations=3|4. Able to perform normal work=4"] <-- Work ability assessment
 Physical Functional Ability (FAQ5) Score --> [calc memo="score" value="score1=((Q1)+(Q2)+(Q3)+(Q4)+(Q5))*5"] / 100
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  Peter S Marshall MD MPH in <a href="https://www.icsi.org/_asset/bw798b/ChronicPain.pdf" target="_blank">Institute for Clinical Systems Improvement (ICSI) Chronic Pain Guideline</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 23, 2014; September 3, 2015

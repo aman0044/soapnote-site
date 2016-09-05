@@ -8,7 +8,7 @@ To use the PC-PTSD instrument, ask the patient, “In your life have you ever ha
 [select name="Q4" value="no=0|YES=1"] <-- Felt numb or detached from others, activities, or your surroundings?
 Result --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4);score>2?'positive screen for PTSD':'negative screen for PTSD'" memo="Interpretation"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  AAFP Point-of-Care Guide at <a href="http://www.aafp.org/afp/2007/1215/p1848.html" target="_blank">Ebell (2007) Am Fam Physician 76: 1848-9</a>, PDF article on the PC-PTSD Screening Tool at <a href="http://www.ptsd.va.gov/professional/articles/article-pdf/id26676.pdf" target="_blank">Prins (2004) Prim Care Psych 9: 9-14</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 1, 2011; September 7, 2015

@@ -6,7 +6,7 @@ See also <a href="../../kidney/mdrd-gfr/">MDRD GFR Calculator</a>[/html]
 [text name="QWeight"] <-- Weight (in kg)
 Interpretation --> [calc value="score=((140 - (QAge)) * (QWeight) * (QGender) / ((QCreat) * 72));score>89.99?'CKD not present or CKD Stage I if microalbuminuria':score>59.99?'CKD Stage II':score>29.99?'CKD Stage III':score>14.99?'CKD Stage IV':'CKD Stage V'" memo="Interpretation"]
 Based on estimated GFR of [calc value="score1=score.toFixed(2)" memo="GFR"] mL/min
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/1244564" target="_blank">Cockcroft DW, Gault MH: Prediction of creatinine clearance from serum creatinine. Nephron 16: 31–41, 1976</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 10, 2013; September 3, 2015

@@ -6,7 +6,7 @@ Patient ***is/is not*** at goal.
 Labs:  Creatinine ***, BUN ***, K ***, Na ***
 Medications:  ***ACE/ARB/thiazide/Beta Blocker/Ca Channel Blocker/other*** ***continued/added/changed***
 Patient to arrange follow up ***tomorrow/within the next week/within the next month***
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010

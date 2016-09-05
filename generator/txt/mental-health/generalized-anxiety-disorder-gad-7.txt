@@ -9,7 +9,7 @@ GAD-7 Calculator [html]
 [select name="Q7" value="Not at all (0 points)=0|Several days (1 points)=1|More than half the days (2 points)=2|Nearly everyday (3 points)=3"] <-- Feeling afraid, as if something awful might happen (over the last two weeks)?
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)" memo="score"] out of 21 points
 Interpretation --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7);score>8?'suggestive of anxiety or panic disorder':score>0?'mild symptoms':'asymptomatic'" memo="interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16717171" target="_blank">Spitzer RL, Kroenke K, Williams JB, Löwe B. Arch Intern Med. 2006 May 22;166(10):1092-7. A brief measure for assessing generalized anxiety disorder: the GAD-7</a>, <a href="http://www.aafp.org/afp/2008/0815/p501.html" target="_blank">Am Fam Physician. 2008 Aug 15;78(4):501-502</a>[/html]
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 30, 2010; September 7, 2015

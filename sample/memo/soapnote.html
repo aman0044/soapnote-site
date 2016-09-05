@@ -8,19 +8,47 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">memo</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="memo exclude">this memo (or comment) text will not be included in the output.</span><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec turpis metus, blandit feugiat suscipit nec, ullamcorper vel risus. Maecenas ut risus elit, vel varius odio. Fusce et sem nec lacus venenatis faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla lacus, tincidunt vitae dignissim sed, dapibus ut dui. Proin tincidunt justo quis diam ultrices rhoncus. Sed sodales vestibulum felis id dictum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin pharetra tincidunt erat, pharetra gravida est ultricies non. Suspendisse ac lacinia odio. Aliquam nunc lorem, ornare vel sollicitudin non, vehicula vitae orci. Fusce sollicitudin dui varius magna dictum eget imperdiet dolor euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="memo exclude">this memo (or comment) text will not be included in the output.</span><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec turpis metus, blandit feugiat suscipit nec, ullamcorper vel risus. Maecenas ut risus elit, vel varius odio. Fusce et sem nec lacus venenatis faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla lacus, tincidunt vitae dignissim sed, dapibus ut dui. Proin tincidunt justo quis diam ultrices rhoncus. Sed sodales vestibulum felis id dictum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin pharetra tincidunt erat, pharetra gravida est ultricies non. Suspendisse ac lacinia odio. Aliquam nunc lorem, ornare vel sollicitudin non, vehicula vitae orci. Fusce sollicitudin dui varius magna dictum eget imperdiet dolor euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.<br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_680057cda41705b40" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/memo.txt" target="_blank">www.soapnote.org/generator/txt/sample/memo.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
+<script type="text/javascript">
+if (typeof vars == 'undefined') vars = new Array();
+vars[1] = {};
+if (typeof conditions == 'undefined') conditions = new Array();
+conditions[1] = new Array();
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_680057cda41705b40"});
+jQuery(document).ready(function($) {
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change(function() {
+					if ($(this).attr('type') == 'checkbox') {
+						vars[1][$(this).attr('name')] = new Array();
+						$(this).parents('.checkbox').find(':checked').each(function() {
+							vars[1][$(this).attr('name')].push($(this).val());
+						});
+					}
+					else vars[1][$(this).attr('name')] = $(this).val();
+					$.each(conditions[1], function(index, condition) { 
+						$.each(vars[1], function(index, value) { 
+							condition.logic = condition.logic.replace(new RegExp('\\('+index+'\\)', 'g'), 'vars[1][\''+index+'\']');
+						});
+						
+						try {
+							if (eval(condition.logic) === true) $('#form_1 [name="'+condition.show+'"]').removeClass('hidden');
+							else $('#form_1 [name='+condition.show+']').addClass('hidden');
+							}
+						catch(err) {
+							$('#form_1 [name='+condition.show+']').addClass('hidden');
+						}
+					});
+				});
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change();
+			});
+			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>
 </div>
 </div>

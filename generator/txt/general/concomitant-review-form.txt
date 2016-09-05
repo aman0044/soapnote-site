@@ -31,7 +31,7 @@ Provider Documentation:  [checkbox name="provider_documentation" value="No issue
 Recommendation:  [select name="recommendation" value="No further action required|Refer to individual provider/physician with suggestions for improvement|Refer to Clinical Director|Referral to Medical Executive Committee"]
 Physician Reviewer: [text]
 Review Date: [date name="review_date"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 16, 2012; August 27, 2015

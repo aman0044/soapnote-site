@@ -1,6 +1,6 @@
 [html]Fussiness History
 [/html][textarea default="History provided by mother|father|grandparent|daycare provider.  Age ***. Patient has been fussy for ***.  There have been no localizing symptoms.  Patient has|does not have a fever.  Patient has|does not have a history of fussiness."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 14, 2010; September 7, 2015

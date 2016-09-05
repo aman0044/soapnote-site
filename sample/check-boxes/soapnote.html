@@ -8,19 +8,47 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">check-boxes</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="checkbox" name="checkbox_5610a35ac8d1e"> <label><input type="checkbox" name="checkbox_5610a35ac8d1e" value="upper extremity" /> upper extremity</label> <label><input type="checkbox" name="checkbox_5610a35ac8d1e" value="lower extremity" /> lower extremity</label> <label><input type="checkbox" name="checkbox_5610a35ac8d1e" value="neck" /> neck</label> <label><input type="checkbox" name="checkbox_5610a35ac8d1e" value="back" /> back</label> <label><input type="checkbox" name="checkbox_5610a35ac8d1e" value="knee" /> knee</label></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="checkbox" name="checkbox_57cda07e96918"> <label><input type="checkbox" name="checkbox_57cda07e96918" value="upper extremity" /> upper extremity</label> <label><input type="checkbox" name="checkbox_57cda07e96918" value="lower extremity" /> lower extremity</label> <label><input type="checkbox" name="checkbox_57cda07e96918" value="neck" /> neck</label> <label><input type="checkbox" name="checkbox_57cda07e96918" value="back" /> back</label> <label><input type="checkbox" name="checkbox_57cda07e96918" value="knee" /> knee</label></span><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_652257cda07e969d6" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/check-boxes.txt" target="_blank">www.soapnote.org/generator/txt/sample/check-boxes.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
+<script type="text/javascript">
+if (typeof vars == 'undefined') vars = new Array();
+vars[1] = {};
+if (typeof conditions == 'undefined') conditions = new Array();
+conditions[1] = new Array();
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_652257cda07e969d6"});
+jQuery(document).ready(function($) {
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change(function() {
+					if ($(this).attr('type') == 'checkbox') {
+						vars[1][$(this).attr('name')] = new Array();
+						$(this).parents('.checkbox').find(':checked').each(function() {
+							vars[1][$(this).attr('name')].push($(this).val());
+						});
+					}
+					else vars[1][$(this).attr('name')] = $(this).val();
+					$.each(conditions[1], function(index, condition) { 
+						$.each(vars[1], function(index, value) { 
+							condition.logic = condition.logic.replace(new RegExp('\\('+index+'\\)', 'g'), 'vars[1][\''+index+'\']');
+						});
+						
+						try {
+							if (eval(condition.logic) === true) $('#form_1 [name="'+condition.show+'"]').removeClass('hidden');
+							else $('#form_1 [name='+condition.show+']').addClass('hidden');
+							}
+						catch(err) {
+							$('#form_1 [name='+condition.show+']').addClass('hidden');
+						}
+					});
+				});
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change();
+			});
+			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>
 </div>
 </div>

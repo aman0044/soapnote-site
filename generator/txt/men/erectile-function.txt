@@ -8,7 +8,7 @@ International Index of Erectile Function Questionnaire
 [select name="Q5" value="Never or almost never - 1 point=1|A few times - 2 points=2|Sometimes (about half the time) - 3 points=3|Most times - 4 points=4|Always or almost always - 5 points=5"] <-- When you attempted sexual intercourse, how often was it satisfactory for you?
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)" memo="total"] points
 Interpretation --> [calc value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5);score2>21?'Normal erectile function':score2>16?'Mild erectile dysfunction':score2>11?'Mild to moderate erectile dysfunction':score2>7?'Moderate erectile dysfunction':'Severe erectile dysfunction'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/10637462" target="_blank">Rosen (1999) Int J Impot Res. 11:319-26</a>, <a href="http://www.fpnotebook.com/Uro/Exam/IntrntnlIndxOfErctlFnctnQstnr.htm" target="_blank">FPNotebook page</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 11, 2012; September 2, 2015

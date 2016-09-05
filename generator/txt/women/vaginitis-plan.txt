@@ -7,7 +7,7 @@ Treatment:
 [text size=80]
 Education:
 [checkbox value="Follow up as needed|Follow up if worsening|Follow up in 1-2 weeks|Follow up for test of cure|Side effects/interactions of medications|Cautioned patient to consume no alcohol during course of treatment and including 72 hours after completion of treatment"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 18, 2014; September 1, 2015

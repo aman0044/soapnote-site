@@ -11,7 +11,7 @@ Venous Thromboembolism Risk after Surgery
 
 Score --> [calc memo="number" value="score1=(age)+(bmi)+(sex)+(sepsis)+(shock)+(sirs)+(vtehx)+(vtefam)+(cancer)"]
 Interpretation --> [calc memo="result" value="score2=(age)+(bmi)+(sex)+(sepsis)+(shock)+(sirs)+(vtehx)+(vtefam)+(cancer);score2>5?'High risk, 3.2 percent':score2>2?'Moderate risk, 1.8 percent':'Very low risk, 0.4 percent'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24091567" target="_blank"> Pannucci CJ, Laird S, Dimick JB, Campbell DA, Henke PK. A validated risk model to predict 90-day VTE events in postsurgical patients. Chest. 2014 Mar 1;145(3):567-73.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 8, 2014; August 31, 2015

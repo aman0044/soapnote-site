@@ -8,16 +8,12 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">version-A-version-B</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="checkbox" name="A"> <label><input type="checkbox" name="A" value="" /> </label></span><span class="memo exclude">Version A</span><span name="conditional_5610a519bcbef" class="hidden"><textarea cols="80" rows="5" name="textarea_5610a519bcd2b"></textarea></span><span class="checkbox" name="B"> <label><input type="checkbox" name="B" value="" /> </label></span><span class="memo exclude">Version B</span><span name="conditional_5610a519bce38" class="hidden"><textarea cols="80" rows="5" name="textarea_5610a519bcf40"></textarea></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="checkbox" name="A"> <label><input type="checkbox" name="A" value="" /> </label></span><span class="memo exclude">Version A</span><span name="conditional_161257cda6f433bea" class="hidden"><textarea cols="80" rows="5" name="textarea_57cda6f433c8f"></textarea></span><span class="checkbox" name="B"> <label><input type="checkbox" name="B" value="" /> </label></span><span class="memo exclude">Version B</span><span name="conditional_396057cda6f433d1a" class="hidden"><textarea cols="80" rows="5" name="textarea_57cda6f433d95"></textarea></span><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_515957cda6f433e1b" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/version-A-version-B.txt" target="_blank">www.soapnote.org/generator/txt/sample/version-A-version-B.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
@@ -26,10 +22,11 @@ if (typeof vars == 'undefined') vars = new Array();
 vars[1] = {};
 if (typeof conditions == 'undefined') conditions = new Array();
 conditions[1] = new Array();
-conditions[1].push({logic:"(A).is('')", show:"conditional_5610a519bcbef"});
-conditions[1].push({logic:"(B).is('')", show:"conditional_5610a519bce38"});
+conditions[1].push({logic:"(A).is('')", show:"conditional_161257cda6f433bea"});
+conditions[1].push({logic:"(B).is('')", show:"conditional_396057cda6f433d1a"});
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_515957cda6f433e1b"});
 jQuery(document).ready(function($) {
-				$('#form_1').find('input[name="A"], select[name="A"], input[name="B"], select[name="B"]').change(function() {
+				$('#form_1').find('input[name="A"], select[name="A"], input[name="B"], select[name="B"], input[name="footnotes"], select[name="footnotes"]').change(function() {
 					if ($(this).attr('type') == 'checkbox') {
 						vars[1][$(this).attr('name')] = new Array();
 						$(this).parents('.checkbox').find(':checked').each(function() {
@@ -51,7 +48,7 @@ jQuery(document).ready(function($) {
 						}
 					});
 				});
-				$('#form_1').find('input[name="A"], select[name="A"], input[name="B"], select[name="B"]').change();
+				$('#form_1').find('input[name="A"], select[name="A"], input[name="B"], select[name="B"], input[name="footnotes"], select[name="footnotes"]').change();
 			});
 			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>

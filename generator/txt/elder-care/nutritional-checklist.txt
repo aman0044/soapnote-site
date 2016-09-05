@@ -11,7 +11,7 @@ Nutritional Health Checklist
 [select name="Q10" value="false (0 points)=0|TRUE (2 points)=2"] <-- 10. I am not always physically able to shop, cook, or feed myself.
 Score --> [calc memo="score" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)"] out of 21 points
 Interpretation --> [calc memo="interpretation" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10);score>5?'High nutritional risk, may require immediate assistance to improve your nutritional status.':score>2?'Moderate nutritional risk.  Lifestyle and eating habit improvements needed.  Recheck your nutritional score in three months.':'Good nutrition. Recheck nutritional score in six months.'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  The Nutrition Health Checklist was developed for the Nutrition Screening Initiative, a project of the American Academy of Family Physicians, the American Dietetic Association and the National Council on Aging, Inc.<a href="http://www.aafp.org/afp/980301ap/edits.html"> Info at AAFP website</a>, AAFP Geriatric assessment article: <a href="http://www.aafp.org/afp/2011/0101/p48.html">Elsawy (2011) Am Fam Phys 83: 48-56</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 24, 2011; August 30, 2015

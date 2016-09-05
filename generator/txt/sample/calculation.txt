@@ -4,3 +4,5 @@ favorite movie [select name="movie" value="Popeye=0|Good Morning Vietnam=1|What 
 favorite carbohydrate [select name="carb" value="lactose intolerant=0|pasta=1|rice=2|potatoes=3"]
 [calc value="(color)+(movie)+(carb)" memo="score"]
 [calc value="score=(color)+(movie)+(carb); score>8?'You almost ate enough fiber today':score>4?'You forgot to finish something important today':'You have no time for this'" memo="score interpretation"]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/calculation.txt" target="_blank">www.soapnote.org/generator/txt/sample/calculation.txt</a>[/html][/conditional]

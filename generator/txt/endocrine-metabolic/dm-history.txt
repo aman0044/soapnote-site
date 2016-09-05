@@ -37,7 +37,7 @@ The patient [select name="insulin" value="does not use insulin|uses long-acting 
 [conditional field="insulin" condition="(insulin).is('uses short-acting insulin only')||(insulin).is('uses long- and short-acting insulins')"][checkbox value="The patient adjusts short-acting insulin based on glucose checks before meals.  "][/conditional]
 [conditional field="insulin" condition="(insulin).is('uses short-acting insulin only')||(insulin).is('uses long- and short-acting insulins')"][checkbox value="The patient adjusts short-acting insulin based on carbohydrate counting.  "][/conditional]
 [conditional field="insulin" condition="(insulin).is('uses long-acting insulin only')||(insulin).is('uses long- and short-acting insulins')"][checkbox value="The patient adjusts long-acting insulin based on fasting glucose trend. "]  [link url="http://www.soapnote.org/endocrine-metabolic/long-acting-insulin-self-3-3/" memo="3 by 3 long-acting insulin adjustment instruction for patients"][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 9, 2013; August 21, 2015

@@ -14,7 +14,7 @@ Findings:
 [select value="false=0|TRUE=2" name="neuroSymps"] <-- Focal neurologic symptoms
 Score:  [calc value="score=(abrupt)+(stepwise)+(fluctuating)+(nocturnal)+(personality)+(depression)+(somatic)+(emotional)+(hypertension)+(stroke)+(neuroSigns)+(neuroSymps)" memo="Score"]/18  Interpretation:  [calc value="score=(abrupt)+(stepwise)+(fluctuating)+(nocturnal)+(personality)+(depression)+(somatic)+(emotional)+(hypertension)+(stroke)+(neuroSigns)+(neuroSymps);score>6?'Dementia likely due to vascular causes':score>4?'Inconclusive':'Dementia not likely due to vascular causes'" memo="Interpretation"]
 [comment memo="References:  "]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/7396427" target="_blank">Rosen WG, Terry RD, Field PA, et al. Pathological verification of ischemic score in differentiation of dementias. Ann Neurol 1980;7:486–8.</a>, <a href="http://www.aafp.org/afp/2001/0215/p703.html" target="_blank">Early Diagnosis of Dementia, Am Fam Physician. 2001 Feb 15;63(4):703-714.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 16, 2010; August 30, 2015

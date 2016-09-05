@@ -9,7 +9,7 @@ Arrhythmia: [select name="arrhythmia"  value="sinus or sinus with PACs=0|other t
 Emergency surgery: [select name="emergency"  value="no=0|yes=10"]
 General medical status: [select name="medical_status"  value="normal=0|poor=5"]
 Score: [calc value="(age)+(prior_myocardial_infarction)+(unstable_angina)+(angina_pectoris)+(pulmonary_edema)+(aortic_stenosis)+(arrhythmia)+(emergency)+(medical_status)" memo="score"] ([calc value="score=(age)+(prior_myocardial_infarction)+(unstable_angina)+(angina_pectoris)+(pulmonary_edema)+(aortic_stenosis)+(arrhythmia)+(emergency)+(medical_status); score>30?'High risk':score>15?'Moderate risk':'Low risk'" memo="score interpretation"])
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/3772593" target="_blank">Detsky (1986) J Gen Intern Med 1:213</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 12, 2012; August 18, 2015

@@ -13,7 +13,7 @@ strength spontaneously.
 [select name="Q5" value="no=0|YES=1"] <-- 5. Overreaction: Disproportionate verbalization, facial expression, muscle tension, tremor, collapsing or sweating. Consider cultural variations.
 Count --> [calc memo="result" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)"] / 5 Waddell's Signs
 Interpretation --> [calc memo="result" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5);score1>2?'High probability of non-organic pathology - further psychologic evaluation recommended':'Negative screen for non-organic pathology'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6446157" target="_blank">Waddell G, McCulloch JA, Kummel E, Venner RM. Nonorganic physical signs in low-back pain. Spine (Phila Pa 1976). 1980 Mar-Apr;5(2):117-25.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 24, 2014; September 3, 2015

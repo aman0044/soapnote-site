@@ -4,7 +4,7 @@ Abdominal Aortic Aneurysm Prognosis and Surveillance Calculator
 Average Annual Expansion Rate (Predicted) --> [calc value="score1=(Q1);score1>5.9?'7 to 8 mm per year':score1>3.9?'3 to 5 mm per year':'1 to 4 mm per year'" memo="rate"]
 Absolute Lifetime Risk of Rupture for Abdominal Aortic Aneurysm --> [calc value="score2=(Q1);score2>6.9?'50 percent':score2>5.9?'40 percent':score2>4.9?'20 percent':'less than 20 percent'" memo="risk"]
 Surveillance --> [calc value="score3=(Q1);score3>5.4?'Surgical consultation for elective repair':score3>5?'Ultrasonography or Computed Tomography every 6 to 12 months, consider surgical consultation':score3>3.9?'Ultrasonography or Computed Tomography every 6 to 12 months':'Ultrasonography every 2 to 3 years'" memo="recommendation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16545667" target="_blank">Hirsch AT et al. ACC/AHA 2005 guidelines for the management of patients with peripheral arterial disease. J Am Coll Cardiol. 2006 Mar 21;47(6):1239-312.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 14, 2015; August 18, 2015

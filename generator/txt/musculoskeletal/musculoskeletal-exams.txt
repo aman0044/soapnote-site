@@ -15,7 +15,7 @@
 [textarea default="Shoulder:  Symmetrical bilaterally, FROM flex/ex/IR/ER/abduction/adduction, No erythema or edema, Nontender to palpation, Negative:  Hawkins, Neers, Yergusons, Speeds, empty can, 5/5 strength biceps/triceps/grip, Radial pulse full. Cap refill <2 seconds, Sensory intact to light touch distally."][/conditional][conditional field="Q1" condition="(Q1).is('Knee Pain')"]
 [textarea default="General Appearance: no acute distress
 [textarea default="Knee: Normal joint contours.  No effusion.  Normal range of motion.  Normal strength on extension and flexion against resistance.  No joint line pain medially or laterally.  McMurray negative for crepitus and pain medially and laterally.  There is no swelling or pain over the pes anserine bursa.  Collateral ligament testing shows no laxity or pain.  Anterior drawer test and Lachman shows no anterior cruciate laxity.  Posterior drawer negative for laxity as well. No popliteal mass or palpable tenderness."][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 26, 2010; September 3, 2015

@@ -1,6 +1,6 @@
 [html]Cough Exam
 [/html][textarea columns=80 rows=25 default="VITALS: Reviewed and normal/***&#13;&#10;GENERAL APPEARANCE: No acute distress&#13;&#10;EARS: &#13;&#10;- Left Tympanic membranes intact/Bulging/Erythematous/Perforation present with purulent debris&#13;&#10;- Right Tympanic membranes intact/Bulging/Erythematous/Perforation present with purulent debris&#13;&#10;THROAT: Normal/Erythematous/Tonsillar exudate/Inflamed Tonsils&#13;&#10;NECK&#13;&#10;- Cervical lymph nodes: Normal/Enlarged/Tender/Anterior adenopathy/Posterior adenopathy/Posterior and anterior adenopathy/On the left/On the right/Bilaterally&#13;&#10;LUNGS: Clear/Scattered rhonchi/Scattered wheezes/Decreased breath sounds&#13;&#10;HEART: No murmur/click, S3/S4"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 13, 2012; August 21, 2015; October 3, 2015

@@ -6,7 +6,7 @@ SBQ-R Suicide Behaviors Questionnaire-Revised
 Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)"] / 18
 Interpretation --> [calc memo="risk" value="score2=(Q1)+(Q2)+(Q3)+(Q4);score2>7?'80% sensitive and 91% specific for at risk adult psychiatric inpatients':score2>6?'93% sensitive and 95% specific for at risk individual in the adult population':'below the score cut-off for at risk individual'"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11785588" target="_blank">Osman A, Bagge CL, Gutierrez PM, Konick LC, Kopper BA, Barrios FX. The Suicidal Behaviors Questionnaire-Revised (SBQ-R): validation with clinical and nonclinical samples. Assessment. 2001 Dec;8(4):443-54.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 25, 2014; September 7, 2015

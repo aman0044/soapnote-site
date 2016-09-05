@@ -18,7 +18,7 @@ Interpretation --> [calc memo="percent" value="score2M=(AgeM)+(DMdur)+(Smoke)+(A
 [select name="Urine" value="Less than 30 micrograms/min (0 points)=0|30 or more micrograms/min (1 point)"] <-- Urine microalbumin
 Score --> [calc memo="number" value="score1F=(AgeF)+(DMdur)+(Smoke)+(A1c)+(SBP)+(Cholesterol)+(Urine)"] points
 Interpretation --> [calc memo="percent" value="score2F=(AgeF)+(DMdur)+(Smoke)+(A1c)+(SBP)+(Cholesterol)+(Urine);score2F>31?'High - Above 30%':score2F>17?'Elevated - 15 to 30%':'Average - Less than 15%'"] Probability of having Coronary Heart Disease in the next 10 years[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16706261" target="_blank">Christianson TJ, Bryant SC, Weymiller AJ, Smith SA, Montori VM.  Mayo Clin Proc. 2006 May;81(5):632-6.  A pen-and-paper coronary risk estimator for office use with patients with type 2 diabetes. </a>, <a href="https://www.dtu.ox.ac.uk/ukpds/" target="_blank">United Kingdom Prospective Diabetes Study (UKPDS)</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 4, 2010, August 18, 2015

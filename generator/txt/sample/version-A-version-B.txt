@@ -1,1 +1,3 @@
 [checkbox memo="Version A" name="A" value=""][conditional field="A" condition="(A).is('')"][textarea cols=80 rows=5 default=""][/conditional][checkbox memo="Version B" name="B" value=""][conditional field="B" condition="(B).is('')"][textarea cols=80 rows=5 default=""][/conditional]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/version-A-version-B.txt" target="_blank">www.soapnote.org/generator/txt/sample/version-A-version-B.txt</a>[/html][/conditional]

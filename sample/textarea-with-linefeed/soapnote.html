@@ -8,19 +8,47 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">textarea-with-linefeed</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-Text Area with Linefeed<br><textarea cols="80" rows="5" name="textarea_5610a4e640e30">This is line 1.&#13;&#10;This is line 2.&#13;&#10;This is line 3.&#13;&#10;&#13;&#10;&#13;&#10;This is the last line.</textarea><input type="button" class="soapnote_submit exclude" value="Submit"/>
+Text Area with Linefeed<br><textarea cols="60" rows="5" name="textarea_57cda6bc52d0b">This is line 1.&#13;&#10;This is line 2.&#13;&#10;This is line 3.&#13;&#10;&#13;&#10;&#13;&#10;This is the last line.</textarea><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_222257cda6bc52da2" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/textarea-with-linefeed.txt" target="_blank">www.soapnote.org/generator/txt/sample/textarea-with-linefeed.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
+<script type="text/javascript">
+if (typeof vars == 'undefined') vars = new Array();
+vars[1] = {};
+if (typeof conditions == 'undefined') conditions = new Array();
+conditions[1] = new Array();
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_222257cda6bc52da2"});
+jQuery(document).ready(function($) {
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change(function() {
+					if ($(this).attr('type') == 'checkbox') {
+						vars[1][$(this).attr('name')] = new Array();
+						$(this).parents('.checkbox').find(':checked').each(function() {
+							vars[1][$(this).attr('name')].push($(this).val());
+						});
+					}
+					else vars[1][$(this).attr('name')] = $(this).val();
+					$.each(conditions[1], function(index, condition) { 
+						$.each(vars[1], function(index, value) { 
+							condition.logic = condition.logic.replace(new RegExp('\\('+index+'\\)', 'g'), 'vars[1][\''+index+'\']');
+						});
+						
+						try {
+							if (eval(condition.logic) === true) $('#form_1 [name="'+condition.show+'"]').removeClass('hidden');
+							else $('#form_1 [name='+condition.show+']').addClass('hidden');
+							}
+						catch(err) {
+							$('#form_1 [name='+condition.show+']').addClass('hidden');
+						}
+					});
+				});
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change();
+			});
+			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>
 </div>
 </div>

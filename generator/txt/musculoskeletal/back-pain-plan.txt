@@ -4,7 +4,7 @@
 Plan:
 [checkbox value="Ibuprofen 400 mg three times a day with food as needed for pain|Naproxen 500 mg three times a day with food as needed for pain|Acetaminophen 650 mg four times daily as needed for pain|Discussed heat and ice massage|Flexeril 10 mg nightly as needed for pain/spasm (sedation side effect discussed)"]
 [checkbox value="Discussed postural exercises such as walking/swimming 3 times a week for 40 minutes|Discussed stretching and strengthening exercises and staying active|If no improvement in next week, call or return to clinic for Physical Therapy referral"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="#" target="_blank">-</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 14, 2010; September 2, 2015

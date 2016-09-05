@@ -8,7 +8,7 @@
 [textarea cols=80 rows=5 default="LE sensation shows ***normal to light touch/decreased light touch sensation in left L5/decreased light touch sensation in right L5/decreased light touch sensation in left S1/decreased light touch sensation in right S1***"]
 [textarea cols=80 rows=5 default="Strength on knee flexion and extension is ***without weakness/mildly weak/moderately weak*** and foot inversion, eversion, and great toe dorsiflexion shows ***no weakness/left/right*** ***weakness on foot inversion/weakness on foot eversion/weakness on great toe dorsiflexion***."]
 [textarea cols=80 rows=5 default="Hip testing:  ***Hip int and ext rotation without pain and no palpable pain in SI joints/Hip internal and external rotation produces pain in the SI joint/Hip internal and external rotation produces pain in the buttocks ---on the left side/on the right side---***."][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  Based on template by Stephen P. Merry, MD, MPH, Consultant, Department of Family Medicine, Mayo Clinic, Rochester, Minnesota
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 27, 2015

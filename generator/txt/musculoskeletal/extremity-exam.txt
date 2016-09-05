@@ -1,6 +1,6 @@
 [html]Extremity Exam
 [/html][textarea default="EXTREMITIES:  Strength, sensation, and reflexes are normal. No palpable cords and there is no pain with palpation. Digits and nails are normal."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 28, 2015

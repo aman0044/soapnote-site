@@ -3,7 +3,7 @@
 Prescribed [text size=50 default="medication prescribed and start date"]
 Side effects, risk and benefits of medications discussed. 
 [checkbox value="Informed the patient that combined hormonal therapy does not prevent nor protect from sexually transmitted disease|Encouraged condom use with sexual intercourse|Reinforced abstinence as most assured method to avoid pregnancy"][checkbox value="Reviewed missed pill process"][checkbox value="Patient education information given"][checkbox value="Return in 6 months for review including blood pressure check|I reviewed current Pap/pelvic recommendations|Encouraged the patient to call if other concerns arise."][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 31, 2015

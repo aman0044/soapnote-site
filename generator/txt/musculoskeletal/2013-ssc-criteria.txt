@@ -43,7 +43,7 @@ CHOOSE --> [select name="Q13" value="Absent (0 points)=0|PRESENT (3 points)=3"]
 
 SCORE --> [calc memo="score" value="score1=(Q1)+(Math.max((Q2),(Q3)))+(Math.max((Q4),(Q5)))+(Q6)+(Q7)+(Math.max((Q8),(Q9)))+(Q10)+(Math.max((Q11),(Q12),(Q13)))"]
 RESULT --> [calc memo="interpretation" value="score2=(Q1)+(Math.max((Q2),(Q3)))+(Math.max((Q4),(Q5)))+(Q6)+(Q7)+(Math.max((Q8),(Q9)))+(Q10)+(Math.max((Q11),(Q12),(Q13)));score2>8?'MEETS 2013 ACR‐EULAR Classification Criteria for SSc':'DOES NOT MEET 2013 ACR‐EULAR Classification Criteria for SSc'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  From the <a href="http://www.ncbi.nlm.nih.gov/pubmed/24092682">2013 ACR‐EULAR Classification Criteria for SSc</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 19, 2016

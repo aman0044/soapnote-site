@@ -4,7 +4,7 @@ Maximum Heart Rate --> [calc memo="number" value="score1=220-(Age)"]
 Target Heart Rate for Physical Activity
 Moderate-Intensity --> [calc memo="low" value="score2=((.5)*(score1)).toFixed(0)"] to [calc memo="high" value="score3=((.7)*(score1)).toFixed(0)"]  (50-70% of the maximum heart rate)
 Vigorous-Intensity --> [calc memo="low" value="score4=((.7)*(score1)).toFixed(0)"] to [calc memo="high" value="score5=((.85)*(score1)).toFixed(0)"]  (70-85% of the maximum heart rate)
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.cdc.gov/physicalactivity/everyone/measuring/heartrate.html" target="_blank">CDC Physical Activity Page</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 24, 2014; August 20, 2015

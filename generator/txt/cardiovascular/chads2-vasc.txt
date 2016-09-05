@@ -8,7 +8,7 @@ CHA(2)DS(2)-VASc Score for Nonvalvular Atrial Fibrillation[/html]
 [select name="Q7" value="no (0 points)=0|YES (1 point)=1"]  <-- Sex category - Female
 Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)"] / 9 points
 Result --> [calc memo="interpretation" value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7);score2>1?'Recommend oral anticoagulation':score2>0?'Recommend antithrombotic therapy with oral anticoagulation or antiplatelet therapy but preferably oral anticoagulation':'Recommend no antithrombotic therapy'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19762550">Lip GY, Nieuwlaat R, Pisters R, Lane DA, Crijns HJ. Refining clinical risk stratification for predicting stroke and thromboembolism in atrial fibrillation using a novel risk factor-based approach: the euro heart survey on atrial fibrillation. Chest. 2010 Feb;137(2):263-72.</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22891166">Lane DA, Lip GY. Use of the CHA(2)DS(2)-VASc and HAS-BLED scores to aid decision making for thromboprophylaxis in nonvalvular atrial fibrillation. Circulation. 2012 Aug 14;126(7):860-5.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 19, 2014; August 18, 2015

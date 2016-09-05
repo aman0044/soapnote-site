@@ -1,6 +1,6 @@
 [html]Readiness to Learn
 [/html][textarea columns=80 rows=25 default="***Patient/Parent*** were assessed for readiness to learn and demonstrates ***readiness/difficulty with readiness*** to learn.&#13;&#10;Barriers assessed: ***cultural/religious or spiritual/motivational/physical or cognitive/language/emotional***&#13;&#10;Barriers present: ***none/cultural/religious or spiritual/motivational/physical or cognitive/language/emotional***&#13;&#10;Learns best by ***reading/seeing/listening/doing***&#13;&#10;***Patient/Parent*** agrees with this plan and verbalizes understanding."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 29, 2015

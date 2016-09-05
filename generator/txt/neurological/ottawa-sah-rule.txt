@@ -15,7 +15,7 @@ High Risk Variables
 [select name="Q6" value="no=0|YES=1"] <-- Limited neck flexion on examination
 
 Interpretation --> [calc memo="Interpretation" value="score=(QA)+(QB)+(QC)+(QD)+(QE)+(QF)+(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6);score>9?'Does not meet rule inclusion criteria.  Ottawa SAH Rule may not be used.':score>0?'Meets Inclusion Criteria AND Has High Risk Variables.  Further investigation for Subarachnoid Hemorrhage is recommended per Ottawa SAH Rule':'Meets Inclusion Criteria AND Has No High Risk Variables.  Further investigation for Subarachnoid Hemorrhage may not be necessary.'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://jama.jamanetwork.com/article.aspx?articleid=1741823#.UkQq2izx9H0" target="_blank">Perry JJ, Stiell IG, Sivilotti MA, et al. Clinical Decision Rules to Rule Out Subarachnoid Hemorrhage for Acute Headache. JAMA. 2013;310(12):1248-1255.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 26, 2013; September 4, 2015

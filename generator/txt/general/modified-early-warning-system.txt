@@ -7,7 +7,7 @@ Modified Early Warning System
 [select name="Q6" value="Less than 10 mL per hour (3 points)=3|Less than 30 mL per hour (2 points)=2|Less than 45 mL per hour (1 point)=1|More than 45 mL per hour (0 points)=0"] <-- 6. Hourly urine output for 2 hours
 Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)"]
 Recommended Action --> [calc memo="result" value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6);score2>3?'Contact provider to evaluate patient immediately, Check vitals at least every 30 minutes':score2>2?'Notify provider, Check vitals every hour':score2>0?'Notify provider, Check vitals every 2 hours':'Check vitals per active orders'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.innovations.ahrq.gov/content.aspx?id=2631" target="_blank"> AHRQ Quality Tool</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 27, 2014; August 28, 2015

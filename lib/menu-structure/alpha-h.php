@@ -15,6 +15,7 @@ echo '<li><a href="../musculoskeletal/hammertoe-procedure/index.php">Hammertoe P
 <li><a href="../infectious/hepatitis-b-chronic/index.php">(Chronic) Hepatitis B Decision Tool</a></li>
 <li><a href="../infectious/hepatitis-b-screening/index.php">Hepatitis B Screening Decision Tool</a></li>
 <li><a href="../general/history-of-present-illness/index.php">History of Present Illness</a></li>
+<li data-type="calc"><a href="/mental-health/hope-checklist/">Hope Checklist</a></li>
 <li><a href="../general/hospital-bed-checklist/index.php">Hospital Bed Checklist</a></li>
 <li><a href="../cardiovascular/hyperlipidemia-plan/index.php">Hyperlipidemia Assessment/Plan</a></li>
 <li><a href="../cardiovascular/secondary-hypertension/index.php">Hypertension (Secondary) Workup</a></li>

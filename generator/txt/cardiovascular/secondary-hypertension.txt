@@ -98,7 +98,7 @@ In the absence of other clinical clues, an initial workup for hypertension for o
 * urinalysis
 * If this does not detect a cause and secondary hypertension is still suspected, 24-hour urine collection for cortisol and fractionated metanephrines could be performed.
 ⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒⭒[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  "Diagnosis of Secondary Hypertension: An Age-Based Approach" <a href="http://www.aafp.org/afp/2010/1215/p1471.html" target="_blank">Viera (2010) Am Fam Physician 82:1471-8</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  December 24, 2010; August 18, 2015

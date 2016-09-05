@@ -11,7 +11,7 @@ Delirium elements [comment memo="needs to have all 4.  consciousness: 'clarity o
 [checkbox value="Disturbance of consciousness with reduced ability to focus/sustain/shift attention.|A change in cognition or development of a perceptual disturbance not better accounted for by a preexisting/established/evolving dementia.|The disturbance develops over a short period of time (usually hours to days) and tends to fluctuate during the course of a day.|Evidence that the disturbance is caused by direct physiologic consequences of a general medical condition."]
 
 Diagnostic evaluation:  [checkbox value="point of care glucose|urinalysis|CBC|Chemistry panel|Liver Enzymes|Serum Osmolarity (calculated:  = 2*Na+ + Glucose/18 + BUN/2.8 where Glucose and BUN are measured in mg/dL.)|Serum Calcium|Serum Magnesium|Urine Tox Screen|Directed drug levels|Arterial Blood Gas|Rapid Plasmin Reagin (RPR)|Thyroid Stimulating Hormone (TSH)|Electrocardiogram (EKG) and/or cardiac monitor|Head CT|Lumbar Puncture|C-Spine films (if trauma suspected)|Chest XRay|HIV Test|Heavy metal screen|Vitamin B12 Level|Serum Folate Level"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 22, 2010; August 30, 2015

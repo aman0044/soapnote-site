@@ -5,7 +5,7 @@ Glasgow Coma Scale
 ------------------------------------------------------------
 Score:  [calc value="scorex=(eye)+(speech)+(movement)"]
 Interpretation:  [calc value="score=(eye)+(speech)+(movement); score>12?'Mild':score>8?'Moderate':'Severe'" memo="score interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/4136544" target="_blank">Teasdale G, Jennett B. (1974) Lancet. 1974 Jul 13;2(7872):81-4.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 20, 2016

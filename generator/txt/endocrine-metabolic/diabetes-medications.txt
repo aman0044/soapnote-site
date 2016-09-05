@@ -48,7 +48,7 @@ Allows flexible meal schedule
 
 <strong><em>Insulin</em></strong>
 expected HbA1c reduction: to less than 7%, cost: ~$90/month (rapid acting), ~$46/month (regular), $47/month (intermediate acting), ~$91/month (long acting)[/html]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  From the International Diabetes Center's Staged Diabetes Management Recommendations, 4th Edition.  Cost information: Treatment Guidelines from The Medical Letter • Vol. 6 (Issue 71) • July 2008.
 HbA1c reduction information: Staged Diabetes Management • 4th Edition • 2007.
 posted by:  Mark Morgan, M.D.

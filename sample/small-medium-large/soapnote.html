@@ -8,16 +8,12 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">small-medium-large</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="checkbox" name="short"> <label><input type="checkbox" name="short" value="" /> </label></span><span class="memo exclude">Short Version</span><span name="conditional_5610a473bd154" class="hidden"><textarea cols="80" rows="5" name="textarea_5610a473bd2b4"></textarea></span><span class="checkbox" name="medium"> <label><input type="checkbox" name="medium" value="" /> </label></span><span class="memo exclude">Medium Version</span><span name="conditional_5610a473bd3ce" class="hidden"><textarea cols="80" rows="5" name="textarea_5610a473bd4d5"></textarea></span><span class="checkbox" name="long"> <label><input type="checkbox" name="long" value="" /> </label></span><span class="memo exclude">Long Version</span><span name="conditional_5610a473bd5bf" class="hidden"><textarea cols="80" rows="5" name="textarea_5610a473bd6ba"></textarea></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="checkbox" name="short"> <label><input type="checkbox" name="short" value="" /> </label></span><span class="memo exclude">Short Version</span><span name="conditional_184057cda4994ac63" class="hidden"><textarea cols="80" rows="5" name="textarea_57cda4994acf9"></textarea></span><span class="checkbox" name="medium"> <label><input type="checkbox" name="medium" value="" /> </label></span><span class="memo exclude">Medium Version</span><span name="conditional_440657cda4994ad88" class="hidden"><textarea cols="80" rows="5" name="textarea_57cda4994ae00"></textarea></span><span class="checkbox" name="long"> <label><input type="checkbox" name="long" value="" /> </label></span><span class="memo exclude">Long Version</span><span name="conditional_391057cda4994ae81" class="hidden"><textarea cols="80" rows="5" name="textarea_57cda4994aef7"></textarea></span><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_725457cda4994af79" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/small-medium-large.txt" target="_blank">www.soapnote.org/generator/txt/sample/small-medium-large.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
@@ -26,11 +22,12 @@ if (typeof vars == 'undefined') vars = new Array();
 vars[1] = {};
 if (typeof conditions == 'undefined') conditions = new Array();
 conditions[1] = new Array();
-conditions[1].push({logic:"(short).is('')", show:"conditional_5610a473bd154"});
-conditions[1].push({logic:"(medium).is('')", show:"conditional_5610a473bd3ce"});
-conditions[1].push({logic:"(long).is('')", show:"conditional_5610a473bd5bf"});
+conditions[1].push({logic:"(short).is('')", show:"conditional_184057cda4994ac63"});
+conditions[1].push({logic:"(medium).is('')", show:"conditional_440657cda4994ad88"});
+conditions[1].push({logic:"(long).is('')", show:"conditional_391057cda4994ae81"});
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_725457cda4994af79"});
 jQuery(document).ready(function($) {
-				$('#form_1').find('input[name="short"], select[name="short"], input[name="medium"], select[name="medium"], input[name="long"], select[name="long"]').change(function() {
+				$('#form_1').find('input[name="short"], select[name="short"], input[name="medium"], select[name="medium"], input[name="long"], select[name="long"], input[name="footnotes"], select[name="footnotes"]').change(function() {
 					if ($(this).attr('type') == 'checkbox') {
 						vars[1][$(this).attr('name')] = new Array();
 						$(this).parents('.checkbox').find(':checked').each(function() {
@@ -52,7 +49,7 @@ jQuery(document).ready(function($) {
 						}
 					});
 				});
-				$('#form_1').find('input[name="short"], select[name="short"], input[name="medium"], select[name="medium"], input[name="long"], select[name="long"]').change();
+				$('#form_1').find('input[name="short"], select[name="short"], input[name="medium"], select[name="medium"], input[name="long"], select[name="long"], input[name="footnotes"], select[name="footnotes"]').change();
 			});
 			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>

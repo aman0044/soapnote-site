@@ -46,7 +46,7 @@ CMP, CBC, Lipids, UA, TSH. Free T4.  MRI Head/Brain
 REQUEST FOR AUTHORIZATION:
 CMP, CBC, Lipids, UA, TSH. Free T4.  MRI Head/Brain.
 FOLLOW UP: The patient will follow up in 4 weeks for clinical examination/reevaluation and further discussion of treatment and options.
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  J Bordas
 post/review dates:  June 26, 2012; September 2, 2015

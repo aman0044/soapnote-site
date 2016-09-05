@@ -5,7 +5,7 @@ Heparin Induced Thrombocytopenia Pre-Test Scoring System
 4. Alternative causes of thrombocytopenia: [select name="Q4" value="0 points - Definite alternative cause of Thrombocytopenia=0|1 point - Possible alternative cause of Thrombocytopenia=1|2 points - No other alternative cause of Thrombocytopenia=2"]
 Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)"]
 Interpretation --> [calc memo="result" value="score2=(Q1)+(Q2)+(Q3)+(Q4);score2>5?'High probability (greater than 80 percent risk) of Clinically Significant HIT':score2>3?'Intermediate probability of Clinically Significant HIT':'Low probability (less than 5 percent risk) of Clinically Significant HIT)'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16634744" target="_blank">Lo GK, Juhl D, Warkentin TE, Sigouin CS, Eichler P, Greinacher A. Evaluation of pretest clinical score (4 T's) for the diagnosis of heparin-induced thrombocytopenia in two clinical settings. J Thromb Haemost. 2006 Apr;4(4):759-65.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 8, 2014; August 31, 2015

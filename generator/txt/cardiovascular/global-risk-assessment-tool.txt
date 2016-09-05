@@ -22,7 +22,7 @@ to 139 mm Hg, diastolic blood pressure 80 to 89 mm Hg, nonsmoker, and nondiabeti
 ELEVATED RISK FACTOR:  Defined as total cholesterol 200 to 239 mg/dL, systolic blood pressure 140 to 159 mm Hg, diastolic blood pressure 90 to 99 mm Hg, nonsmoker, and nondiabetic.
 MAJOR RISK FACTOR:  Defined as total cholesterol 240 mg/dL or more, systolic blood pressure 160 mm Hg or more, diastolic blood pressure 100 mm Hg or more, smoker, or diabetic
 [/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24239921" target="_blank">Goff DC Jr, Lloyd-Jones DM, Bennett G, et al. 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2013 Nov 12.</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/16461820" target="_blank">Lloyd-Jones DM, Leip EP, Larson MG, et al. Prediction of lifetime risk for cardiovascular disease by risk factor burden at 50 years of age. Circulation. 2006 Feb 14;113(6):791-8. Epub 2006 Feb 6.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  January 18, 2014; August 19, 2015

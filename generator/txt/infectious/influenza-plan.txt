@@ -14,7 +14,7 @@ Ill <48 hours
 - Pregnancy (despite Pregnancy category C due to higher risk of Influenza related morbidity
 [/html][checkbox memo="Choose Antiviral if Indicated" value="Zanamivir (Relenza)|Oseltamivir (Tamiflu)"]
 [textarea default="Discussed increased fluids, antipyretics, and rest. Typical natural history of disease discussed. Follow up if symptoms persist or worsen outside of discussed boundaries."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.fpnotebook.com/id/virus/Inflnz.htm" target="_blank">see FP Notebook</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 11, 2013; September 1, 2015

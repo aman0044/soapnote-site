@@ -333,7 +333,7 @@ Assessment/Plan
 [textarea cols=144  default="#1 Normal growth and development.  Injury prevention and health promotion issues discussed."]
 [textarea cols=144  default="Immunizations given.  Side effects, risks, and benefits of immunizations discussed/No immunizations given today."]
 [textarea cols=144  default="Return to clinic in 2 years or sooner if concerns arise. Approved for all routine preventive medicine services, including immunizations. Abuse/neglect, functional status, nutrition and pain assessed and no further evaluation is needed."][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; August 30, 2015

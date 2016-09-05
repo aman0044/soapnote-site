@@ -27,7 +27,7 @@ Pertinent PMH:
 Last Tetanus vaccine: [text]
 [select value="no|YES"] <-- Diabetes Mellitus
 [select value="no|YES"] <-- Peripheral Vascular disease
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  contributed by Dr. Scott Moses, creator/author of the <a href="http://www.fpnotebook.com" target="_blank">Family Practice Notebook</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 21, 2010; September 1, 2015

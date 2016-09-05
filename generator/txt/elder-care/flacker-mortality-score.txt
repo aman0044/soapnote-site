@@ -10,7 +10,7 @@ Flacker Mortality Score
 [select name="Q8" value="no (0 points)=0|yes (1.48 points)=1.48"] <-- 8) Age > 88 Years
 Total --> [calc memo="number" value="score3=((Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)).toFixed(2)"] points
 Interpretation --> [calc memo="result" value="score4=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8);score4>10?'86 percent':score4>6?'50 percent':score4>2?'19 percent':'7 percent'"] probability of dying within 1 year
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/9706893" target="_blank">Flacker JM, Kiely DK. A practical approach to identifying mortality-related factors in established long-term care residents. J Am Geriatr Soc. 1998 Aug;46(8):1012-5.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  October 12, 2014; August 30, 2015

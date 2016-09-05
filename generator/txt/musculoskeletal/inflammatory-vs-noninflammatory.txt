@@ -23,7 +23,7 @@
 9. Serum albumin: Normal
 10. Synovial fluid WBC/mL: Less than 2000
 11. Synovial fluid % PMN: Less than 75%[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/9455961" target="_blank">Lipsky P. Algorithms for the diagnosis and management of musculoskeletal complaints: A new tool for the primary-care provider. Am J Med. 1997 Dec 29;103(6A):1S-2S.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 24, 2014; September 3, 2015

@@ -88,7 +88,7 @@
 [text size=112 default="ABDOMEN: Soft, tender over the suprapubic area without masses or hepatosplenomegaly. Not distended."]
 [text size=112 default="Pelvis: normal, without perineal erythema, vaginal discharge, or adnexal abnormality. no cervical motion tenderness."]
 [text size=112 default="Dip UA shows no nitrite, leukocytes, or protein."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  November 26, 2010; August 26, 2015

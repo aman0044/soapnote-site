@@ -9,7 +9,7 @@ Factors:
 .....................................................................................................
  Score --> [calc value="score1=(agesex)+(vascular)+(exercise)+(palpation)+(assume)" memo="number"] / 5
 Interpretation --> [calc value="score=(agesex)+(vascular)+(exercise)+(palpation)+(assume); score>3?'Positive likelihood ratio: 4.52 and Negative likelihood ratio: 0.16':score>1?'Positive likelihood ratio: 1.83 and Negative likelihood ratio: 0.03':'Positive likelihood ratio: 4.52 and Negative likelihood ratio: 0.16'" memo="result"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20603345" target="_blank">Bösner (2010) CMAJ. 182:1298</a>, <a href="http://www.fpnotebook.com/Neuro/Exam/NhStrkScl.htm" target="_blank">FP Notebook page</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 3, 2013; August 18, 2015

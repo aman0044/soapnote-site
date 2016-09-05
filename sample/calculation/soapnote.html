@@ -8,19 +8,47 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">calculation</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="memo exclude">This is a completely meaningless calculator</span><br>favorite color <select name="color"><option value="red=0">red</option><option value="brown=1">brown</option><option value="blue=2">blue</option><option value="green=3">green</option></select><br>favorite movie <select name="movie"><option value="Popeye=0">Popeye</option><option value="Good Morning Vietnam=1">Good Morning Vietnam</option><option value="What Dreams May Come=2">What Dreams May Come</option><option value="The Fisher King=3">The Fisher King</option></select><br>favorite carbohydrate <select name="carb"><option value="lactose intolerant=0">lactose intolerant</option><option value="pasta=1">pasta</option><option value="rice=2">rice</option><option value="potatoes=3">potatoes</option></select><br><span class="calc">score<span class="calc_value">(color)+(movie)+(carb)</span></span><br><span class="calc">score interpretation<span class="calc_value">score=(color)+(movie)+(carb); score>8?'You almost ate enough fiber today':score>4?'You forgot to finish something important today':'You have no time for this'</span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="memo exclude">This is a completely meaningless calculator</span><br>favorite color <select name="color"><option value="red=0">red</option><option value="brown=1">brown</option><option value="blue=2">blue</option><option value="green=3">green</option></select><br>favorite movie <select name="movie"><option value="Popeye=0">Popeye</option><option value="Good Morning Vietnam=1">Good Morning Vietnam</option><option value="What Dreams May Come=2">What Dreams May Come</option><option value="The Fisher King=3">The Fisher King</option></select><br>favorite carbohydrate <select name="carb"><option value="lactose intolerant=0">lactose intolerant</option><option value="pasta=1">pasta</option><option value="rice=2">rice</option><option value="potatoes=3">potatoes</option></select><br><span class="calc">score<span class="calc_value">(color)+(movie)+(carb)</span></span><br><span class="calc">score interpretation<span class="calc_value">score=(color)+(movie)+(carb); score>8?'You almost ate enough fiber today':score>4?'You forgot to finish something important today':'You have no time for this'</span></span><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_315857cda06b271b3" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/calculation.txt" target="_blank">www.soapnote.org/generator/txt/sample/calculation.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
+<script type="text/javascript">
+if (typeof vars == 'undefined') vars = new Array();
+vars[1] = {};
+if (typeof conditions == 'undefined') conditions = new Array();
+conditions[1] = new Array();
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_315857cda06b271b3"});
+jQuery(document).ready(function($) {
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change(function() {
+					if ($(this).attr('type') == 'checkbox') {
+						vars[1][$(this).attr('name')] = new Array();
+						$(this).parents('.checkbox').find(':checked').each(function() {
+							vars[1][$(this).attr('name')].push($(this).val());
+						});
+					}
+					else vars[1][$(this).attr('name')] = $(this).val();
+					$.each(conditions[1], function(index, condition) { 
+						$.each(vars[1], function(index, value) { 
+							condition.logic = condition.logic.replace(new RegExp('\\('+index+'\\)', 'g'), 'vars[1][\''+index+'\']');
+						});
+						
+						try {
+							if (eval(condition.logic) === true) $('#form_1 [name="'+condition.show+'"]').removeClass('hidden');
+							else $('#form_1 [name='+condition.show+']').addClass('hidden');
+							}
+						catch(err) {
+							$('#form_1 [name='+condition.show+']').addClass('hidden');
+						}
+					});
+				});
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change();
+			});
+			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>
 </div>
 </div>

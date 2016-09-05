@@ -15,7 +15,7 @@ Impact: [text size=72 memo=" <-- On my work/social/recreational/quality of life 
 Treatment: [text size=72 memo=" <-- What needs to be done now and in the future for my pain."]
 Goals: [text size=72 memo=" <-- What I expect to achieve with treatment."]
 Involvement: [text size=72 memo=" <-- How involved will I be in my treatment?"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 4, 2013; September 3, 2015

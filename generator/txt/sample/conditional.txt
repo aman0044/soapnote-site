@@ -1,2 +1,4 @@
 Employment type: [radio name="job" value="Full Time|Part Time|Unemployed"]
 [conditional field="job" condition="(job).is('Full Time')||(job).is('Part Time')"]Job title: [text name="job_title"][/conditional]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/conditional.txt" target="_blank">www.soapnote.org/generator/txt/sample/conditional.txt</a>[/html][/conditional]

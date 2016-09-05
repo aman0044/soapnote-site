@@ -40,7 +40,7 @@ Ask individual: “Let’s go back to an earlier question: What were those three
 
 TOTAL SCORE --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)" memo="number"] / 15
 INTERPRETATION --> [calc value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7);score2>12?'Cognitively intact':score2>7?'Moderately impaired':'Severe impairment'" memo="result"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22796362" target="_blank">Saliba D, Buchanan J, Edelen MO, Streim J, Ouslander J, Berlowitz D, Chodosh J. MDS 3.0: brief interview for mental status. J Am Med Dir Assoc. 2012 Sep;13(7):611-7.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  January 16, 2015; August 30, 2015

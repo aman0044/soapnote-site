@@ -25,7 +25,7 @@ Recommendations --> [calc memo="Interpretation" value="score2=(ImpSymp2)+(ImpNA2
 <img src="/generator/txt/respiratory/asthma-steps-adults.jpg" height="500" width="500" />
 Open image in new window <a href="/generator/txt/respiratory/asthma-steps-adults.jpg" target="_blank">here</a>[/html]
 [/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.nhlbi.nih.gov/guidelines/asthma/asthgdln.htm" target="_blank">NAEPP 2007 Guidelines</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20141095" target="_blank">Pollart (2009) Am Fam Physician 79:  761-7.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 25, 2012; September 7, 2015

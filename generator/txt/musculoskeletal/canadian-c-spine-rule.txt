@@ -19,7 +19,7 @@ NOTE:  Range of motion is safely assessed (safe if at least ONE low risk factor 
 [select name="Qfourteen" value="yes=0|NO=10"] <-- Patient is able to actively rotate neck 45 degrees to the left and right
 [/conditional]
 [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Qten)+(Qeleven)+(Qtwelve)+(Qthirteen)+(Qfourteen);score>9?'Canadian C-Spine Rule recommends obtaining X-ray':score>0?'Canadian C-Spine Rule supports not obtaining X-ray':'Canadian C-Spine Rule recommends obtaining X-ray'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:   <a href="http://www.aafp.org/afp/2006/0515/p1787.html" target="_blank">Ebell (2006) Am Fam Phys 73:1787-1788</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 13, 2013; September 2, 2015

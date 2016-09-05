@@ -15,7 +15,7 @@ Past History:
 [select value="no|yes"] asthma
 [select value="current|former|exposure to second hand"] tobacco use
 [select value="no|yes"] occupational exposure to potentially harmful inhalants
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 28, 2010; September 7, 2015

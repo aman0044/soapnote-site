@@ -8,7 +8,7 @@ Plan:  [html]<em>Counseling techniques to move from one stage to the next (no sk
 [checkbox value="Values clarification" memo=" brainstorming, collecting, and prioritizing values, then determining how to achieve success towards those values"] [text]
 [text size=80]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6863699" target="_blank">Prochaska JO, DiClemente CC.J Consult Clin Psychol. 1983 Jun;51(3):390-5. Stages and processes of self-change of smoking: toward an integrative model of change.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 28, 2013; September 7, 2015

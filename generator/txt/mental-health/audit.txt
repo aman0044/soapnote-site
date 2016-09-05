@@ -12,7 +12,7 @@ The Alcohol Use Disorders Identification Test (AUDIT), developed in 1982 by the 
 A total score of 8 or more indicates harmful drinking behavior. 
 Total Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)"]
 Interpretation --> [calc memo="result" value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10);score2>7?'Harmful drinking behavior':'Negative screen'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.who.int" target="_blank">World Health Organization</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 15, 2014; September 7, 2015

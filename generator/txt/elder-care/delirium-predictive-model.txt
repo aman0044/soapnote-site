@@ -6,7 +6,7 @@ Predictive Model for the Risk of Delirium in Hospitalized Older Patients
 
 Score --> [calc memo="number" value="score1=(cog)+(bun)+(ill)+(eye)"] points
 Interpretation --> [calc memo="result" value="score2=(cog)+(bun)+(ill)+(eye);score2>2?'high risk, 80 percent chance of developing delirium':score2>0?'intermediate risk, 25 percent chance of developing delirium':'low risk, 10 percent chance of developing delirium'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17620535" target="_blank">Inouye SK, Zhang Y, Jones RN, Kiely DK, Yang F, Marcantonio ER.  Risk factors for delirium at discharge: development and validation of a predictive model.  Arch Intern Med. 2007 Jul 9;167(13):1406-13.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 9, 2014; August 30, 2015

@@ -1,1 +1,3 @@
 [radio name="job" value="Full Time|Part Time|Unemployed"]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/radio-buttons.txt" target="_blank">www.soapnote.org/generator/txt/sample/radio-buttons.txt</a>[/html][/conditional]

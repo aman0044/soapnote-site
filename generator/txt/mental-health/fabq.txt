@@ -23,7 +23,7 @@ The following statements are about how your normal work affects or would affect 
 [select name="Q16" value="completely disagree (0)=0|(1)=1|(2)=2|unsure (3)=3|(4)=4|(5)=5|completely agree (6)=6"] <-- 16. I do not think that I will ever be able to go back to that work
 Physical Activity Subscale --> [calc memo="FABQPA" value="score=(Q2)+(Q3)+(Q4)+(Q5)"] out of 24 points
 Work Subscale –> [calc memo="FABQW" value="score=(Q6)+(Q7)+(Q9)+(Q10)+(Q11)+(Q12)+(Q14)+(Q15)+(Q16)"] out of 42 points.
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/8455963" target="_blank">Waddell Pain. 1993 Feb;52(2):157-68.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 4, 2013; September 3, 2015

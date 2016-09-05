@@ -8,7 +8,7 @@ Clinical Features:
 [select name="Hemoptysis" value="No (0 points)=0|Yes (1 point)=1"] <-- Hemoptysis?
 [select name="Malignancy" value="No (0 points)=0|Yes (1 point)=1"] <-- Malignancy?
 Score: [calc value="score=(DVT)+(Alternative)+(Rate)+(Immobilization)+(Previous)+(Hemoptysis)+(Malignancy)"] --> [calc value="score=(DVT)+(Alternative)+(Rate)+(Immobilization)+(Previous)+(Hemoptysis)+(Malignancy);score>6?'High Risk - 78.4%':score>1?'Moderate Risk - 27.8%':'Low Risk - 3.4%'" memo="Interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.aafp.org/afp/2004/0615/p2829.html" target="_blank">Ramzi (2004) Am Fam Physician 69:2829-36</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  July 9, 2012; August 31, 2015

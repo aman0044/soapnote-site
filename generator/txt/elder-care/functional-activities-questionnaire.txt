@@ -22,7 +22,7 @@ Never did the activity and would have difficulty now (1 point)=1"] <-- Rememberi
 Never did the activity and would have difficulty now (1 point)=1"] <-- Traveling out of neighborhood, driving, arranging to take buses 
 SCORE --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)"] / 30
 RESULT --> [calc memo="interpretation" value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10);score2>5?'Significant impaired function and possible cognitive impairment are present - further evaluation is recommended':score2>0?'Some impaired function and mild cognitive impairment may be present - further evaluation is recommended':'No impaired function'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/7069156" target="_blank">Pfeffer RI, Kurosaki TT, Harrah CH Jr, Chance JM, Filos S. Measurement of functional activities in older adults in the community. J Gerontol. 1982 May;37(3):323-9.</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20592580" target="_blank">Teng E, Becker BW, Woo E, Knopman DS, Cummings JL, Lu PH. Utility of the Functional Activities Questionnaire for Distinguishing Mild Cognitive Impairment from Very Mild Alzheimer’s Disease. Alzheimer disease and associated disorders 2010;24(4):348-353.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  January 12, 2015; August 30, 2015

@@ -17,7 +17,7 @@ Higher scores indicate independence and high function, while lower scores indica
 Score --> [calc memo="Score" value="(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8a)+(Q8b)+(Q9)"] points*
 
 *Although very high and very low scores are clinically relevant, the trend in scores over time often has more utility than any single score.
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/5349366">Lawton (1969) Gerontologist 9: 179-86</a>, <a href="http://www.aafp.org/afp/2011/0101/p48.html">Elsawy (2011) Am Fam Phys 83: 48-56</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 30, 2013; August 30, 2015

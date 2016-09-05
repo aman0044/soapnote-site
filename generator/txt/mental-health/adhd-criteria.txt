@@ -31,7 +31,7 @@ Additional criteria
 Interpretation
 ADHD - Inattention --> [calc memo="interpretation" value="score=(Q11)+(Q12)+(Q13)+(Q14)+(Q15)+(Q16)+(Q17)+(Q18)+(Q19);score>5?'MEETS CRITERIA':'Does not meet criteria'"]
 ADHD - Hyperactivity/Impulsivity --> [calc memo="interpretation" value="score=(Q21)+(Q22)+(Q23)+(Q24)+(Q25)+(Q26)+(Q27)+(Q28)+(Q29);score>5?'MEETS CRITERIA':'Does not meet criteria'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.fpnotebook.com/peds/neuro/AdhdDgns.htm" target="_blank">FP Notebook</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 13, 2013; September 6, 2015

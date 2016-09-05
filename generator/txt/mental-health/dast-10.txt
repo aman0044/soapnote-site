@@ -21,7 +21,7 @@ These questions refer to the past 12 months.
 Total Score --> [calc memo="number" value="score1=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)"] / 10
 Interpretation -->  [calc memo="result" value="score2=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10);score2>8?'Severe':score2>5?'Substantial':score2>2?'Intermediate':score2>0?'Low':'None'"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  1982 by Harvey A Skinner, PhD and the Centre for Addiction and Mental Health, Toronto, Canada.
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 9, 2014; September 7, 2015

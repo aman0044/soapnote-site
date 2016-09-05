@@ -18,7 +18,7 @@ DIAGNOSIS --> Radiation- or trauma-induced thyroiditis[/conditional][conditional
 [select name="Q8" value="choose below...=-1|No=0|Yes=10000000"] <-- Low TSH and High Thyroglobulin Level[/conditional][conditional field="Q1|Q6|Q7|Q8" condition="(Q1).is('Yes=1')&&(Q6).is('No=0')&&(Q7).is('No=0')&&(Q8).is('No=0')"]
 DIAGNOSIS --> Thyroid hemorrhage[/conditional][conditional field="Q1|Q6|Q7|Q8" condition="(Q1).is('Yes=1')&&(Q6).is('No=0')&&(Q7).is('No=0')&&(Q8).is('Yes=10000000')"]
 DIAGNOSIS --> Subacute thyroiditis[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.aafp.org/afp/2006/0515/p1769.html" target="_blank">Am Fam Physician. 2006 May 15;73(10):1769-1776. </a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  September 23, 2014; August 23, 2015

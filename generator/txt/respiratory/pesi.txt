@@ -15,7 +15,7 @@ Clinical findings
 [select name="Q11" value="90% or more with or without supplemental oxygen (0 points)=0|Less than 90% with and without supplemental oxygen (20 points)=20"] <-- Arterial Oxygen Saturation
 Score --> [calc memo="Score" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)+(Q11)"] points
 Interpretation --> [calc memo="Interpretation" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)+(Q10)+(Q11);score>125?'Class V, very high risk (10.0–24.5% 30-day mortality)':score>105?'Class IV, high risk (4.0–11.4% 30-day mortality)':score>85?'Class III, intermediate risk (3.2–7.1% 30-day mortality)':score>65?'Class II, low risk (1.7–3.5% 30-day mortality)':'Class I, very low risk (0–1.6% 30-day mortality)'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16020800" target="_blank">Aujesky (2005)Am. J. Respir. Crit. Care Med. 172:1041-46</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  July 10, 2012; August 21, 2015

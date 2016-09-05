@@ -1,3 +1,5 @@
 [text memo="A" name="Anumber"]
 [text memo="B" name="Bnumber"]
 [calc value="test=(Math.pow((Anumber),(Bnumber))).toFixed(2)" memo="A raised to the power of B, with a precision of 2 decimal places"]
+[checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+markup link:  <a href="../../generator/txt/sample/exponent.txt" target="_blank">www.soapnote.org/generator/txt/sample/exponent.txt</a>[/html][/conditional]

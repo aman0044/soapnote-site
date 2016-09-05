@@ -10,10 +10,12 @@ echo '<li data-type="calc"><a href="/mental-health/asrs-adhd/">ADHD: Adult Self-
 <li data-type="note"><a href="/mental-health/depression-plan/">Depression Assessment/Plan</a></li>
 <li data-type="calc"><a href="/elder-care/mini-cog-screen-for-dementia/">Dementia - Mini Cog Screen</a></li>
 <li data-type="calc"><a href="/mental-health/patient-health-questionnaire-phq-9-calculator/">Depression - Patient Health Questionnaire (PHQ 9) Calculator</a></li>
+<li data-type="calc"><a href="/mental-health/gujarati-phq-9/">Depression - Patient Health Questionnaire (PHQ 9) Calculator (Gujarati Version)</a></li>
 <li data-type="calc"><a href="/mental-health/dast-10/">Drug Use Questionnaire – (DAST – 10)</a></li>
 <li data-type="calc"><a href="/mental-health/fabq/">Fear Avoidance Beliefs Questionnaire</a></li>
 <li data-type="calc"><a href="/mental-health/generalized-anxiety-disorder-gad-7/">Generalized Anxiety Disorder GAD 7 Calculator</a></li>
 <li data-type="calc"><a href="/elder-care/geriatric-depression-scale/">Geriatric Depression Scale</a></li>
+<li data-type="calc"><a href="/mental-health/hope-checklist/">Hope Checklist</a></li>
 <li data-type="calc"><a href="/mental-health/insomnia-treatment-checklist/">Insomnia Treatment Checklist</a></li>
 <li data-type="calc"><a href="/mental-health/life-events-checklist/">Life Events Checklist</a></li>
 <li data-type="calc"><a href="/elder-care/bims/">Mental Status - Brief Interview for Mental Status (BIMS)</a></li>

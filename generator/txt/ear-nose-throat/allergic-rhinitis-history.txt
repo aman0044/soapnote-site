@@ -24,7 +24,7 @@ Past History
 [select value="no|YES"] <-- asthma
 [select value="no|YES"] <-- eczema
 [textarea]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  February 16, 2014; September 6, 2015

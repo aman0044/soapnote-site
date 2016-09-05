@@ -8,16 +8,12 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">conditional-comparison</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<input type="text" class="date date_today" value="" size="10" name="date_5610a36e42b96" /><br><input type="text" value="" size="15" name="field1" /><br><input type="text" value="" size="15" name="field2" /><br><span name="conditional_5610a36e42a29" class="hidden">hidden text</span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<input type="text" class="date date_today" value="" size="10" name="date_57cda095aaea5" /><br><input type="text" value="" size="15" name="field1" /><br><input type="text" value="" size="15" name="field2" /><br><span name="conditional_207357cda095aaf50" class="hidden">hidden text</span><br><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_296457cda095ab001" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/conditional-comparison.txt" target="_blank">www.soapnote.org/generator/txt/sample/conditional-comparison.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
@@ -26,9 +22,10 @@ if (typeof vars == 'undefined') vars = new Array();
 vars[1] = {};
 if (typeof conditions == 'undefined') conditions = new Array();
 conditions[1] = new Array();
-conditions[1].push({logic:"(field1).isGreater(5)&&(field2).isNot(5)", show:"conditional_5610a36e42a29"});
+conditions[1].push({logic:"(field1).isGreater(5)&&(field2).isNot(5)", show:"conditional_207357cda095aaf50"});
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_296457cda095ab001"});
 jQuery(document).ready(function($) {
-				$('#form_1').find('input[name="field1"], select[name="field1"], input[name="field2"], select[name="field2"]').change(function() {
+				$('#form_1').find('input[name="field1"], select[name="field1"], input[name="field2"], select[name="field2"], input[name="footnotes"], select[name="footnotes"]').change(function() {
 					if ($(this).attr('type') == 'checkbox') {
 						vars[1][$(this).attr('name')] = new Array();
 						$(this).parents('.checkbox').find(':checked').each(function() {
@@ -50,7 +47,7 @@ jQuery(document).ready(function($) {
 						}
 					});
 				});
-				$('#form_1').find('input[name="field1"], select[name="field1"], input[name="field2"], select[name="field2"]').change();
+				$('#form_1').find('input[name="field1"], select[name="field1"], input[name="field2"], select[name="field2"], input[name="footnotes"], select[name="footnotes"]').change();
 			});
 			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>

@@ -292,7 +292,7 @@ dose (mL).. dose (mg).. weight (kg)........ weight (lb)
 15 mL.......160 mg......30 - 34.9 kg........66 - 76.9 lb
 17.5 mL.....180 mg......35 - 39.9 kg........77 - 87.9 lb
 20 mL.......200 mg......40+ kg..............88+ lb[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="https://dailymed.nlm.nih.gov/dailymed/" target="_blank">DailyMed</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 22, 2016, August 26, 2016

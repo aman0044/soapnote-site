@@ -8,16 +8,12 @@
     <script type="text/javascript" src="../../lib/jquery-ui.min.js"></script>
     </head>
     <body>
-
         <div id="container" class="embed_client">
-                <!-- <h1 class="entry-title">footnotes</h1> -->
                 <div class="form-view-content ">
                         <form id="form_1" method="get" autocomplete="off">
-<span class="exclude"><hr></span><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide footnotes</span><span name="conditional_5610a3e1bd975" class="hidden"><span class="exclude"><br>reference:  <a href="***" target="_blank">***</a><br>posted by:  Mark Morgan, M.D.<br>post/review dates:  August 1, 2016<br>revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/*dir*/soapnote.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/*dir*/soapnote.txt</a><br>markup link:  <a href="../../generator/txt/*dir*/soapnote.html" target="_blank">www.soapnote.org/generator/txt/*dir*/soapnote.html</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
+<span class="exclude"><hr></span><span class="checkbox" name="footnotes"> <label><input type="checkbox" name="footnotes" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_757457cda18a038c0" class="hidden"><span class="exclude"><br>reference:  <a href="***" target="_blank">***</a><br>posted by:  Mark Morgan, M.D.<br>post/review dates:  #DATETIME MMMM d, yyyy#<br>revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/*dir*/#BASENAME#.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/*dir*/#BASENAME#.txt</a><br>markup link:  <a href="../../generator/txt/*dir*/#FILENAME#" target="_blank">www.soapnote.org/generator/txt/*dir*/#FILENAME#</a></span></span><br><span class="checkbox" name="footnote"> <label><input type="checkbox" name="footnote" value="" /> </label></span><span class="memo exclude">display/hide references & code</span><span name="conditional_818157cda18a0398f" class="hidden"><span class="exclude"><br>markup link:  <a href="../../generator/txt/sample/footnotes.txt" target="_blank">www.soapnote.org/generator/txt/sample/footnotes.txt</a></span></span><input type="button" class="soapnote_submit exclude" value="Submit"/>
 <div class="soapnote_result_container exclude">
 Result - Copy or Print this text:
-<!-- it doesn't really copy (except chrome) and print isn't really needed
--->
 <textarea class="soapnote_result exclude" cols="80" rows="12" onclick="this.focus();this.select();" readonly="readonly"></textarea>
 </div>
 </form>
@@ -26,9 +22,10 @@ if (typeof vars == 'undefined') vars = new Array();
 vars[1] = {};
 if (typeof conditions == 'undefined') conditions = new Array();
 conditions[1] = new Array();
-conditions[1].push({logic:"(footnotes).is('')", show:"conditional_5610a3e1bd975"});
+conditions[1].push({logic:"(footnotes).is('')", show:"conditional_757457cda18a038c0"});
+conditions[1].push({logic:"(footnote).is('')", show:"conditional_818157cda18a0398f"});
 jQuery(document).ready(function($) {
-				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change(function() {
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"], input[name="footnote"], select[name="footnote"]').change(function() {
 					if ($(this).attr('type') == 'checkbox') {
 						vars[1][$(this).attr('name')] = new Array();
 						$(this).parents('.checkbox').find(':checked').each(function() {
@@ -50,7 +47,7 @@ jQuery(document).ready(function($) {
 						}
 					});
 				});
-				$('#form_1').find('input[name="footnotes"], select[name="footnotes"]').change();
+				$('#form_1').find('input[name="footnotes"], select[name="footnotes"], input[name="footnote"], select[name="footnote"]').change();
 			});
 			</script>
 <script type="text/javascript" src="../../lib/form.js"></script>

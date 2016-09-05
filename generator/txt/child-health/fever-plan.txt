@@ -1,6 +1,6 @@
 [html]Fever Assessment/Plan
 [/html][textarea columns=80 rows=25 default="Assessment: Fever&#13;&#10;Plan:&#13;&#10;Observe for localizing symptoms and follow-up if these occur. Increase fluids. Treat fever with ***acetaminophen/ibuprofen/nothing at this time***. I have recommended follow-up if the fever is not responsive to treatment."]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 1, 2010; September 7, 2015

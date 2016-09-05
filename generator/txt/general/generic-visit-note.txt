@@ -57,7 +57,7 @@ Assessment and Plan
 [textarea cols=80 rows=2 default="#2 Problem"]
 [textarea cols=80 rows=2 default="#3 Problem"]
 [textarea cols=80 rows=2 default="#4+ Problem"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference: LeBlond R, Brown D, DeGowin R. DeGowin's Diagnostic Examination, 9e. New York. McGraw Hill; 2009
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 22, 2016

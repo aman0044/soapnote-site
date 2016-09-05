@@ -6,7 +6,7 @@ Modified Centor Score
 [select name="Q5Age" value="< 15 years (1 point)=1|15 to 45 years (0 points)=0|> 45 years (-1 point)=-1"] <-- Age
 Score --> [calc value="score=(Q1Fever)+(Q2Cough)+(Q3Nodes)+(Q4Tonsil)+(Q5Age)" memo="score"]
 Interpretation -->  Risk of group A beta-hemolytic streptococcus is [calc value="score=(Q1Fever)+(Q2Cough)+(Q3Nodes)+(Q4Tonsil)+(Q5Age);score>3?'51 to 53%, consider empiric antibiotic treatment.':score>2?'28 to 35%, perform throat culture or rapid antigen detection testing and treat accordingly.':score>1?'11 to 17%, perform throat culture or rapid antigen detection testing and treat accordingly.':score>0?'5 to 10%, may forgo antibiotics OR may perform throat culture or rapid antigen detection testing and treat accordingly.':'1 to 2.5%, antibiotic treatment or further testing is not warranted.'" memo="Risk and Recommendation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11033707">Centor criteria for pharyngitis</a>, AAFP article <a href="http://www.aafp.org/afp/2009/0301/p383.html">Choby (2009) Am Fam Physician 79:383-390</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  August 12, 2011; September 6, 2015

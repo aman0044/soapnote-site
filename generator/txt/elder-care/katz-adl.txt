@@ -8,7 +8,7 @@ Transferring --> [select name="Q4" value="Moves in and out of bed or chair unass
 Fecal and urinary continence --> [select name="Q5" value="Exercises complete self-control over urination and defecation (1 point).  =1|Is partially or totally incontinent of bowel or bladder (0 points).  =0"]
 Feeding --> [select name="Q6" value="Gets food from plate into mouth without help; preparation of food may be done by another person (1 point).  =1|Needs partial or total help with feeding or requires parenteral feeding (0 points).  =0"]
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)" memo="score"] out of 6 points.  Interpretation --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6);score>5?'High Independence':score>0?'Intermediate Independence':'Low Independence'" memo="interpretation"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/5420677">Katz (1970) Gerontology 10: 20-30</a>, AAFP Geriatric assessment article: <a href="http://www.aafp.org/afp/2011/0101/p48.html">Elsawy (2011) Am Fam Phys 83: 48-56</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  June 24, 2011; August 30, 2015

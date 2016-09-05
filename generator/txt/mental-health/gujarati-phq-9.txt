@@ -14,7 +14,7 @@
 Score --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+(Q9)" memo="score"] out of 27 points.  
 Interpretation --> [calc value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8)+ (Q9);score>20?'Severe':score>14?'Moderately Severe':score>9?'Mild':score>4?'Minimal Symptoms':'Asymptomatic'" memo="interpretation"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 references:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11556941" target="_blank">Kroenke (2001) J Gen Intern Med 16:606-13.</a> Drs. Robert L. Spitzer, Janet B.W. Williams, Kurt Kroenke અને સહયોિગયો  વારા Pfizer Inc થી શૈ િણક અનુદાન ની સહાયતા થી િવકિસત । અનુવાદ,  િતિલપી તૈયાર કરવા,  કાિશત અથવા િવતરણ કરવા અનુમિતની આવ યકતા નથી।
 posted by:  Mark Morgan, M.D.
 post/review dates:  May 20, 2016

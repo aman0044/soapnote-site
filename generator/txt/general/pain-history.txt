@@ -7,7 +7,7 @@
 [select name="FLACC4" value="No cry - awake or asleep (0 points)=0|Moans or whimpers; occasional complaint (1 point)=1|Crying steadily, screams or sobs, frequent complaints (2 points)=2"] <-- Cry
 [select name="FLACC5" value="Content, relaxed (0 points)=0|Reassured by occasional touching, hugging or being talked to, distractible (1 point)=1|Difficult to console or comfort (2 points)=2"] <-- Consolability
 [calc memo="score" value="(FLACC1)+(FLACC2)+(FLACC3)+(FLACC4)+(FLACC5)"] out of 10[/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="https://en.wikipedia.org/wiki/FLACC_scale" target="_blank">FLACC Scale</a>, <a href="http://wongbakerfaces.org" target="_blank">FACES Scale Site</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 11, 2010; August 29, 2015

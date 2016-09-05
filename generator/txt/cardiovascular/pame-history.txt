@@ -19,7 +19,7 @@ http://www.fpnotebook.com/cv/ID/SbPrphylxs.htm
 Other significant past medical history includes: ***none/cardiac disease/COPD/asthma/renal disease***
 PAME ORIENTED SURGICAL HISTORY
 Prior surgical procedures include: ***none/specify***
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  April 12, 2010; August 29, 2015

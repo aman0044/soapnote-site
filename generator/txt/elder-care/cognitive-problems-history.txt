@@ -10,7 +10,7 @@ Details --> [textarea][/conditional]
 
 [select name="Q4" value="no|YES"] <-- Changes in attention/executive function (easily distracted, new difficulties preparing meals or using household appliances, new difficulty writing checks, new safety concerns from family members?)[conditional field="Q4" condition="(Q4).is('YES')"]
 Details --> [textarea][/conditional]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  none
 posted by:  Mark Morgan, M.D.
 post/review dates:  January 12, 2014; August 30, 2015

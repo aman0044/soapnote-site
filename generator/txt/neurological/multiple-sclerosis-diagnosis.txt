@@ -17,7 +17,7 @@ MRI result [conditional field="Q7|Q8" condition="(Q7).is('two or more=10')&&(Q8)
 [select name="Q9" value="negative=0|dissemination in time on MRI=1000|dissemination in space on MRI=2000|dissemination in space and time on MRI=3000"]
 
 Interpretation --> [calc memo="result" value="score=(Q1)+(Q2)+(Q3)+(Q4)+(Q5)+(Q6)+(Q7)+(Q8);score>3110?'MS diagnosis confirmed':score>3109?'MS diagnosis uncertain':score>3100?'MS diagnosis confirmed':score>3099?'MS diagnosis uncertain':score>3010?'MS diagnosis confirmed':score>3009?'MS diagnosis uncertain':score>3000?'MS diagnosis confirmed':score>2999?'MS diagnosis uncertain':score>2110?'MS diagnosis confirmed':score>2099?'MS diagnosis uncertain':score>2010?'MS diagnosis confirmed':score>1999?'MS diagnosis uncertain':score>1110?'MS diagnosis confirmed':score>1109?'MS diagnosis uncertain':score>1100?'MS diagnosis confirmed':score>999?'MS diagnosis uncertain':score>110?'MS diagnosis confirmed':'MS diagnosis uncertain'"]
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25368924" target="_blank">Saguil A, Kane S, Farnell E. Am Fam Physician. 2014 Nov 1;90(9):644-52. Multiple sclerosis: a primary care perspective.</a>
 posted by:  Mark Morgan, M.D.
 post/review dates:  January 2, 2015; September 4, 2015

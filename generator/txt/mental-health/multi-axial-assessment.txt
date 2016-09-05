@@ -20,7 +20,7 @@ Current GAF
 Highest GAF in the last year
 [select name="Q2" value="91-100: Higher level functioning in broad range of activities with good and control of typical life stressors|81-90: Other than mild psychiatric symptoms for common triggers, good level of functioning|71-80: Mild psychiatric symptoms with triggers and mild impact on functioning|61-70: Mild psychiatric symptoms with impact on functioning, but overall functioning is good and relationships are maintained|51-60: Moderate psychiatric symptoms with moderate impact on functioning|41-50: Serious symptoms and impaired functioning|31-40: Impaired reality and major Impairment|21-30: Delusions, hallucinations, or serious Impairment|11-20: Danger to self or others|1-10: Persistent danger to self or others"]
 
-[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+[html]<hr>[/html][checkbox memo="display/hide references & code" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
 reference:  <a href="http://psychiatryonline.org/" target="_blank">Diagnostic and Statistical Manual of Mental Disorders</a>.
 posted by:  Mark Morgan, M.D.
 post/review dates:  March 14, 2012; September 7, 2015
