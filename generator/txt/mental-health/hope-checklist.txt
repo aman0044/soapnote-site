@@ -1,6 +1,6 @@
 Hope Checklist[html]
 QUOTE: Just as despair can come to one only from other human beings, hope, too, can be given to one only by other human beings.  -Elie Wiesel
-INSTRUCTIONS: Respect the tragedy of lost hope and work to rebuild.  Use this checklist to help the patient find their sources of hope, comfort, and peace.[/html]
+INSTRUCTIONS: Respect the tragedy of lost hope and work to rebuild it.  Use this checklist to help the patient find their sources of hope, comfort, and peace.[/html]
 [select name="Q1" value="No|Yes"] <-- Do you have spiritual or cultural beliefs that help you?[conditional field="Q1" condition="(Q1).is('Yes')"]
 [text default="details..."][/conditional]
 [select name="Q2" value="No|Yes"] <-- Do you have children?[conditional field="Q2" condition="(Q2).is('Yes')"]
