@@ -1,0 +1,36 @@
+Hope Checklist.  [html]
+QUOTE: Just as despair can come to one only from other human beings, hope, too, can be given to one only by other human beings.  -Elie Wiesel
+INSTRUCTION: Respect the tragedy of lost hope and work to rebuild it.  Use this checklist to help the patient where they can find hope.[/html]
+[select name="Q1" value="No|Yes"] <-- Do you have spiritual or cultural beliefs that help you?[conditional field="Q1" condition="(Q1).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q2" value="No|Yes"] <-- Do you have children?[conditional field="Q2" condition="(Q2).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q3" value="No|Yes"] <-- Do you have other family members that you support?[conditional field="Q3" condition="(Q3).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q4" value="No|Yes"] <-- Do you have family members that support you?[conditional field="Q4" condition="(Q4).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q5" value="No|Yes"] <-- Do you have pets?[conditional field="Q1" condition="(Q5).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q6" value="No|Yes"] <-- Do you have a supportive friend or group of friends?[conditional field="Q6" condition="(Q6).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q7" value="No|Yes"] <-- Do you have a job or vocation that is fulfilling?[conditional field="Q7" condition="(Q7).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q8" value="No|Yes"] <-- Do you have a hobby or other activities that you enjoy?[conditional field="Q8" condition="(Q8).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q9" value="No|Yes"] <-- Are there any activities that want to do in the future?[conditional field="Q9" condition="(Q9).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q10" value="No|Yes"] <-- Are there any places you want to see in the future?[conditional field="Q10" condition="(Q10).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q11" value="No|Yes"] <-- Are there any experiences you want to have in the future?  (sites you'd like to see, tastes you'd like to taste, music you'd like to hear) [conditional field="Q11" condition="(Q11).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q12" value="No|Yes"] <-- Do you have any positive memories that give you comfort?[conditional field="Q12" condition="(Q12).is('Yes')"]
+[text default="details..."][/conditional]
+[select name="Q13" value="No|Yes"] <-- Are there other things that give you hope, strength, comfort, or peace?[conditional field="Q13" condition="(Q13).is('Yes')"]
+[text default="details..."][/conditional]
+[html]<hr>[/html][checkbox memo="display/hide footnotes" name="footnotes" value=""][conditional field="footnotes" condition="(footnotes).is('')"][html]
+reference:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23062046" target="_blank">Saguil, A., & Phelps, K. (2012). The spiritual assessment. American family physician, 86(6). </a>
+posted by:  Mark Morgan, M.D.
+post/review dates:  September 5, 2016
+http://www.soapnote.org/mental-health/
+revision history: <a href="https://github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/hope-checklist.txt" target="_blank">www.github.com/soapnote/SOAPnote-site/tree/master/generator/txt/mental-health/hope-checklist.txt</a>
+markup link:  <a href="../../generator/txt/mental-health/hope-checklist.txt" target="_blank">www.soapnote.org/generator/txt/mental-health/hope-checklist.txt</a>[/html][/conditional]
