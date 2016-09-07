@@ -28,8 +28,8 @@ include('../lib/generator-header.php');
 				<div class="panel-heading">
 					<button id="open_btn" class="btn btn-primary">Open File</button>
 					<button id= "archive_btn" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Archived Files</button>
-					<button id="save_btn" class="btn btn-primary">Save file</button>
-					<button id="download_txt_btn" class="btn btn-primary" style="display:none">Download txt file</button>
+					<button id="save_btn" class="btn btn-primary">Save File</button>
+					<button id="download_txt_btn" class="btn btn-primary" style="display:none">Download TXT File</button>
 				</div>
 				<!-- Modal -->
 				<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
