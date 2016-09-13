@@ -24,5 +24,5 @@
 	<?php include '../lib/menu-structure/cat-endocrine-metabolic.php';?>
 </ul></div>
 <?php 
- include('../lib/front-footer.php');
+ include('../lib/main-footer.php');
 ?>
