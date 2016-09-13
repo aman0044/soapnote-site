@@ -174,5 +174,5 @@
 </ul>
 </div>
 <?php 
- include('../lib/front-footer.php');
+ include('../lib/main-footer.php');
 ?>
